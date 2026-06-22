@@ -1,9 +1,0 @@
-family,model_display_name,params_count,latency_ms_mean,latency_ms_p95,training_walltime_s,hardware
-cnn_attention,Attention-CNN,156569.0,6.6236010000284296,6.998610001755878,0.0,CPU:/physical_device:CPU:0
-cnn,CNN,3729489.0,15.023668000001749,18.84469499999,0.0,CPU:/physical_device:CPU:0
-cnn_focus_hybrid,CNN--focus hybrid,102161.0,,,0.0,CPU:/physical_device:CPU:0
-transfer,Transfer learning,3360193.0,9.370590001926756,9.8054200047045,0.0,CPU:/physical_device:CPU:0
-hybrid_vit,Hybrid ViT,2390145.0,48.744032999675255,111.01107498834592,0.0,CPU:/physical_device:CPU:0
-focus_dnn,Focus-DNN,33793.0,,,0.0,CPU:/physical_device:CPU:0
-classical_ml,Classical ML,,,,,CPU:/physical_device:CPU:0
-vit,ViT,462721.0,42.262785000001486,48.68990499999768,0.0,CPU:/physical_device:CPU:0
