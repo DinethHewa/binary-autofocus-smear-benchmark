@@ -1,0 +1,9 @@
+{
+  "command": "D:\\Dineth\\myenv\\Scripts\\python.exe -u D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\scripts\\lodo_eval.py --families cnn --manifest data/manifest_with_splits.csv --runs-dir runs --out-dir D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\loso\\training_outputs --heldout bma --seeds 42",
+  "ended_at": "2026-05-28T10:38:22.148842+00:00",
+  "label": "cnn holdout BMA (train_missing)",
+  "log_path": "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\logs\\jobs\\loso_cnn_holdout_BMA.log",
+  "return_code": 0,
+  "started_at": "2026-05-28T09:26:37.180997+00:00",
+  "status": "complete"
+}

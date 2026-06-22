@@ -1,0 +1,9 @@
+{
+  "command": "D:\\Dineth\\myenv\\Scripts\\python.exe -u D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\scripts\\lodo_eval.py --families transfer --manifest data/manifest_with_splits.csv --runs-dir runs --out-dir D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\loso\\training_outputs --heldout TBSI --seeds 42",
+  "ended_at": "2026-05-28T14:16:00.716636+00:00",
+  "label": "transfer holdout TBSI (train_missing)",
+  "log_path": "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\logs\\jobs\\loso_transfer_holdout_TBSI.log",
+  "return_code": 0,
+  "started_at": "2026-05-28T14:02:35.933842+00:00",
+  "status": "complete"
+}
