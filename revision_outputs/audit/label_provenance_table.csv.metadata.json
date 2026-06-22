@@ -1,0 +1,21 @@
+{
+  "command_line_arguments": {
+    "config": "configs\\bspc_revision.yaml",
+    "force": false
+  },
+  "config_hash": "e414c43db31981657a311634cbf903536800794efc78e9ff3de1ff612b5e6a41",
+  "git_commit_hash": null,
+  "input_file_modification_times": {
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\configs\\bspc_revision.yaml": 1779182882.0396366,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\data\\manifest_with_splits.csv": 1766414608.3382845,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\data\\splits_meta.json": 1766414608.3392918
+  },
+  "input_files": [
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\configs\\bspc_revision.yaml",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\data\\manifest_with_splits.csv",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\data\\splits_meta.json"
+  ],
+  "script_name": "02_label_provenance_audit.py",
+  "soft_label_possible": "False",
+  "timestamp": "2026-05-19T09:43:50.030511+00:00"
+}

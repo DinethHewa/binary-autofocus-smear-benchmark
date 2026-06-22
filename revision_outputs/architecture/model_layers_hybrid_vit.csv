@@ -1,0 +1,18 @@
+layer_index,layer_name,layer_type,output_shape,parameter_count,trainable
+0,input_layer_115,InputLayer,"(None, 224, 224, 3)",0,True
+1,mobilenetv2_1.00_224,Functional,"(None, 7, 7, 1280)",2257984,False
+2,conv2d_144,Conv2D,"(None, 7, 7, 64)",81984,True
+3,reshape_72,Reshape,"(None, 49, 64)",0,True
+4,layer_normalization_420,LayerNormalization,"(None, 49, 64)",128,True
+5,multi_head_attention_174,MultiHeadAttention,"(None, 49, 64)",16640,True
+6,dropout_466,Dropout,"(None, 49, 64)",0,True
+7,add_348,Add,"(None, 49, 64)",0,True
+8,layer_normalization_421,LayerNormalization,"(None, 49, 64)",128,True
+9,dense_420,Dense,"(None, 49, 256)",16640,True
+10,dropout_467,Dropout,"(None, 49, 256)",0,True
+11,dense_421,Dense,"(None, 49, 64)",16448,True
+12,add_349,Add,"(None, 49, 64)",0,True
+13,layer_normalization_422,LayerNormalization,"(None, 49, 64)",128,True
+14,global_average_pooling1d_72,GlobalAveragePooling1D,"(None, 64)",0,True
+15,dropout_468,Dropout,"(None, 64)",0,True
+16,dense_422,Dense,"(None, 1)",65,True

@@ -1,0 +1,25 @@
+layer_index,layer_name,layer_type,output_shape,parameter_count,trainable
+0,input_layer_8,InputLayer,"(None, 224, 224, 3)",0,True
+1,conv2d_26,Conv2D,"(None, 224, 224, 48)",1296,True
+2,batch_normalization_22,BatchNormalization,"(None, 224, 224, 48)",192,True
+3,re_lu_26,ReLU,"(None, 224, 224, 48)",0,True
+4,max_pooling2d_26,MaxPooling2D,"(None, 112, 112, 48)",0,True
+5,conv2d_27,Conv2D,"(None, 112, 112, 96)",41472,True
+6,batch_normalization_23,BatchNormalization,"(None, 112, 112, 96)",384,True
+7,re_lu_27,ReLU,"(None, 112, 112, 96)",0,True
+8,max_pooling2d_27,MaxPooling2D,"(None, 56, 56, 96)",0,True
+9,conv2d_28,Conv2D,"(None, 56, 56, 192)",165888,True
+10,batch_normalization_24,BatchNormalization,"(None, 56, 56, 192)",768,True
+11,re_lu_28,ReLU,"(None, 56, 56, 192)",0,True
+12,max_pooling2d_28,MaxPooling2D,"(None, 28, 28, 192)",0,True
+13,conv2d_29,Conv2D,"(None, 28, 28, 384)",663552,True
+14,batch_normalization_25,BatchNormalization,"(None, 28, 28, 384)",1536,True
+15,re_lu_29,ReLU,"(None, 28, 28, 384)",0,True
+16,max_pooling2d_29,MaxPooling2D,"(None, 14, 14, 384)",0,True
+17,conv2d_30,Conv2D,"(None, 14, 14, 768)",2654208,True
+18,batch_normalization_26,BatchNormalization,"(None, 14, 14, 768)",3072,True
+19,re_lu_30,ReLU,"(None, 14, 14, 768)",0,True
+20,max_pooling2d_30,MaxPooling2D,"(None, 7, 7, 768)",0,True
+21,global_average_pooling2d_8,GlobalAveragePooling2D,"(None, 768)",0,True
+22,dense_15,Dense,"(None, 256)",196864,True
+23,dense_16,Dense,"(None, 1)",257,True

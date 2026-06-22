@@ -1,0 +1,6 @@
+layer_index,layer_name,layer_type,output_shape,parameter_count,trainable
+0,focus_vector,InputLayer,"(None, 4)",0,True
+1,dense_183,Dense,"(None, 128)",640,True
+2,dense_184,Dense,"(None, 128)",16512,True
+3,dense_185,Dense,"(None, 128)",16512,True
+4,dense_186,Dense,"(None, 1)",129,True

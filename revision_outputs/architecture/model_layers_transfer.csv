@@ -1,0 +1,8 @@
+layer_index,layer_name,layer_type,output_shape,parameter_count,trainable
+0,input_layer_53,InputLayer,"(None, 224, 224, 3)",0,True
+1,mobilenet_1.00_224,Functional,"(None, 7, 7, 1024)",3228864,True
+2,global_average_pooling2d_17,GlobalAveragePooling2D,"(None, 1024)",0,True
+3,dropout_30,Dropout,"(None, 1024)",0,True
+4,dense_38,Dense,"(None, 128)",131200,True
+5,dropout_31,Dropout,"(None, 128)",0,True
+6,dense_39,Dense,"(None, 1)",129,True

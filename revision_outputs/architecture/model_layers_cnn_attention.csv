@@ -1,0 +1,17 @@
+layer_index,layer_name,layer_type,output_shape,parameter_count,trainable
+0,input_layer_1,InputLayer,"(None, 224, 224, 3)",0,True
+1,conv2d_4,Conv2D,"(None, 224, 224, 40)",1080,True
+2,batch_normalization_4,BatchNormalization,"(None, 224, 224, 40)",160,True
+3,re_lu_4,ReLU,"(None, 224, 224, 40)",0,True
+4,max_pooling2d_4,MaxPooling2D,"(None, 112, 112, 40)",0,True
+5,conv2d_5,Conv2D,"(None, 112, 112, 80)",28800,True
+6,batch_normalization_5,BatchNormalization,"(None, 112, 112, 80)",320,True
+7,re_lu_5,ReLU,"(None, 112, 112, 80)",0,True
+8,max_pooling2d_5,MaxPooling2D,"(None, 56, 56, 80)",0,True
+9,conv2d_6,Conv2D,"(None, 56, 56, 160)",115200,True
+10,batch_normalization_6,BatchNormalization,"(None, 56, 56, 160)",640,True
+11,re_lu_6,ReLU,"(None, 56, 56, 160)",0,True
+12,max_pooling2d_6,MaxPooling2D,"(None, 28, 28, 160)",0,True
+13,global_average_pooling2d_1,GlobalAveragePooling2D,"(None, 160)",0,True
+14,dense_2,Dense,"(None, 64)",10304,True
+15,dense_3,Dense,"(None, 1)",65,True

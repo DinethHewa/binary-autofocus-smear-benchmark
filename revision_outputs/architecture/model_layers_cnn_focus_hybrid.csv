@@ -1,0 +1,25 @@
+layer_index,layer_name,layer_type,output_shape,parameter_count,trainable
+0,image,InputLayer,"(None, 224, 224, 3)",0,True
+1,conv2d_43,Conv2D,"(None, 224, 224, 16)",432,True
+2,batch_normalization_43,BatchNormalization,"(None, 224, 224, 16)",64,True
+3,re_lu_43,ReLU,"(None, 224, 224, 16)",0,True
+4,max_pooling2d_43,MaxPooling2D,"(None, 112, 112, 16)",0,True
+5,dropout_115,Dropout,"(None, 112, 112, 16)",0,True
+6,conv2d_44,Conv2D,"(None, 112, 112, 32)",4608,True
+7,batch_normalization_44,BatchNormalization,"(None, 112, 112, 32)",128,True
+8,re_lu_44,ReLU,"(None, 112, 112, 32)",0,True
+9,max_pooling2d_44,MaxPooling2D,"(None, 56, 56, 32)",0,True
+10,dropout_116,Dropout,"(None, 56, 56, 32)",0,True
+11,conv2d_45,Conv2D,"(None, 56, 56, 64)",18432,True
+12,batch_normalization_45,BatchNormalization,"(None, 56, 56, 64)",256,True
+13,re_lu_45,ReLU,"(None, 56, 56, 64)",0,True
+14,max_pooling2d_45,MaxPooling2D,"(None, 28, 28, 64)",0,True
+15,focus_vector,InputLayer,"(None, 4)",0,True
+16,dropout_117,Dropout,"(None, 28, 28, 64)",0,True
+17,dense_157,Dense,"(None, 96)",480,True
+18,custom_cnn_gap,GlobalAveragePooling2D,"(None, 64)",0,True
+19,dropout_118,Dropout,"(None, 96)",0,True
+20,concatenate_41,Concatenate,"(None, 160)",0,True
+21,dense_158,Dense,"(None, 480)",77280,True
+22,dropout_119,Dropout,"(None, 480)",0,True
+23,dense_159,Dense,"(None, 1)",481,True
