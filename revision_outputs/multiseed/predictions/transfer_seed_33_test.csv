@@ -1,0 +1,726 @@
+seed,image_path,y_true,y_prob,dataset,model_code_name,model_display_name,split
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos000_1\pos000_1_page_8.png,1,0.975342869758606,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos001_1\pos001_1_page_2.png,1,0.7810359001159668,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos002_1\pos002_1_page_2.png,1,0.9524691104888916,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos007_3\pos007_3_page_10.png,1,0.9584755301475524,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos008_3\pos008_3_page_6.png,1,0.91404527425766,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_1.png,0,0.0765354931354522,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_10.png,0,0.8454529047012329,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_11.png,0,0.6678893566131592,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_12.png,0,0.4267365634441376,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_13.png,0,0.228799968957901,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_14.png,0,0.137527048587799,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_2.png,0,0.1252998113632202,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_3.png,0,0.1695423126220703,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_4.png,0,0.2546682059764862,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_5.png,0,0.4803679287433624,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_6.png,0,0.729649543762207,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_1.png,0,0.0845486968755722,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_10.png,0,0.1444120407104492,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_11.png,0,0.1208244785666465,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_12.png,0,0.097136840224266,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_13.png,0,0.076030321419239,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_4.png,0,0.747704803943634,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_5.png,0,0.6892467737197876,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_6.png,0,0.5977151989936829,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_7.png,0,0.3917692899703979,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_8.png,0,0.243958368897438,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_9.png,0,0.1631916910409927,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_1.png,0,0.0064602843485772,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_10.png,0,0.0716567635536193,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_11.png,0,0.0366926155984401,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_12.png,0,0.0220859926193952,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_13.png,0,0.0142178675159811,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_4.png,0,0.9252737760543824,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_5.png,0,0.8758857846260071,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_6.png,0,0.7187914848327637,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_7.png,0,0.5230222940444946,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_8.png,0,0.2688982784748077,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_9.png,0,0.1102771535515785,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_12.png,0,0.6084892749786377,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_13.png,0,0.29826220870018,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_14.png,0,0.1203907653689384,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_2.png,0,0.0374313928186893,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_3.png,0,0.051443912088871,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_4.png,0,0.0950158685445785,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_5.png,0,0.166282519698143,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_6.png,0,0.3332682251930237,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_7.png,0,0.6575135588645935,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_8.png,0,0.8800591230392456,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_9.png,0,0.9655106663703918,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_1.png,0,0.0152556700631976,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_10.png,0,0.2303161770105362,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_11.png,0,0.1048724800348281,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_12.png,0,0.0480023957788944,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_13.png,0,0.0273186434060335,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_14.png,0,0.0194052588194608,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_2.png,0,0.2193679511547088,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_3.png,0,0.3492320477962494,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_4.png,0,0.5649663209915161,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_8.png,0,0.7344740629196167,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_9.png,0,0.4751537144184112,bma,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_6.png,1,0.9154014587402344,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_7.png,1,0.6696622371673584,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_2.png,1,0.4937302470207214,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_10.png,1,0.9893490672111512,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_4.png,1,0.965421199798584,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_8.png,1,0.946414053440094,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_3.png,1,0.9622486233711244,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_8.png,1,0.9284417629241944,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_15.png,1,0.0305659752339124,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_8.png,1,0.8219360113143921,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_8.png,1,0.9589123725891112,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_1.png,0,0.1557258367538452,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_2.png,0,0.2423059642314911,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_3.png,0,0.4281970560550689,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_4.png,0,0.681226372718811,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_8.png,0,0.7764346599578857,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_9.png,0,0.566211998462677,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_1.png,0,0.3055892586708069,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_2.png,0,0.580696702003479,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_3.png,0,0.8214673399925232,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_4.png,0,0.9227799773216248,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_5.png,0,0.924245059490204,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_9.png,0,0.2116742432117462,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_4.png,0,0.958203673362732,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_5.png,0,0.9666595458984376,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_6.png,0,0.9496064186096193,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_7.png,0,0.8900434374809265,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_8.png,0,0.760600209236145,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_9.png,0,0.5053972005844116,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_12.png,0,0.9127837419509888,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_13.png,0,0.7180240154266357,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_14.png,0,0.4216877222061157,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_15.png,0,0.2855595350265503,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_2.png,0,0.2332505732774734,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_3.png,0,0.2570913136005401,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_4.png,0,0.3262448310852051,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_5.png,0,0.5427833795547485,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_6.png,0,0.6834251284599304,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_7.png,0,0.89251708984375,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_8.png,0,0.9625924229621888,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_9.png,0,0.9873535633087158,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_1.png,0,0.8339701294898987,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_10.png,0,0.123725302517414,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_11.png,0,0.1002752631902694,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_12.png,0,0.0921182408928871,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_13.png,0,0.1107704862952232,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_14.png,0,0.114464484155178,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_15.png,0,0.1193637549877166,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_2.png,0,0.9306734204292296,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_6.png,0,0.8473080396652222,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_7.png,0,0.6847470998764038,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_8.png,0,0.405239075422287,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_9.png,0,0.2033286094665527,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_1.png,0,0.1538429409265518,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_10.png,0,0.948028326034546,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_11.png,0,0.7907796502113342,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_12.png,0,0.5390411615371704,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_13.png,0,0.26762455701828,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_14.png,0,0.1817494183778762,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_15.png,0,0.1391365975141525,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_2.png,0,0.1918392181396484,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_3.png,0,0.2072009295225143,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_4.png,0,0.2355512231588363,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_5.png,0,0.3162344992160797,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_6.png,0,0.5326917767524719,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_1.png,0,0.9363980293273926,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_10.png,0,0.1236245706677436,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_11.png,0,0.1195291131734848,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_12.png,0,0.1350449472665786,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_13.png,0,0.1282126754522323,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_14.png,0,0.0869728624820709,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_15.png,0,0.053883884102106,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_5.png,0,0.8582818508148193,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_6.png,0,0.6986700892448425,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_7.png,0,0.4848563969135284,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_8.png,0,0.2671886682510376,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_9.png,0,0.1732590496540069,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_1.png,0,0.3472000956535339,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_10.png,0,0.7340050935745239,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_11.png,0,0.6109561324119568,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_12.png,0,0.4840200245380401,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_13.png,0,0.3529961109161377,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_14.png,0,0.2437734305858612,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_15.png,0,0.1770727634429931,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_2.png,0,0.3763777017593384,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_3.png,0,0.4144157767295837,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_4.png,0,0.5411033630371094,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_5.png,0,0.6917510032653809,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_6.png,0,0.8457453846931458,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_1.png,0,0.0849581584334373,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_10.png,0,0.3807394206523895,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_11.png,0,0.1668651252985,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_12.png,0,0.0784844681620597,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_13.png,0,0.0687347650527954,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_3.png,0,0.239896759390831,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_4.png,0,0.5487337112426758,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_5.png,0,0.8768486976623535,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_6.png,0,0.9705451130867004,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_7.png,0,0.9831300377845764,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_8.png,0,0.959507405757904,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_9.png,0,0.6499471068382263,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_1.png,0,0.1517178565263748,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_10.png,0,0.4370873570442199,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_11.png,0,0.26063072681427,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_12.png,0,0.2026880830526352,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_13.png,0,0.1427820771932602,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_14.png,0,0.1077041029930114,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_15.png,0,0.0880897864699363,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_2.png,0,0.1618017554283142,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_3.png,0,0.2196675240993499,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_4.png,0,0.2914788424968719,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_5.png,0,0.3786985278129577,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_6.png,0,0.6357009410858154,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_1.png,0,0.1499328911304474,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_10.png,0,0.9521815180778505,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_11.png,0,0.8394735455513,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_12.png,0,0.6450707912445068,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_13.png,0,0.3853021264076233,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_14.png,0,0.2894399166107178,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_15.png,0,0.2047368735074997,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_2.png,0,0.1885024607181549,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_3.png,0,0.2291360348463058,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_4.png,0,0.2938628792762756,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_5.png,0,0.4221749603748321,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_6.png,0,0.6151090860366821,pbs_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos005\FieldPos005_page_7.png,1,0.6654345393180847,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos005 (2)\FieldPos005 (2)_page_7.png,1,0.8394299745559692,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos009\FieldPos009_page_7.png,1,0.6043106317520142,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos009 (2)\FieldPos009 (2)_page_7.png,1,0.5063446760177612,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos009 (3)\FieldPos009 (3)_page_7.png,1,0.5063446760177612,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos014\FieldPos014_page_5.png,1,0.5649731755256653,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos014 (2)\FieldPos014 (2)_page_8.png,1,0.7503370046615601,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos015\FieldPos015_page_7.png,1,0.5290677547454834,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos015 (2)\FieldPos015 (2)_page_8.png,1,0.8105499148368835,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos015 (3)\FieldPos015 (3)_page_8.png,1,0.8105499148368835,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos027\FieldPos027_page_8.png,1,0.7526532411575317,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos033\FieldPos033_page_8.png,1,0.6626049280166626,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos033 (2)\FieldPos033 (2)_page_8.png,1,0.6626049280166626,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos043\FieldPos043_page_8.png,1,0.7914733290672302,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos043 (2)\FieldPos043 (2)_page_8.png,1,0.7914733290672302,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos050\FieldPos050_page_7.png,1,0.7450792789459229,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos053\FieldPos053_page_7.png,1,0.3280388712882995,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos082\FieldPos082_page_6.png,1,0.5408215522766113,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos093\FieldPos093_page_5.png,1,0.3421447277069092,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos094\FieldPos094_page_6.png,1,0.8685581684112549,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos096\FieldPos096_page_6.png,1,0.6007832288742065,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos099\FieldPos099_page_6.png,1,0.7318992614746094,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos104\FieldPos104_page_7.png,1,0.7917711734771729,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos107\FieldPos107_page_5.png,1,0.8155931234359741,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos109\FieldPos109_page_5.png,1,0.2706121504306793,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos123\FieldPos123_page_5.png,1,0.673054039478302,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos211\FieldPos211_page_6.png,1,0.8478428721427917,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_1.png,0,0.0102416928857564,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_10.png,0,0.1009890660643577,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_11.png,0,0.0380642786622047,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_12.png,0,0.0161855891346931,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_13.png,0,0.0093447994440793,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_14.png,0,0.006508519873023,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_2.png,0,0.01666128821671,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_3.png,0,0.0322054140269756,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_4.png,0,0.0935240164399147,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_5.png,0,0.2754605710506439,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_9.png,0,0.3427326381206512,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_1.png,0,0.2123448699712753,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_10.png,0,0.3789597153663635,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_11.png,0,0.2498006820678711,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_12.png,0,0.1651816815137863,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_13.png,0,0.0984688550233841,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_14.png,0,0.0816289484500885,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_2.png,0,0.3048093020915985,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_3.png,0,0.5093363523483276,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_4.png,0,0.698962926864624,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_5.png,0,0.8097451329231262,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_9.png,0,0.5656113624572754,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_1.png,0,0.0291147474199533,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_10.png,0,0.0762339308857917,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_11.png,0,0.0437710657715797,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_12.png,0,0.0327717773616313,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_13.png,0,0.0316985957324504,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_14.png,0,0.0313891507685184,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_2.png,0,0.0351016111671924,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_3.png,0,0.0502660199999809,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_4.png,0,0.0931112542748451,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_5.png,0,0.2690028846263885,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_9.png,0,0.1576734185218811,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_1.png,0,0.0041453968733549,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_10.png,0,0.030062848702073,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_11.png,0,0.0117644080892205,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_12.png,0,0.0057175359688699,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_13.png,0,0.0029283231124281,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_14.png,0,0.0021686418913304,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_2.png,0,0.0094691766425967,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_3.png,0,0.0298855323344469,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_4.png,0,0.069128543138504,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_5.png,0,0.2245228737592697,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_9.png,0,0.138305053114891,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_1.png,0,0.0041453968733549,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_10.png,0,0.030062848702073,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_11.png,0,0.0117644080892205,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_12.png,0,0.0057175359688699,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_13.png,0,0.0029283231124281,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_14.png,0,0.0021686418913304,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_2.png,0,0.0094691766425967,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_3.png,0,0.0298855323344469,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_4.png,0,0.069128543138504,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_5.png,0,0.2245228290557861,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_9.png,0,0.1383050680160522,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_1.png,0,0.0120992921292781,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_10.png,0,0.0102760251611471,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_11.png,0,0.0074113998562097,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_12.png,0,0.0076228762045502,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_13.png,0,0.0082232151180505,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_14.png,0,0.0110753467306494,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_2.png,0,0.0246646124869585,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_3.png,0,0.0789391174912452,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_7.png,0,0.2187571376562118,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_8.png,0,0.0481966286897659,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_9.png,0,0.0184161625802516,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_1.png,0,0.0018129209056496,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_10.png,0,0.3237795829772949,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_11.png,0,0.0442344322800636,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_12.png,0,0.0093424152582883,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_13.png,0,0.0043591731227934,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_14.png,0,0.0028248657472431,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_2.png,0,0.0023654757533222,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_3.png,0,0.0032358337193727,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_4.png,0,0.00592752546072,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_5.png,0,0.014202076010406,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_6.png,0,0.1017371192574501,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_1.png,0,0.0738182514905929,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_10.png,0,0.0959380492568016,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_11.png,0,0.0741947144269943,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_12.png,0,0.0697954893112182,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_13.png,0,0.0712082907557487,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_14.png,0,0.0768265202641487,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_2.png,0,0.0926816388964653,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_3.png,0,0.1355738639831543,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_4.png,0,0.2235060036182403,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_5.png,0,0.4710410535335541,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_9.png,0,0.1623226255178451,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_1.png,0,0.0008025755523703,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_10.png,0,0.1600854843854904,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_11.png,0,0.0335004366934299,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_12.png,0,0.006219039671123,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_13.png,0,0.0024847551248967,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_14.png,0,0.001308785402216,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_2.png,0,0.0015121001051738,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_3.png,0,0.0033162797335535,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_4.png,0,0.0094032976776361,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_5.png,0,0.059932455420494,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_6.png,0,0.3708537220954895,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_1.png,0,0.0008025755523703,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_10.png,0,0.1600854843854904,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_11.png,0,0.0335004366934299,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_12.png,0,0.006219039671123,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_13.png,0,0.0024847551248967,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_14.png,0,0.001308785402216,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_2.png,0,0.0015121001051738,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_3.png,0,0.0033162811305373,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_4.png,0,0.0094032976776361,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_5.png,0,0.059932455420494,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_6.png,0,0.3708537220954895,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_1.png,0,0.0066121211275458,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_10.png,0,0.2727899551391601,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_11.png,0,0.0653267726302146,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_12.png,0,0.0285219457000494,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_13.png,0,0.0149003220722079,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_14.png,0,0.0081410408020019,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_2.png,0,0.0116711538285017,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_3.png,0,0.0186525862663984,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_4.png,0,0.0356325693428516,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_5.png,0,0.1272490918636322,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_6.png,0,0.354531854391098,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_1.png,0,0.0066499607637524,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_10.png,0,0.0884711593389511,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_11.png,0,0.0190972033888101,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_12.png,0,0.0079334219917654,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_13.png,0,0.0052228677086532,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_14.png,0,0.0040751160122454,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_2.png,0,0.0102965207770466,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_3.png,0,0.0204228404909372,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_4.png,0,0.0539612136781215,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_5.png,0,0.180193156003952,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_6.png,0,0.5313127040863037,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_1.png,0,0.0066499607637524,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_10.png,0,0.0884711593389511,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_11.png,0,0.0190972033888101,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_12.png,0,0.0079334219917654,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_13.png,0,0.0052228677086532,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_14.png,0,0.0040751160122454,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_2.png,0,0.0102965161204338,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_3.png,0,0.0204228460788726,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_4.png,0,0.0539612136781215,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_5.png,0,0.180193156003952,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_6.png,0,0.5313127040863037,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_1.png,0,0.0051776003092527,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_10.png,0,0.1434711813926696,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_11.png,0,0.0405180640518665,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_12.png,0,0.0147086856886744,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_13.png,0,0.0074228588491678,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_14.png,0,0.0047670258209109,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_2.png,0,0.0096483035013079,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_3.png,0,0.0257831532508134,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_4.png,0,0.0729496255517005,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_5.png,0,0.2384105324745178,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_6.png,0,0.6519622206687927,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_1.png,0,0.0051776003092527,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_10.png,0,0.1434711813926696,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_11.png,0,0.0405180640518665,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_12.png,0,0.0147086856886744,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_13.png,0,0.0074228588491678,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_14.png,0,0.0047670258209109,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_2.png,0,0.0096483035013079,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_3.png,0,0.0257831532508134,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_4.png,0,0.0729496255517005,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_5.png,0,0.2384105324745178,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_6.png,0,0.6519622206687927,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_1.png,0,0.03623878210783,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_10.png,0,0.1074526384472847,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_11.png,0,0.0576753504574298,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_12.png,0,0.0368312746286392,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_13.png,0,0.0272297840565443,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_14.png,0,0.0223939921706914,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_2.png,0,0.0654282048344612,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_3.png,0,0.1076226308941841,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_4.png,0,0.2093491405248642,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_5.png,0,0.4092913269996643,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_9.png,0,0.2048235237598419,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_1.png,0,0.0021976206917315,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_10.png,0,0.0071171005256474,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_11.png,0,0.0031312662176787,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_12.png,0,0.0020857381168752,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_13.png,0,0.001603158423677,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_14.png,0,0.0014437835197895,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_2.png,0,0.0043982993811368,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_3.png,0,0.0080060316249728,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_4.png,0,0.0250452477484941,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_5.png,0,0.1058351695537567,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_9.png,0,0.0245925802737474,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_1.png,0,0.3553845584392547,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_10.png,0,0.1719624400138855,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_11.png,0,0.1460125148296356,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_12.png,0,0.1260860413312912,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_13.png,0,0.1166593804955482,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_14.png,0,0.1154853925108909,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_2.png,0,0.4920445084571838,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_3.png,0,0.6415834426879883,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_4.png,0,0.6790359020233154,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_8.png,0,0.3097870647907257,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_9.png,0,0.2172910273075103,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_1.png,0,0.003676304128021,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_10.png,0,0.001348391873762,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_11.png,0,0.0010024160146713,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_12.png,0,0.0008728725370019,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_13.png,0,0.0010238479590043,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_14.png,0,0.0012086636852473,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_2.png,0,0.0099210394546389,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_3.png,0,0.0297068916261196,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_7.png,0,0.0346213541924953,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_8.png,0,0.0068507264368236,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_9.png,0,0.0028980486094951,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_1.png,0,0.1884040832519531,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_10.png,0,0.1332390755414962,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_11.png,0,0.0685845911502838,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_12.png,0,0.0384889058768749,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_13.png,0,0.0238710101693868,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_14.png,0,0.021151939406991,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_2.png,0,0.3305455446243286,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_3.png,0,0.5405946969985962,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_4.png,0,0.7713060975074768,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_8.png,0,0.4827631413936615,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_9.png,0,0.2232217490673065,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_1.png,0,0.0187781918793916,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_10.png,0,0.0117113245651125,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_11.png,0,0.0053213564679026,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_12.png,0,0.0034723186399787,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_13.png,0,0.0026754911523312,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_14.png,0,0.0023772730492055,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_2.png,0,0.0402492731809616,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_3.png,0,0.1304822415113449,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_4.png,0,0.355995774269104,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_8.png,0,0.0700960606336593,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_9.png,0,0.0261544492095708,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_1.png,0,0.0339021012187004,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_10.png,0,0.0284248627722263,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_11.png,0,0.0176484137773513,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_12.png,0,0.0156149649992585,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_13.png,0,0.014317381195724,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_14.png,0,0.0165351219475269,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_2.png,0,0.0531322173774242,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_3.png,0,0.1240755468606948,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_4.png,0,0.3082650601863861,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_8.png,0,0.1513994187116623,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_9.png,0,0.0570543371140956,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_1.png,0,0.0021652227733284,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_10.png,0,0.0205429438501596,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_11.png,0,0.0058140479959547,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_12.png,0,0.0020061000250279,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_13.png,0,0.0010297528933733,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_14.png,0,0.0007870596600696,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_2.png,0,0.0053735650144517,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_3.png,0,0.0172814410179853,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_4.png,0,0.0597992911934852,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_5.png,0,0.2884031236171722,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_9.png,0,0.0961979776620864,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_1.png,0,0.2874265015125274,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_10.png,0,0.1537593454122543,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_11.png,0,0.1132406145334243,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_12.png,0,0.1022792235016822,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_13.png,0,0.0857588499784469,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_14.png,0,0.0833112746477127,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_2.png,0,0.4407328069210052,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_3.png,0,0.6287347078323364,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_7.png,0,0.5168553590774536,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_8.png,0,0.3109847605228424,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_9.png,0,0.2296390384435653,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_1.png,0,0.2474467903375625,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_10.png,0,0.2491562962532043,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_11.png,0,0.2437103241682052,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_12.png,0,0.2402016818523407,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_13.png,0,0.2370671033859253,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_14.png,0,0.2489821314811706,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_2.png,0,0.2457076460123062,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_3.png,0,0.2580521702766418,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_7.png,0,0.2528509795665741,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_8.png,0,0.2455542832612991,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_9.png,0,0.2449004799127578,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_1.png,0,0.0649322718381881,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_10.png,0,0.0204766653478145,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_11.png,0,0.0149542558938264,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_12.png,0,0.0138919157907366,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_13.png,0,0.0142218573018908,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_14.png,0,0.0156944673508405,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_2.png,0,0.1508673876523971,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_3.png,0,0.2995772361755371,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_7.png,0,0.2760647535324096,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_8.png,0,0.1001471355557441,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_9.png,0,0.0402599796652793,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_1.png,0,0.1411292999982834,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_10.png,0,0.0565836168825626,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_11.png,0,0.0446467734873294,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_12.png,0,0.0344744659960269,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_13.png,0,0.0348242633044719,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_14.png,0,0.0398490875959396,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_2.png,0,0.3274945914745331,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_3.png,0,0.6236532330513,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_4.png,0,0.8218622207641602,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_8.png,0,0.328615665435791,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_9.png,0,0.1214098706841468,tbf_imgs,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HH7\HH7 (6).JPG,1,0.9803354144096376,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HH8\HH8 (6).JPG,1,0.9897620677947998,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HL10\HL10 (6).JPG,1,0.9679829478263856,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HL8\HL8 (6).JPG,1,0.993101179599762,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HL9\HL9 (6).JPG,1,0.8973742723464966,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (1).JPG,0,0.0048508713953197,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (10).JPG,0,0.0070199603214859,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (2).JPG,0,0.0154623696580529,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (3).JPG,0,0.0136888325214385,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (4).JPG,0,0.0285831913352012,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (8).JPG,0,0.1617256551980972,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (9).JPG,0,0.0280572790652513,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (1).JPG,0,0.0024596259463578,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (10).JPG,0,0.0050437152385711,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (2).JPG,0,0.0046615968458354,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (3).JPG,0,0.0041182148270308,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (4).JPG,0,0.0169709362089633,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (8).JPG,0,0.1317339390516281,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (9).JPG,0,0.0146040758118033,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (1).JPG,0,0.0075936247594654,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (10).JPG,0,0.022341426461935,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (2).JPG,0,0.0075936247594654,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (3).JPG,0,0.0333710275590419,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (4).JPG,0,0.0697185844182968,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (8).JPG,0,0.4906009435653686,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (9).JPG,0,0.0189100764691829,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (1).JPG,0,0.0132291615009307,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (10).JPG,0,0.0160188749432563,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (2).JPG,0,0.0132291615009307,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (3).JPG,0,0.0282135717570781,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (4).JPG,0,0.2810436487197876,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (8).JPG,0,0.5186188817024231,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (9).JPG,0,0.0278827808797359,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (1).JPG,0,0.0257572177797555,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (10).JPG,0,0.0087961629033088,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (2).JPG,0,0.0257572177797555,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (3).JPG,0,0.0194443520158529,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (4).JPG,0,0.1199209988117218,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (8).JPG,0,0.0738582015037536,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (9).JPG,0,0.020451059564948,TBSI,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\1\1_6.jpg,1,0.9894648790359496,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\100\100_5.jpg,1,0.9914979338645936,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\103\103_6.jpg,1,0.9952126741409302,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\104\104_6.jpg,1,0.998696744441986,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\111\111_6.jpg,1,0.986498475074768,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\115\115_7.jpg,1,0.964483678340912,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\126\126_6.jpg,1,0.977401852607727,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\130\130_6.jpg,1,0.9840545654296876,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\19\19_5.jpg,1,0.9977245926856996,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\24\24_6.jpg,1,0.970185935497284,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\29\29_6.jpg,1,0.9549002051353456,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\3\3_5.jpg,1,0.9964924454689026,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\33\33_6.jpg,1,0.97942453622818,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\44\44_6.jpg,1,0.988306999206543,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\45\45_6.jpg,1,0.9772447347640992,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\46\46_6.jpg,1,0.9739165902137756,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\5\5_6.jpg,1,0.9384862184524536,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\88\88_6.jpg,1,0.9823250770568848,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\91\91_6.jpg,1,0.988162100315094,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\96\96_6.jpg,1,0.9925933480262756,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\97\97_5.jpg,1,0.994799017906189,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\99\99_6.jpg,1,0.9914464354515076,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_0.jpg,0,0.0124509073793888,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_1.jpg,0,0.0038318883161991,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_2.jpg,0,0.0021715299226343,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_3.jpg,0,0.0013577725039795,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_4.jpg,0,0.0323853641748428,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_8.jpg,0,0.1865323185920715,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_9.jpg,0,0.0148312514647841,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_0.jpg,0,0.0091563528403639,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_1.jpg,0,0.0029109492897987,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_2.jpg,0,0.0041228798218071,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_3.jpg,0,0.0290765389800071,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_7.jpg,0,0.545221209526062,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_8.jpg,0,0.1397798061370849,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_9.jpg,0,0.0342830270528793,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_0.jpg,0,0.0047477493062615,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_1.jpg,0,0.0036517716944217,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_2.jpg,0,0.0064199119806289,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_3.jpg,0,0.0082246735692024,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_4.jpg,0,0.056207101792097,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_8.jpg,0,0.5417969226837158,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_9.jpg,0,0.0211354307830333,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_0.jpg,0,0.0040773600339889,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_1.jpg,0,0.0028804100584238,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_2.jpg,0,0.0042959433048963,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_3.jpg,0,0.0093696666881442,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_4.jpg,0,0.1855895668268203,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_8.jpg,0,0.6794112920761108,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_9.jpg,0,0.0537569262087345,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_0.jpg,0,0.0106239803135395,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_1.jpg,0,0.01469362154603,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_2.jpg,0,0.0042548011988401,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_3.jpg,0,0.0020769480615854,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_4.jpg,0,0.0104438001289963,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_8.jpg,0,0.8623427748680115,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_9.jpg,0,0.1618402302265167,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_0.jpg,0,0.0115008624270558,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_1.jpg,0,0.006493127439171,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_2.jpg,0,0.0086210798472166,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_3.jpg,0,0.0079287886619567,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_4.jpg,0,0.0033327133860439,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_5.jpg,0,0.4095589518547058,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_9.jpg,0,0.0594931878149509,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_0.jpg,0,0.0012725131819024,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_1.jpg,0,0.0008103560539893,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_2.jpg,0,0.0015552811091765,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_3.jpg,0,0.0034740546252578,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_4.jpg,0,0.0478213652968406,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_8.jpg,0,0.106082759797573,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_9.jpg,0,0.0127453375607728,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_0.jpg,0,0.0042460821568965,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_1.jpg,0,0.0023643979802727,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_2.jpg,0,0.0098794922232627,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_3.jpg,0,0.0092586698010563,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_4.jpg,0,0.8610507249832153,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_8.jpg,0,0.3796092867851257,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_9.jpg,0,0.1153595373034477,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_0.jpg,0,0.0084724389016628,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_1.jpg,0,0.0044869189150631,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_2.jpg,0,0.0071168043650686,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_3.jpg,0,0.0136612877249717,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_7.jpg,0,0.3857080936431885,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_8.jpg,0,0.0353866480290889,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_9.jpg,0,0.0124455327168107,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_0.jpg,0,0.0025740712881088,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_1.jpg,0,0.0035993659403175,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_2.jpg,0,0.0016494859009981,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_3.jpg,0,0.0057645356282591,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_4.jpg,0,0.1470330655574798,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_8.jpg,0,0.0415033772587776,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_9.jpg,0,0.0052774306386709,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_0.jpg,0,0.0061323209665715,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_1.jpg,0,0.0080957058817148,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_2.jpg,0,0.0044139646925032,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_3.jpg,0,0.0141058200970292,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_4.jpg,0,0.0963394194841384,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_8.jpg,0,0.3452737033367157,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_9.jpg,0,0.0634967759251594,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_0.jpg,0,0.0022862222976982,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_1.jpg,0,0.0023253771942108,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_2.jpg,0,0.0024787785951048,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_3.jpg,0,0.0086772730574011,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_7.jpg,0,0.5730218887329102,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_8.jpg,0,0.0865260735154151,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_9.jpg,0,0.0268440004438161,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_0.jpg,0,0.0089584207162261,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_1.jpg,0,0.0093578873202204,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_2.jpg,0,0.0027390590403229,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_3.jpg,0,0.0037692810874432,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_4.jpg,0,0.0825841054320335,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_8.jpg,0,0.557253360748291,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_9.jpg,0,0.1223401501774787,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_0.jpg,0,0.0056739803403615,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_1.jpg,0,0.0052815699018538,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_2.jpg,0,0.0234292671084404,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_3.jpg,0,0.0068958587944507,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_4.jpg,0,0.0431016683578491,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_8.jpg,0,0.4289135038852691,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_9.jpg,0,0.0602738857269287,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_0.jpg,0,0.0033663627691566,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_1.jpg,0,0.0023712972179055,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_2.jpg,0,0.0023661565501242,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_3.jpg,0,0.006545583717525,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_4.jpg,0,0.0185332894325256,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_8.jpg,0,0.166871502995491,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_9.jpg,0,0.0162522066384553,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_0.jpg,0,0.0055031715892255,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_1.jpg,0,0.0022112284786999,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_2.jpg,0,0.0044765109196305,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_3.jpg,0,0.0441060103476047,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_4.jpg,0,0.5287587642669678,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_8.jpg,0,0.2851040959358215,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_9.jpg,0,0.0470124632120132,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_0.jpg,0,0.0022700689733028,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_1.jpg,0,0.0038958217483013,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_2.jpg,0,0.004738500341773,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_3.jpg,0,0.0023942443076521,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_4.jpg,0,0.0574760884046554,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_8.jpg,0,0.1406922191381454,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_9.jpg,0,0.0617315061390399,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_0.jpg,0,0.0024848179891705,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_1.jpg,0,0.0007130556623451,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_2.jpg,0,0.0013167785946279,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_3.jpg,0,0.0021976679563522,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_4.jpg,0,0.0066834101453423,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_8.jpg,0,0.5909157395362854,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_9.jpg,0,0.0540424063801765,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_0.jpg,0,0.0016088744159787,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_1.jpg,0,0.0028422167524695,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_2.jpg,0,0.0119956256821751,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_3.jpg,0,0.0245421733707189,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_4.jpg,0,0.3776370286941528,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_8.jpg,0,0.0717636346817016,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_9.jpg,0,0.0082683637738227,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_0.jpg,0,0.0068333488889038,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_1.jpg,0,0.0046023684553802,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_2.jpg,0,0.0037595904432237,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_3.jpg,0,0.0109274107962846,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_4.jpg,0,0.2107868641614914,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_8.jpg,0,0.2276386320590973,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_9.jpg,0,0.0714291483163833,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_0.jpg,0,0.0018737483769655,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_1.jpg,0,0.0015685464022681,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_2.jpg,0,0.0018866712925955,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_3.jpg,0,0.0053024883382022,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_7.jpg,0,0.5232288837432861,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_8.jpg,0,0.0477442145347595,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_9.jpg,0,0.0111031746491789,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_0.jpg,0,0.0139424540102481,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_1.jpg,0,0.0137890605255961,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_2.jpg,0,0.0152026852592825,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_3.jpg,0,0.0154906474053859,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_4.jpg,0,0.1247524991631507,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_8.jpg,0,0.658327043056488,wbc,transfer,Transfer learning,test
+33,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_9.jpg,0,0.1330445557832718,wbc,transfer,Transfer learning,test

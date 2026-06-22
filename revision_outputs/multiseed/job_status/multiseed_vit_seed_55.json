@@ -1,0 +1,9 @@
+{
+  "command": "D:\\Dineth\\myenv\\Scripts\\python.exe -u D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\scripts\\multiseed_eval.py --family vit --manifest D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\multiseed\\leakage_safe_manifest.csv --runs-dir runs --out-dir D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\multiseed\\training_outputs --seeds 55 --leakage-check stack_sha1",
+  "ended_at": "2026-05-26T21:33:29.711406+00:00",
+  "label": "vit seed 55 (train_missing)",
+  "log_path": "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\logs\\jobs\\multiseed_vit_seed_55.log",
+  "return_code": 0,
+  "started_at": "2026-05-26T02:06:25.651231+00:00",
+  "status": "complete"
+}

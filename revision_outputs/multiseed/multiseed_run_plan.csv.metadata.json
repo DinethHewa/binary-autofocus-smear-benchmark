@@ -1,0 +1,21 @@
+{
+  "command_line_arguments": {
+    "allow_train": true,
+    "config": "configs/bspc_revision.yaml",
+    "force": false,
+    "plan_only": false,
+    "run": true
+  },
+  "config_hash": "55645e9dd21299c9cbee9f739681c1a9584e366d076b1aaa492b55db33389ae9",
+  "git_commit_hash": null,
+  "input_file_modification_times": {
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\configs\\bspc_revision.yaml": 1777892121.6526253,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\data\\manifest_with_splits.csv": 1766414608.3382845
+  },
+  "input_files": [
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\configs\\bspc_revision.yaml",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\data\\manifest_with_splits.csv"
+  ],
+  "script_name": "07_multiseed_runner.py",
+  "timestamp": "2026-05-28T05:01:57.708599+00:00"
+}

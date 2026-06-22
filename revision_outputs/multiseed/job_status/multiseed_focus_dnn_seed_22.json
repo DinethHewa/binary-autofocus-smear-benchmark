@@ -1,0 +1,9 @@
+{
+  "command": "D:\\Dineth\\myenv\\Scripts\\python.exe -u D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\scripts\\multiseed_eval.py --family focus_dnn --manifest D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\multiseed\\leakage_safe_manifest.csv --runs-dir runs --out-dir D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\multiseed\\training_outputs --seeds 22 --leakage-check stack_sha1",
+  "ended_at": "2026-05-22T23:37:25.497624+00:00",
+  "label": "focus_dnn seed 22 (train_missing)",
+  "log_path": "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\logs\\jobs\\multiseed_focus_dnn_seed_22.log",
+  "return_code": 0,
+  "started_at": "2026-05-22T23:18:12.900516+00:00",
+  "status": "complete"
+}

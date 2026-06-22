@@ -1,0 +1,726 @@
+seed,image_path,y_true,y_prob,dataset,model_code_name,model_display_name,split
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos000_1\pos000_1_page_8.png,1,0.7882862091064453,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos001_1\pos001_1_page_2.png,1,0.3957687020301819,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos002_1\pos002_1_page_2.png,1,0.5006998777389526,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos007_3\pos007_3_page_10.png,1,0.7285031676292419,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos008_3\pos008_3_page_6.png,1,0.7889208793640137,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_1.png,0,0.1093156412243843,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_10.png,0,0.4590401649475097,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_11.png,0,0.4080601334571838,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_12.png,0,0.4416161775588989,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_13.png,0,0.4775753319263458,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_14.png,0,0.2989493906497955,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_2.png,0,0.4806319177150726,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_3.png,0,0.4709178209304809,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_4.png,0,0.4471502304077148,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_5.png,0,0.4206161499023437,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_1\pos000_1_page_6.png,0,0.4459982812404632,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_1.png,0,0.0701925083994865,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_10.png,0,0.2944033443927765,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_11.png,0,0.1152194812893867,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_12.png,0,0.0847135260701179,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_13.png,0,0.0721500962972641,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_4.png,0,0.3957878351211548,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_5.png,0,0.3927374184131622,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_6.png,0,0.3972111344337463,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_7.png,0,0.4218026995658874,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_8.png,0,0.4548097848892212,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_1\pos001_1_page_9.png,0,0.4824802279472351,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_1.png,0,0.0662305206060409,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_10.png,0,0.3869167268276214,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_11.png,0,0.1214875429868698,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_12.png,0,0.0863696187734603,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_13.png,0,0.0737444907426834,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_4.png,0,0.4784517288208008,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_5.png,0,0.4375811219215393,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_6.png,0,0.3868658542633056,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_7.png,0,0.3878259658813476,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_8.png,0,0.4288007616996765,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos002_1\pos002_1_page_9.png,0,0.4724588096141815,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_12.png,0,0.4336228370666504,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_13.png,0,0.4642181694507599,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_14.png,0,0.4117772877216339,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_2.png,0,0.0930445939302444,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_3.png,0,0.131463274359703,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_4.png,0,0.3028388619422912,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_5.png,0,0.4813256561756134,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_6.png,0,0.4547871649265289,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_7.png,0,0.4583908021450043,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_8.png,0,0.5977717638015747,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_9.png,0,0.7881211638450623,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_1.png,0,0.0596605576574802,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_10.png,0,0.3873761892318725,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_11.png,0,0.1166722774505615,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_12.png,0,0.0760397613048553,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_13.png,0,0.0637778267264366,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_14.png,0,0.059331014752388,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_2.png,0,0.4983373284339905,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_3.png,0,0.4998800158500671,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_4.png,0,0.5488589406013489,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_8.png,0,0.5253928899765015,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos008_3\pos008_3_page_9.png,0,0.4868134260177612,bma,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_6.png,1,0.7413554191589355,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_7.png,1,0.5286151170730591,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_2.png,1,0.5866652131080627,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_10.png,1,0.6237403154373169,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_4.png,1,0.5649017095565796,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_8.png,1,0.5293557643890381,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_3.png,1,0.5788952112197876,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_8.png,1,0.2128060162067413,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_15.png,1,0.0841841697692871,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_8.png,1,0.3864636123180389,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_8.png,1,0.5482244491577148,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_1.png,0,0.1869639158248901,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_2.png,0,0.2420672625303268,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_3.png,0,0.4528521299362182,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_4.png,0,0.6279188990592957,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_8.png,0,0.6065373420715332,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos206_Cam01_RGB_MB\FieldPos206_Cam01_RGB_MB_page_9.png,0,0.5648204684257507,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_1.png,0,0.5818133354187012,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_2.png,0,0.6330133676528931,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_3.png,0,0.685535728931427,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_4.png,0,0.7210171222686768,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_5.png,0,0.6874896287918091,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_9.png,0,0.534930944442749,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_4.png,0,0.6456245183944702,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_5.png,0,0.7452995181083679,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_6.png,0,0.6724989414215088,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_7.png,0,0.6087843179702759,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_8.png,0,0.5754322409629822,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos227_Cam01_RGB_MB\FieldPos227_Cam01_RGB_MB_page_9.png,0,0.5612448453903198,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_12.png,0,0.5137266516685486,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_13.png,0,0.2144205272197723,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_14.png,0,0.1075916737318039,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_15.png,0,0.0843705087900161,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_2.png,0,0.0754356086254119,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_3.png,0,0.0797201097011566,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_4.png,0,0.0888388603925705,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_5.png,0,0.128298744559288,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_6.png,0,0.1826121509075164,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_7.png,0,0.5095264911651611,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_8.png,0,0.5340587496757507,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos301_Cam01_RGB_MB\FieldPos301_Cam01_RGB_MB_page_9.png,0,0.6194096803665161,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_1.png,0,0.4964626729488373,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_10.png,0,0.1039393469691276,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_11.png,0,0.0900764837861061,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_12.png,0,0.0834030583500862,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_13.png,0,0.0807565599679946,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_14.png,0,0.0803572833538055,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_15.png,0,0.0770360380411148,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_2.png,0,0.5122572183609009,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_6.png,0,0.4553816318511963,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_7.png,0,0.4750303626060486,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_8.png,0,0.4733003377914428,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos363_Cam01_RGB_MB\FieldPos363_Cam01_RGB_MB_page_9.png,0,0.1420625299215316,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_1.png,0,0.0885902792215347,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_10.png,0,0.5267443656921387,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_11.png,0,0.4879238605499267,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_12.png,0,0.4040172398090362,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_13.png,0,0.1621456742286682,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_14.png,0,0.1030814796686172,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_15.png,0,0.0907757431268692,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_2.png,0,0.0978345647454261,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_3.png,0,0.1016420051455497,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_4.png,0,0.1191573739051818,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_5.png,0,0.2466389536857605,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos385_Cam01_RGB_MB\FieldPos385_Cam01_RGB_MB_page_6.png,0,0.3257950246334076,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_1.png,0,0.5476876497268677,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_10.png,0,0.0803193151950836,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_11.png,0,0.0749606266617775,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_12.png,0,0.0726186111569404,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_13.png,0,0.0719405487179756,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_14.png,0,0.0710853189229965,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_15.png,0,0.0719215273857116,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_5.png,0,0.484483540058136,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_6.png,0,0.5003580451011658,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_7.png,0,0.2096181213855743,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_8.png,0,0.1141703650355339,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos395_Cam01_RGB_MB\FieldPos395_Cam01_RGB_MB_page_9.png,0,0.091830737888813,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_1.png,0,0.3394020795822143,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_10.png,0,0.1411573588848114,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_11.png,0,0.1755546033382415,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_12.png,0,0.2419477254152298,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_13.png,0,0.2936070561408996,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_14.png,0,0.3497466742992401,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_15.png,0,0.3892068862915039,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_2.png,0,0.2950332760810852,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_3.png,0,0.3049991428852081,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_4.png,0,0.2698841691017151,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_5.png,0,0.2298489511013031,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos432_Cam01_RGB_MB\FieldPos432_Cam01_RGB_MB_page_6.png,0,0.2073632925748825,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_1.png,0,0.0852632671594619,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_10.png,0,0.1167674511671066,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_11.png,0,0.0979475080966949,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_12.png,0,0.0880843549966812,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_13.png,0,0.0856653004884719,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_3.png,0,0.1001890897750854,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_4.png,0,0.126251220703125,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_5.png,0,0.2035641372203827,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_6.png,0,0.4066438972949981,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_7.png,0,0.5228207111358643,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_8.png,0,0.4255522787570953,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_9.png,0,0.161151111125946,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_1.png,0,0.4099722504615783,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_10.png,0,0.2859166860580444,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_11.png,0,0.3584821224212646,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_12.png,0,0.3940222263336181,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_13.png,0,0.458056777715683,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_14.png,0,0.3103522658348083,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_15.png,0,0.1259922981262207,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_2.png,0,0.3926074802875519,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_3.png,0,0.3476411998271942,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_4.png,0,0.3407993912696838,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_5.png,0,0.3435250222682953,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos448_Cam01_RGB_MB\FieldPos448_Cam01_RGB_MB_page_6.png,0,0.3215337991714477,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_1.png,0,0.4827728271484375,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_10.png,0,0.4977748394012451,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_11.png,0,0.4154297709465027,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_12.png,0,0.3745836615562439,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_13.png,0,0.3961052894592285,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_14.png,0,0.4156248569488525,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_15.png,0,0.4434359073638916,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_2.png,0,0.3939491808414459,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_3.png,0,0.47259721159935,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_4.png,0,0.4342353940010071,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_5.png,0,0.4029024541378021,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos470_Cam01_RGB_MB\FieldPos470_Cam01_RGB_MB_page_6.png,0,0.3933834731578827,pbs_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos005\FieldPos005_page_7.png,1,0.3584887683391571,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos005 (2)\FieldPos005 (2)_page_7.png,1,0.4226810336112976,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos009\FieldPos009_page_7.png,1,0.3796257972717285,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos009 (2)\FieldPos009 (2)_page_7.png,1,0.3973186910152435,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos009 (3)\FieldPos009 (3)_page_7.png,1,0.3973186910152435,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos014\FieldPos014_page_5.png,1,0.3598467707633972,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos014 (2)\FieldPos014 (2)_page_8.png,1,0.4045865535736084,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos015\FieldPos015_page_7.png,1,0.3512279689311981,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos015 (2)\FieldPos015 (2)_page_8.png,1,0.4052070677280426,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos015 (3)\FieldPos015 (3)_page_8.png,1,0.4052070677280426,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos027\FieldPos027_page_8.png,1,0.3935219049453735,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos033\FieldPos033_page_8.png,1,0.4014326930046081,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos033 (2)\FieldPos033 (2)_page_8.png,1,0.4014326930046081,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos043\FieldPos043_page_8.png,1,0.3932904601097107,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos043 (2)\FieldPos043 (2)_page_8.png,1,0.3932904601097107,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos050\FieldPos050_page_7.png,1,0.3997850716114044,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos053\FieldPos053_page_7.png,1,0.4144965708255768,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos082\FieldPos082_page_6.png,1,0.4668628573417663,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos093\FieldPos093_page_5.png,1,0.4010305404663086,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos094\FieldPos094_page_6.png,1,0.3961670100688934,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos096\FieldPos096_page_6.png,1,0.404912918806076,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos099\FieldPos099_page_6.png,1,0.3979364931583404,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos104\FieldPos104_page_7.png,1,0.4131143093109131,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos107\FieldPos107_page_5.png,1,0.4338567852973938,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos109\FieldPos109_page_5.png,1,0.4850847125053406,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos123\FieldPos123_page_5.png,1,0.425256609916687,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos211\FieldPos211_page_6.png,1,0.435650110244751,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_1.png,0,0.3430104255676269,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_10.png,0,0.3458764255046844,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_11.png,0,0.3444537222385406,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_12.png,0,0.3440367877483368,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_13.png,0,0.3440911471843719,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_14.png,0,0.3437808156013489,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_2.png,0,0.343482106924057,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_3.png,0,0.3433723449707031,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_4.png,0,0.3439173102378845,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_5.png,0,0.3468406498432159,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005\FieldPos005_page_9.png,0,0.351716011762619,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_1.png,0,0.4028301537036896,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_10.png,0,0.4040718674659729,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_11.png,0,0.4030651450157165,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_12.png,0,0.4034851193428039,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_13.png,0,0.4030687808990478,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_14.png,0,0.403200626373291,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_2.png,0,0.4033660590648651,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_3.png,0,0.4039532244205475,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_4.png,0,0.406071126461029,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_5.png,0,0.4113340079784393,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos005 (2)\FieldPos005 (2)_page_9.png,0,0.4065223336219787,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_1.png,0,0.3655122220516205,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_10.png,0,0.3674448728561401,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_11.png,0,0.36664879322052,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_12.png,0,0.3662445843219757,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_13.png,0,0.3660464882850647,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_14.png,0,0.3665125370025635,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_2.png,0,0.3656718134880066,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_3.png,0,0.3663164675235748,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_4.png,0,0.3673432469367981,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_5.png,0,0.3701718151569366,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_9.png,0,0.3705441355705261,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_1.png,0,0.3772028088569641,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_10.png,0,0.3807874321937561,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_11.png,0,0.3787785172462463,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_12.png,0,0.3782983720302582,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_13.png,0,0.3775479197502136,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_14.png,0,0.3772245347499847,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_2.png,0,0.3775685131549835,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_3.png,0,0.378331184387207,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_4.png,0,0.3801101446151733,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_5.png,0,0.3829314112663269,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (2)\FieldPos009 (2)_page_9.png,0,0.3874962627887726,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_1.png,0,0.3772028088569641,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_10.png,0,0.3807874321937561,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_11.png,0,0.3787785172462463,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_12.png,0,0.3782983720302582,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_13.png,0,0.3775479197502136,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_14.png,0,0.3772245347499847,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_2.png,0,0.3775685131549835,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_3.png,0,0.378331184387207,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_4.png,0,0.3801101446151733,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_5.png,0,0.3829314708709717,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009 (3)\FieldPos009 (3)_page_9.png,0,0.3874962627887726,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_1.png,0,0.3480206131935119,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_10.png,0,0.3486668169498443,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_11.png,0,0.3487074673175812,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_12.png,0,0.3486594259738922,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_13.png,0,0.3486559987068176,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_14.png,0,0.3489185571670532,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_2.png,0,0.3482632935047149,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_3.png,0,0.3513200283050537,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_7.png,0,0.354884535074234,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_8.png,0,0.3502956628799438,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_9.png,0,0.3486264646053314,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_1.png,0,0.3725682199001312,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_10.png,0,0.391478955745697,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_11.png,0,0.3788463473320007,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_12.png,0,0.3748117685317993,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_13.png,0,0.3742598593235016,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_14.png,0,0.3736963272094726,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_2.png,0,0.3730897605419159,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_3.png,0,0.373460978269577,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_4.png,0,0.3737461864948272,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_5.png,0,0.3749759197235107,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014 (2)\FieldPos014 (2)_page_6.png,0,0.3804532587528229,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_1.png,0,0.3397873342037201,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_10.png,0,0.3403933346271515,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_11.png,0,0.3403859436511993,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_12.png,0,0.3401007652282715,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_13.png,0,0.3401549756526947,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_14.png,0,0.3402065634727478,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_2.png,0,0.3397671580314636,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_3.png,0,0.3405817449092865,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_4.png,0,0.3416766822338104,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_5.png,0,0.3445023596286773,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015\FieldPos015_page_9.png,0,0.3419717848300934,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_1.png,0,0.3764713704586029,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_10.png,0,0.3888104259967804,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_11.png,0,0.3817687928676605,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_12.png,0,0.3783328533172607,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_13.png,0,0.3774798810482025,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_14.png,0,0.377725601196289,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_2.png,0,0.3771314024925232,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_3.png,0,0.3775096535682678,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_4.png,0,0.3780980408191681,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_5.png,0,0.3802996575832367,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (2)\FieldPos015 (2)_page_6.png,0,0.3849372267723083,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_1.png,0,0.3764713704586029,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_10.png,0,0.3888104259967804,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_11.png,0,0.3817687928676605,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_12.png,0,0.3783328533172607,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_13.png,0,0.3774798810482025,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_14.png,0,0.377725601196289,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_2.png,0,0.3771314024925232,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_3.png,0,0.3775096535682678,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_4.png,0,0.3780980408191681,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_5.png,0,0.3802996575832367,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos015 (3)\FieldPos015 (3)_page_6.png,0,0.3849372267723083,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_1.png,0,0.3769135773181915,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_10.png,0,0.3894495964050293,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_11.png,0,0.3816596865653991,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_12.png,0,0.3795585930347442,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_13.png,0,0.3786862790584564,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_14.png,0,0.3784159421920776,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_2.png,0,0.3776619434356689,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_3.png,0,0.3778236806392669,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_4.png,0,0.3781275451183319,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_5.png,0,0.3793745338916778,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos027\FieldPos027_page_6.png,0,0.3812867701053619,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_1.png,0,0.3750845789909363,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_10.png,0,0.3830558657646179,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_11.png,0,0.3783163428306579,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_12.png,0,0.3767216801643371,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_13.png,0,0.3755918741226196,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_14.png,0,0.3752402067184448,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_2.png,0,0.3757102489471435,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_3.png,0,0.3756468892097473,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_4.png,0,0.3771898150444031,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_5.png,0,0.380549281835556,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033\FieldPos033_page_6.png,0,0.3893256485462188,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_1.png,0,0.3750845789909363,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_10.png,0,0.3830558657646179,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_11.png,0,0.3783163428306579,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_12.png,0,0.3767216801643371,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_13.png,0,0.3755918741226196,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_14.png,0,0.3752402067184448,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_2.png,0,0.3757102787494659,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_3.png,0,0.3756468892097473,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_4.png,0,0.3771898150444031,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_5.png,0,0.380549281835556,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos033 (2)\FieldPos033 (2)_page_6.png,0,0.3893256485462188,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_1.png,0,0.375192642211914,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_10.png,0,0.3817539811134338,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_11.png,0,0.3780673742294311,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_12.png,0,0.3767310380935669,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_13.png,0,0.3762047290802002,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_14.png,0,0.3759491741657257,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_2.png,0,0.3757233619689941,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_3.png,0,0.3757230043411255,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_4.png,0,0.3767852485179901,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_5.png,0,0.3784374296665191,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043\FieldPos043_page_6.png,0,0.3821004927158355,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_1.png,0,0.375192642211914,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_10.png,0,0.3817539811134338,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_11.png,0,0.3780673742294311,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_12.png,0,0.3767310380935669,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_13.png,0,0.3762047290802002,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_14.png,0,0.3759491741657257,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_2.png,0,0.3757233619689941,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_3.png,0,0.3757230043411255,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_4.png,0,0.3767852485179901,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_5.png,0,0.3784374296665191,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos043 (2)\FieldPos043 (2)_page_6.png,0,0.3821004927158355,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_1.png,0,0.3834168612957001,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_10.png,0,0.3851676881313324,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_11.png,0,0.3842946588993072,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_12.png,0,0.3842762112617492,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_13.png,0,0.3834155797958374,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_14.png,0,0.3836131691932678,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_2.png,0,0.3834384381771087,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_3.png,0,0.3837016224861145,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_4.png,0,0.384931743144989,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_5.png,0,0.387880265712738,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos050\FieldPos050_page_9.png,0,0.3870736062526703,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_1.png,0,0.3952411115169525,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_10.png,0,0.3967122733592987,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_11.png,0,0.395904004573822,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_12.png,0,0.3961400687694549,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_13.png,0,0.3958021998405456,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_14.png,0,0.3956787586212158,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_2.png,0,0.3959122896194458,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_3.png,0,0.3962955474853515,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_4.png,0,0.3984186053276062,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_5.png,0,0.4035046994686126,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos053\FieldPos053_page_9.png,0,0.3991957902908325,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_1.png,0,0.459225982427597,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_10.png,0,0.4592188000679016,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_11.png,0,0.4599343836307525,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_12.png,0,0.4597915112972259,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_13.png,0,0.4595263004302978,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_14.png,0,0.4597134888172149,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_2.png,0,0.4592564702033996,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_3.png,0,0.4601178169250488,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_4.png,0,0.4617239832878113,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_8.png,0,0.4604150056838989,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos082\FieldPos082_page_9.png,0,0.4603713452816009,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_1.png,0,0.381361573934555,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_10.png,0,0.3815475404262543,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_11.png,0,0.3808997869491577,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_12.png,0,0.3807614743709564,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_13.png,0,0.3812442719936371,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_14.png,0,0.3810036480426788,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_2.png,0,0.3828712105751037,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_3.png,0,0.3858155012130737,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_7.png,0,0.390559583902359,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_8.png,0,0.3838219344615936,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos093\FieldPos093_page_9.png,0,0.3818796277046203,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_1.png,0,0.3770189881324768,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_10.png,0,0.3773763179779053,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_11.png,0,0.3772718906402588,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_12.png,0,0.3777790367603302,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_13.png,0,0.3776933848857879,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_14.png,0,0.3781907260417938,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_2.png,0,0.3778877556324005,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_3.png,0,0.3789732158184051,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_4.png,0,0.3834722340106964,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_8.png,0,0.3808602690696716,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos094\FieldPos094_page_9.png,0,0.3780501186847687,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_1.png,0,0.3829403519630432,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_10.png,0,0.3833526968955993,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_11.png,0,0.3829237520694732,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_12.png,0,0.3825865089893341,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_13.png,0,0.3823569118976593,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_14.png,0,0.3829542696475982,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_2.png,0,0.3844039142131805,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_3.png,0,0.386663556098938,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_4.png,0,0.3936678767204284,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_8.png,0,0.3879472613334656,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos096\FieldPos096_page_9.png,0,0.3846738338470459,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_1.png,0,0.3768264651298523,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_10.png,0,0.3779022693634033,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_11.png,0,0.3779355585575104,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_12.png,0,0.3776114583015442,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_13.png,0,0.3774679005146026,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_14.png,0,0.3777002692222595,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_2.png,0,0.3776188492774963,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_3.png,0,0.3791617155075073,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_4.png,0,0.3832015991210937,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_8.png,0,0.3808953762054443,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos099\FieldPos099_page_9.png,0,0.3789450824260711,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_1.png,0,0.3928742408752441,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_10.png,0,0.3951730132102966,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_11.png,0,0.3942097425460815,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_12.png,0,0.3933049142360687,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_13.png,0,0.3934764862060547,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_14.png,0,0.3928541541099548,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_2.png,0,0.3931245505809784,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_3.png,0,0.3936931490898132,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_4.png,0,0.3957085013389587,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_5.png,0,0.3988760709762573,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos104\FieldPos104_page_9.png,0,0.3980713486671448,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_1.png,0,0.4119978249073028,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_10.png,0,0.4122958183288574,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_11.png,0,0.411478728055954,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_12.png,0,0.4121066033840179,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_13.png,0,0.4112229943275451,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_14.png,0,0.4117670059204101,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_2.png,0,0.4132719337940216,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_3.png,0,0.4171271920204162,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_7.png,0,0.4167042374610901,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_8.png,0,0.4137244820594787,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos107\FieldPos107_page_9.png,0,0.4120742678642273,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_1.png,0,0.4825342893600464,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_10.png,0,0.4819860756397247,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_11.png,0,0.4826950132846832,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_12.png,0,0.4829730987548828,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_13.png,0,0.4828383326530456,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_14.png,0,0.482842355966568,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_2.png,0,0.4829131066799164,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_3.png,0,0.4833442568778991,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_7.png,0,0.483045220375061,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_8.png,0,0.4827074110507965,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos109\FieldPos109_page_9.png,0,0.4831194579601288,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_1.png,0,0.4078254401683807,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_10.png,0,0.4077314734458923,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_11.png,0,0.4071418344974518,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_12.png,0,0.4072853028774261,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_13.png,0,0.4072493016719818,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_14.png,0,0.4071372151374817,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_2.png,0,0.4085076451301574,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_3.png,0,0.41049325466156,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_7.png,0,0.4137565493583679,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_8.png,0,0.4095881283283233,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_9.png,0,0.4083810746669769,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_1.png,0,0.4019457101821899,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_10.png,0,0.4018022716045379,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_11.png,0,0.4019060432910919,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_12.png,0,0.4011701345443725,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_13.png,0,0.4013607501983642,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_14.png,0,0.4013988971710205,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_2.png,0,0.4032151997089386,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_3.png,0,0.4063056409358978,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_4.png,0,0.412793755531311,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_8.png,0,0.4075829982757568,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos211\FieldPos211_page_9.png,0,0.4029194712638855,tbf_imgs,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HH7\HH7 (6).JPG,1,0.937402069568634,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HH8\HH8 (6).JPG,1,0.8810800909996033,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HL10\HL10 (6).JPG,1,0.8087021708488464,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HL8\HL8 (6).JPG,1,0.8709438443183899,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HL9\HL9 (6).JPG,1,0.7861571907997131,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (1).JPG,0,0.2459582239389419,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (10).JPG,0,0.2367275953292846,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (2).JPG,0,0.2206205576658249,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (3).JPG,0,0.2194763720035553,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (4).JPG,0,0.2440857887268066,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (8).JPG,0,0.3527271151542663,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH7\HH7 (9).JPG,0,0.2518343031406402,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (1).JPG,0,0.2446372956037521,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (10).JPG,0,0.2523098587989807,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (2).JPG,0,0.2648572027683258,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (3).JPG,0,0.2551012933254242,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (4).JPG,0,0.2567543685436249,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (8).JPG,0,0.2865568995475769,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH8\HH8 (9).JPG,0,0.2374681085348129,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (1).JPG,0,0.5753742456436157,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (10).JPG,0,0.5842864513397217,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (2).JPG,0,0.5753742456436157,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (3).JPG,0,0.5847406387329102,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (4).JPG,0,0.6234959363937378,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (8).JPG,0,0.616200864315033,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (9).JPG,0,0.5798102617263794,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (1).JPG,0,0.6477419137954712,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (10).JPG,0,0.6552557349205017,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (2).JPG,0,0.6477419137954712,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (3).JPG,0,0.6707721948623657,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (4).JPG,0,0.6894018054008484,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (8).JPG,0,0.6765579581260681,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL8\HL8 (9).JPG,0,0.6589248776435852,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (1).JPG,0,0.6351561546325684,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (10).JPG,0,0.6243859529495239,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (2).JPG,0,0.6351560950279236,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (3).JPG,0,0.632603645324707,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (4).JPG,0,0.6632492542266846,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (8).JPG,0,0.6557579040527344,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL9\HL9 (9).JPG,0,0.6348815560340881,TBSI,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\1\1_6.jpg,1,0.541153073310852,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\100\100_5.jpg,1,0.8893644213676453,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\103\103_6.jpg,1,0.8874819874763489,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\104\104_6.jpg,1,0.7783858180046082,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\111\111_6.jpg,1,0.9064528942108154,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\115\115_7.jpg,1,0.8496984243392944,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\126\126_6.jpg,1,0.9279059171676636,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\130\130_6.jpg,1,0.9241309762001038,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\19\19_5.jpg,1,0.8753095865249634,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\24\24_6.jpg,1,0.9504780173301696,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\29\29_6.jpg,1,0.9538081884384156,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\3\3_5.jpg,1,0.89298415184021,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\33\33_6.jpg,1,0.7858916521072388,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\44\44_6.jpg,1,0.9714703559875488,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\45\45_6.jpg,1,0.9586663246154784,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\46\46_6.jpg,1,0.9151633977890016,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\5\5_6.jpg,1,0.8508817553520203,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\88\88_6.jpg,1,0.900521993637085,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\91\91_6.jpg,1,0.905116081237793,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\96\96_6.jpg,1,0.8531901240348816,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\97\97_5.jpg,1,0.9326486587524414,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\99\99_6.jpg,1,0.925015926361084,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_0.jpg,0,0.0105099184438586,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_1.jpg,0,0.0112087372690439,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_2.jpg,0,0.012595641426742,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_3.jpg,0,0.0156325660645961,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_4.jpg,0,0.0225355196744203,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_8.jpg,0,0.0363396443426609,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\1\1_9.jpg,0,0.0138547588139772,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_0.jpg,0,0.0137348240241408,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_1.jpg,0,0.0172912273555994,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_2.jpg,0,0.0228464230895042,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_3.jpg,0,0.0602069199085235,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_7.jpg,0,0.0446292050182819,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_8.jpg,0,0.0128036504611372,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\100\100_9.jpg,0,0.0098103675991296,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_0.jpg,0,0.0116232885047793,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_1.jpg,0,0.0131945414468646,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_2.jpg,0,0.0157150328159332,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_3.jpg,0,0.017811469733715,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_4.jpg,0,0.0358339734375476,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_8.jpg,0,0.0590656027197837,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\103\103_9.jpg,0,0.01215061545372,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_0.jpg,0,0.0147745544090867,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_1.jpg,0,0.0137254483997821,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_2.jpg,0,0.0157058108597993,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_3.jpg,0,0.0178116112947464,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_4.jpg,0,0.0241881851106882,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_8.jpg,0,0.0490963794291019,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\104\104_9.jpg,0,0.0145417489111423,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_0.jpg,0,0.0106756221503019,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_1.jpg,0,0.0124347591772675,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_2.jpg,0,0.0163671188056468,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_3.jpg,0,0.0192890632897615,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_4.jpg,0,0.0617327913641929,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_8.jpg,0,0.9343608617782592,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\111\111_9.jpg,0,0.1212608218193054,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_0.jpg,0,0.0114084566012024,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_1.jpg,0,0.01210867613554,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_2.jpg,0,0.0138770826160907,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_3.jpg,0,0.0163640733808279,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_4.jpg,0,0.0238907672464847,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_5.jpg,0,0.1364794671535492,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\115\115_9.jpg,0,0.024108026176691,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_0.jpg,0,0.0097810579463839,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_1.jpg,0,0.0126789864152669,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_2.jpg,0,0.0165921971201896,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_3.jpg,0,0.0250243563205003,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_4.jpg,0,0.2387268394231796,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_8.jpg,0,0.0503482595086097,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\126\126_9.jpg,0,0.0113343512639403,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_0.jpg,0,0.0096426736563444,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_1.jpg,0,0.0120321540161967,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_2.jpg,0,0.0186045635491609,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_3.jpg,0,0.0643308758735656,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_4.jpg,0,0.8554272055625916,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_8.jpg,0,0.1343605369329452,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_9.jpg,0,0.0184986423701047,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_0.jpg,0,0.0129838595166802,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_1.jpg,0,0.0163034945726394,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_2.jpg,0,0.0168462879955768,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_3.jpg,0,0.0622671358287334,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_7.jpg,0,0.2258597314357757,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_8.jpg,0,0.0173507034778594,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\19\19_9.jpg,0,0.0109009435400366,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_0.jpg,0,0.0108944727107882,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_1.jpg,0,0.0110885044559836,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_2.jpg,0,0.0155528811737895,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_3.jpg,0,0.0213239211589097,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_4.jpg,0,0.1382951587438583,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_8.jpg,0,0.0275798663496971,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\24\24_9.jpg,0,0.0095333214849233,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_0.jpg,0,0.0105777429416775,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_1.jpg,0,0.0141721656545996,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_2.jpg,0,0.0119958166033029,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_3.jpg,0,0.0341930836439132,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_4.jpg,0,0.8587943315505981,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_8.jpg,0,0.1610485464334488,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_9.jpg,0,0.0111442869529128,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_0.jpg,0,0.0117613272741436,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_1.jpg,0,0.0143098728731274,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_2.jpg,0,0.0173679385334253,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_3.jpg,0,0.0325830057263374,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_7.jpg,0,0.8146203756332397,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_8.jpg,0,0.0440650470554828,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\3\3_9.jpg,0,0.0121720563620328,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_0.jpg,0,0.0118215736001729,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_1.jpg,0,0.0124833779409527,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_2.jpg,0,0.015128718689084,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_3.jpg,0,0.0195049326866865,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_4.jpg,0,0.0390204079449176,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_8.jpg,0,0.1412275582551956,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\33\33_9.jpg,0,0.016926635056734,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_0.jpg,0,0.010677607730031,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_1.jpg,0,0.0164690017700195,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_2.jpg,0,0.0866889804601669,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_3.jpg,0,0.3905127942562103,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_4.jpg,0,0.951239287853241,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_8.jpg,0,0.1516536623239517,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\44\44_9.jpg,0,0.0103133469820022,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_0.jpg,0,0.0091932974755764,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_1.jpg,0,0.0110911345109343,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_2.jpg,0,0.0180231016129255,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_3.jpg,0,0.0313470140099525,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_4.jpg,0,0.10345970839262,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_8.jpg,0,0.0739716738462448,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\45\45_9.jpg,0,0.0095344381406903,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_0.jpg,0,0.0171544626355171,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_1.jpg,0,0.0153852077201008,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_2.jpg,0,0.018020449206233,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_3.jpg,0,0.0246888846158981,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_4.jpg,0,0.320080429315567,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_8.jpg,0,0.0219072364270687,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_9.jpg,0,0.0100632039830088,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_0.jpg,0,0.012331498786807,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_1.jpg,0,0.014785498380661,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_2.jpg,0,0.0184088349342346,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_3.jpg,0,0.0221685655415058,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_4.jpg,0,0.1102058067917823,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_8.jpg,0,0.0603898167610168,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_9.jpg,0,0.0148097798228263,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_0.jpg,0,0.0108981933444738,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_1.jpg,0,0.0122366119176149,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_2.jpg,0,0.015562024898827,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_3.jpg,0,0.0188374035060405,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_4.jpg,0,0.0416506566107273,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_8.jpg,0,0.0933305248618125,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\88\88_9.jpg,0,0.0147007880732417,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_0.jpg,0,0.0106319980695843,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_1.jpg,0,0.0123876444995403,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_2.jpg,0,0.015313564799726,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_3.jpg,0,0.0207657683640718,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_4.jpg,0,0.1112247854471206,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_8.jpg,0,0.1271793991327285,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\91\91_9.jpg,0,0.0137918479740619,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_0.jpg,0,0.0133685432374477,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_1.jpg,0,0.0141121465712785,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_2.jpg,0,0.0169599540531635,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_3.jpg,0,0.0240822695195674,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_4.jpg,0,0.0596177652478218,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_8.jpg,0,0.0203245021402835,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\96\96_9.jpg,0,0.0110720032826066,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_0.jpg,0,0.0116247022524476,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_1.jpg,0,0.0167234167456626,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_2.jpg,0,0.0214407071471214,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_3.jpg,0,0.0862991139292717,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_7.jpg,0,0.4595939815044403,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_8.jpg,0,0.0161436442285776,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_9.jpg,0,0.0090756667777895,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_0.jpg,0,0.0108784474432468,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_1.jpg,0,0.0125287333503365,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_2.jpg,0,0.0174261629581451,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_3.jpg,0,0.0304550062865018,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_4.jpg,0,0.4050159454345703,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_8.jpg,0,0.1101342812180519,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
+55,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\99\99_9.jpg,0,0.0120557565242052,wbc,cnn_focus_hybrid,CNN--focus hybrid,test
