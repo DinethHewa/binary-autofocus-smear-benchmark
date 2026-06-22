@@ -1,0 +1,8 @@
+family,best_trial_id,best_trial_score,history_path,best_epoch_metric,best_epoch,epoch_of_min_val_loss,epoch_of_peak_val_accuracy,generalization_gap_accuracy,generalization_gap_loss,overfitting_onset_epoch
+cnn,7,0.9968095421791076,runs\cnn\kt\trial_0007\exec_0\history.csv,val_auc,37,45,42,-0.010994970798492432,-0.01056140661239624,3.0
+cnn_attention,45,0.9950482845306396,runs\cnn_attention\kt\trial_45\exec_0\history.csv,val_auc,26,29,29,-0.011385202407837025,-0.04070098698139188,6.0
+transfer,21,0.9825583696365356,runs\transfer\kt\trial_21\exec_0\history.csv,val_auc,30,13,21,0.0033656954765318714,0.005405232310295105,10.0
+cnn_focus_hybrid,62,0.9819847345352172,runs\cnn_focus_hybrid\kt\trial_0062\exec_0\history.csv,val_auc,27,27,18,-0.044583797454834095,-0.1338825821876526,3.0
+hybrid_vit,71,0.9716084003448486,runs\hybrid_vit\kt\trial_0071\exec_0\history.csv,val_auc,29,13,29,0.026093661785125954,0.09423449635505671,12.0
+focus_dnn,44,0.8871276378631592,runs\focus_dnn\kt\trial_0044\exec_0\history.csv,val_auc,26,29,10,-0.01234215497970581,-0.03525876998901367,
+vit,83,0.782880425453186,runs\vit\kt\trial_0083\exec_0\history.csv,val_auc,43,37,0,-0.1068258285522461,0.0718165934085846,2.0

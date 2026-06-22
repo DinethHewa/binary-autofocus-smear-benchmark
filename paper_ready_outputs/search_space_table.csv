@@ -1,0 +1,66 @@
+family,hyperparameter,observed_type,n_unique_observed,observed_values_or_range,configured_max_trials,source
+cnn,batchnorm,numeric,2,0.000000 .. 1.000000,50,runs/cnn/tuning_results.csv
+cnn,dense_units,numeric,5,0.000000 .. 256.000000,50,runs/cnn/tuning_results.csv
+cnn,dropout,numeric,5,0.000000 .. 0.400000,50,runs/cnn/tuning_results.csv
+cnn,filters_base,numeric,7,16.000000 .. 64.000000,50,runs/cnn/tuning_results.csv
+cnn,kernel_size,numeric,2,3.000000 .. 5.000000,50,runs/cnn/tuning_results.csv
+cnn,l2_reg,numeric,62,0.000006 .. 0.000984,50,runs/cnn/tuning_results.csv
+cnn,learning_rate,numeric,62,0.000123 .. 0.000980,50,runs/cnn/tuning_results.csv
+cnn,num_blocks,numeric,4,2.000000 .. 5.000000,50,runs/cnn/tuning_results.csv
+cnn,optimizer,categorical,2,"adam, rmsprop",50,runs/cnn/tuning_results.csv
+cnn_attention,attention_placement,categorical,2,"all, last_two",50,runs/cnn_attention/tuning_results.csv
+cnn_attention,attention_type,categorical,3,"cbam, none, se",50,runs/cnn_attention/tuning_results.csv
+cnn_attention,batchnorm,numeric,2,0.000000 .. 1.000000,50,runs/cnn_attention/tuning_results.csv
+cnn_attention,dense_units,numeric,5,0.000000 .. 256.000000,50,runs/cnn_attention/tuning_results.csv
+cnn_attention,dropout,numeric,5,0.000000 .. 0.400000,50,runs/cnn_attention/tuning_results.csv
+cnn_attention,filters_base,numeric,7,16.000000 .. 64.000000,50,runs/cnn_attention/tuning_results.csv
+cnn_attention,kernel_size,numeric,2,3.000000 .. 5.000000,50,runs/cnn_attention/tuning_results.csv
+cnn_attention,l2_reg,numeric,50,0.000000 .. 0.000996,50,runs/cnn_attention/tuning_results.csv
+cnn_attention,learning_rate,numeric,50,0.000128 .. 0.001000,50,runs/cnn_attention/tuning_results.csv
+cnn_attention,num_blocks,numeric,4,2.000000 .. 5.000000,50,runs/cnn_attention/tuning_results.csv
+cnn_attention,optimizer,categorical,2,"adam, rmsprop",50,runs/cnn_attention/tuning_results.csv
+cnn_attention,se_ratio,numeric,4,4.000000 .. 16.000000,50,runs/cnn_attention/tuning_results.csv
+cnn_attention,spatial_kernel,numeric,2,3.000000 .. 7.000000,50,runs/cnn_attention/tuning_results.csv
+cnn_focus_hybrid,backbone_choice,categorical,3,"custom_cnn, efficientnetb0, mobilenetv2",50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,batchnorm,numeric,2,0.000000 .. 1.000000,50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,dropout,numeric,5,0.000000 .. 0.400000,50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,filters_base,numeric,7,16.000000 .. 64.000000,50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,focus_units,numeric,5,0.000000 .. 128.000000,50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,fusion_dropout,numeric,5,0.000000 .. 0.400000,50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,fusion_layers,numeric,3,1.000000 .. 3.000000,50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,fusion_units,numeric,16,32.000000 .. 512.000000,50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,kernel_size,numeric,2,3.000000 .. 5.000000,50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,l2,numeric,62,0.000002 .. 0.000993,50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,learning_rate,numeric,62,0.000116 .. 0.000995,50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,num_blocks,numeric,4,2.000000 .. 5.000000,50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,optimizer,categorical,2,"adam, rmsprop",50,runs/cnn_focus_hybrid/tuning_results.csv
+cnn_focus_hybrid,unfreeze_top,numeric,5,0.000000 .. 20.000000,50,runs/cnn_focus_hybrid/tuning_results.csv
+focus_dnn,activation,categorical,2,"gelu, relu",50,runs/focus_dnn/tuning_results.csv
+focus_dnn,dropout,numeric,5,0.000000 .. 0.400000,50,runs/focus_dnn/tuning_results.csv
+focus_dnn,l2,numeric,62,0.000017 .. 0.000968,50,runs/focus_dnn/tuning_results.csv
+focus_dnn,learning_rate,numeric,62,0.000101 .. 0.000996,50,runs/focus_dnn/tuning_results.csv
+focus_dnn,num_layers,numeric,5,1.000000 .. 5.000000,50,runs/focus_dnn/tuning_results.csv
+focus_dnn,optimizer,categorical,2,"adam, rmsprop",50,runs/focus_dnn/tuning_results.csv
+focus_dnn,units,numeric,16,16.000000 .. 256.000000,50,runs/focus_dnn/tuning_results.csv
+hybrid_vit,dropout,numeric,3,0.000000 .. 0.200000,50,runs/hybrid_vit/tuning_results.csv
+hybrid_vit,embed_dim,numeric,4,64.000000 .. 192.000000,50,runs/hybrid_vit/tuning_results.csv
+hybrid_vit,mlp_dim,numeric,3,128.000000 .. 384.000000,50,runs/hybrid_vit/tuning_results.csv
+hybrid_vit,num_heads,numeric,2,2.000000 .. 4.000000,50,runs/hybrid_vit/tuning_results.csv
+hybrid_vit,patch_size,numeric,2,4.000000 .. 8.000000,50,runs/hybrid_vit/tuning_results.csv
+hybrid_vit,stem_blocks,numeric,2,2.000000 .. 3.000000,50,runs/hybrid_vit/tuning_results.csv
+hybrid_vit,stem_type,categorical,2,"cnn, mobilenetv2",50,runs/hybrid_vit/tuning_results.csv
+hybrid_vit,transformer_depth,numeric,4,1.000000 .. 4.000000,50,runs/hybrid_vit/tuning_results.csv
+transfer,backbone,categorical,8,"EfficientNetB0, EfficientNetB1, EfficientNetV2B0, MobileNet, MobileNetV2, MobileNetV3Large, MobileNetV3Small, NASNetMobile",50,runs/transfer/tuning_results.csv
+transfer,base_trainable_blocks,numeric,4,0.000000 .. 3.000000,50,runs/transfer/tuning_results.csv
+transfer,dropout,numeric,5,0.000000 .. 0.400000,50,runs/transfer/tuning_results.csv
+transfer,head_units,numeric,5,0.000000 .. 512.000000,50,runs/transfer/tuning_results.csv
+transfer,label_smoothing,numeric,39,0.000000 .. 0.100000,50,runs/transfer/tuning_results.csv
+transfer,lr,numeric,45,0.000027 .. 0.001000,50,runs/transfer/tuning_results.csv
+transfer,pooling,categorical,2,"avg, max",50,runs/transfer/tuning_results.csv
+vit,depth,numeric,4,2.000000 .. 8.000000,50,runs/vit/tuning_results.csv
+vit,dropout,numeric,3,0.000000 .. 0.200000,50,runs/vit/tuning_results.csv
+vit,embed_dim,numeric,4,64.000000 .. 256.000000,50,runs/vit/tuning_results.csv
+vit,mlp_dim,numeric,4,128.000000 .. 512.000000,50,runs/vit/tuning_results.csv
+vit,num_heads,numeric,3,2.000000 .. 8.000000,50,runs/vit/tuning_results.csv
+vit,patch_size,numeric,2,8.000000 .. 16.000000,50,runs/vit/tuning_results.csv
+vit,use_cls_token,numeric,2,0.000000 .. 1.000000,50,runs/vit/tuning_results.csv

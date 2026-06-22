@@ -1,0 +1,34 @@
+# Processing Log
+
+- Starting paper-ready results enhancement package.
+- Archive already extracted, reusing existing directory: focus_binary_benchmark.zip
+- Extracted archive: paper_ready_outputs.zip -> paper_ready_outputs\extracted_archives\paper_ready_outputs
+- Extracted archive: scripts (2).zip -> paper_ready_outputs\extracted_archives\scripts (2)
+- Archive already extracted, reusing existing directory: scripts.zip
+- WARNING: Failed to read CSV 'D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\runs\cnn\val_curves.csv': No columns to parse from file
+- WARNING: Failed to read CSV 'D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\runs\focus_dnn\focus_dnn\kt\trial_0000\exec_0\history.csv': No columns to parse from file
+- WARNING: Failed to read CSV 'D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\runs\focus_dnn\focus_dnn\kt\trial_0001\exec_0\history.csv': No columns to parse from file
+- WARNING: Failed to read CSV 'D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\runs\focus_dnn\kt\trial_0000\exec_0\history.csv': No columns to parse from file
+- WARNING: Failed to read CSV 'D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\runs\focus_dnn\kt\trial_0001\exec_0\history.csv': No columns to parse from file
+- WARNING: Failed to read CSV 'D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\runs\transfer\transfer\val_curves.csv': No columns to parse from file
+- WARNING: Failed to read CSV 'D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\runs\transfer\val_curves.csv': No columns to parse from file
+- WARNING: Failed to read CSV 'D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\runs\vit\val_curves.csv': No columns to parse from file
+- Built artifact inventory with 4140 rows.
+- WARNING: Missing per-dataset confusion matrix for 'classical_ml' on 'TBSI'.
+- WARNING: Missing per-dataset confusion matrix for 'classical_ml' on 'bma'.
+- WARNING: Missing per-dataset confusion matrix for 'classical_ml' on 'pbs_imgs'.
+- WARNING: Missing per-dataset confusion matrix for 'classical_ml' on 'tbf_imgs'.
+- WARNING: Missing per-dataset confusion matrix for 'classical_ml' on 'wbc'.
+- Rendered fig_accuracy_ranking.png with the Pillow fallback renderer.
+- Rendered fig_balanced_ranking.png with the Pillow fallback renderer.
+- Rendered tuner distribution and hyperparameter-effect figures with the Pillow fallback renderer.
+- Rendered fig_training_curves_loss.png with the Pillow fallback renderer.
+- Rendered fig_training_curves_accuracy.png with the Pillow fallback renderer.
+- Rendered fig_training_curves_auc.png with the Pillow fallback renderer.
+- Rendered fig_search_space_summary.png with the Pillow fallback renderer.
+- Completed Priority 1 outputs from saved artifacts.
+- Rendered ROC, PR, and threshold-sweep figures with the Pillow fallback renderer.
+- WARNING: Skipping calibration for 'threshold_baselines:composite' because the saved score range was [-0.715, 3.632] rather than a probability range.
+- Rendered fig_calibration.png with the Pillow fallback renderer.
+- Completed Priority 2 feasibility and inference-only post-processing.
+- Package build complete.

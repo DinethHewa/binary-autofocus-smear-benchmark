@@ -1,0 +1,12 @@
+family,display_name,split,roc_auc,average_precision,n_samples
+cnn_attention,cnn_attention,test,0.9958501006036217,0.9579279525739937,743
+cnn,cnn,test,0.9935446009389671,0.9530799974866864,743
+cnn_focus_hybrid,cnn_focus_hybrid,test,0.97761569416499,0.8524601731825122,743
+transfer,transfer:MobileNet,test,0.9748490945674044,0.8438112915320141,743
+hybrid_vit,hybrid_vit,test,0.9621688464118041,0.801216963360402,743
+focus_dnn,focus_dnn,test,0.9079896042924213,0.5875057448117488,743
+threshold_baselines,threshold_baselines:composite,test,0.6554954728370221,0.2876061981371698,743
+threshold_baselines,threshold_baselines:composite,val,0.651358695652174,0.24131097573639385,762
+classical_ml,classical_ml:gradient_boosting,test,0.8568494299128102,0.5773718834583267,743
+classical_ml,classical_ml:gradient_boosting,val,0.8835446859903382,0.612798317975862,762
+vit,vit,test,0.7398977196512408,0.4037349233535344,743

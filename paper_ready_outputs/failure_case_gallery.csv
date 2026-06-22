@@ -1,0 +1,7 @@
+image_path,y_true,y_prob,split,dataset,model,display_name,pred_label,case_type,distance
+D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos002 (3)\FieldPos002 (3)_page_8.png,1,0.9998989701271056,test,tbf_imgs,cnn_attention,cnn_attention,1,true_positive,
+D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\49\49_0.jpg,0,1.099493329093093e-05,test,wbc,cnn_attention,cnn_attention,0,true_negative,
+D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos002 (3)\FieldPos002 (3)_page_6.png,0,0.9802259206771852,test,tbf_imgs,cnn_attention,cnn_attention,1,high_confidence_false_positive,
+D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos082\FieldPos082_page_6.png,1,0.4177584052085876,test,tbf_imgs,cnn_attention,cnn_attention,0,high_confidence_false_negative,
+D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos207_Cam01_RGB_MB\FieldPos207_Cam01_RGB_MB_page_7.png,1,0.6929960250854492,test,pbs_imgs,cnn_attention,cnn_attention,1,borderline_correct_positive,0.19299602508544922
+D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\58\58_4.jpg,0,0.4781560003757477,test,wbc,cnn_attention,cnn_attention,0,borderline_correct_negative,0.02184399962425232

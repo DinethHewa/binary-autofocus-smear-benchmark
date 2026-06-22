@@ -1,0 +1,10 @@
+family,model_name,params_count,latency_ms_mean,latency_ms_p95,model_file_size_mb,layer_count,hardware,input_size,tuning_walltime_s,feature_extraction_time_s
+cnn_attention,cnn_attention,156569.0,6.6236010000284296,6.998610001755878,1.257425308227539,16.0,CPU:/physical_device:CPU:0,224.0,34696.8752157,
+transfer,transfer:MobileNet,3360193.0,9.370590001926756,9.8054200047045,14.137889862060547,7.0,CPU:/physical_device:CPU:0,224.0,1.408496299991384,
+cnn,cnn,3729489.0,15.023668000001749,18.84469499999,42.756537437438965,24.0,CPU:/physical_device:CPU:0,224.0,1.9253056999999671,
+vit,vit,462721.0,42.262785000001486,48.68990499999768,5.710369110107422,63.0,CPU:/physical_device:CPU:0,224.0,0.1298891000000139,
+hybrid_vit,hybrid_vit,2390145.0,48.744032999675255,111.01107498834592,10.746504783630371,17.0,CPU:/physical_device:CPU:0,224.0,115046.2538004,
+focus_dnn,focus_dnn,33793.0,,,0.28838348388671875,5.0,CPU:/physical_device:CPU:0,224.0,10672.3398965,
+cnn_focus_hybrid,cnn_focus_hybrid,102161.0,,,0.8635768890380859,24.0,CPU:/physical_device:CPU:0,224.0,205622.5734266,
+threshold_baselines,composite,,,,,,,,,
+classical_ml,gradient_boosting,,,,,,,,,0.011604300001636147
