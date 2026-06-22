@@ -1,0 +1,13 @@
+{
+  "family": "cnn_focus_hybrid",
+  "heldout_dataset": "wbc",
+  "seed": 42,
+  "auc": 0.1446280991735537,
+  "f1": 0.0,
+  "ece": 0.03259426020932468,
+  "brier": 0.11471701507142024,
+  "threshold": 0.53,
+  "n_test": 176,
+  "train_time_s": 794.5338840999175,
+  "input_size": 224
+}

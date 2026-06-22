@@ -1,0 +1,13 @@
+{
+  "family": "transfer",
+  "heldout_dataset": "TBSI",
+  "seed": 42,
+  "auc": 0.44,
+  "f1": 0.0,
+  "ece": 0.10269510583020745,
+  "brier": 0.11092356917553528,
+  "threshold": 0.74,
+  "n_test": 40,
+  "train_time_s": 764.7771859999993,
+  "input_size": 224
+}

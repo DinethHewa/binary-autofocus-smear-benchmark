@@ -1,0 +1,13 @@
+{
+  "family": "transfer",
+  "heldout_dataset": "tbf_imgs",
+  "seed": 42,
+  "auc": 0.5665584415584416,
+  "f1": 0.0,
+  "ece": 0.013023250270634888,
+  "brier": 0.07673821651372699,
+  "threshold": 0.5,
+  "n_test": 336,
+  "train_time_s": 490.7669119000002,
+  "input_size": 224
+}

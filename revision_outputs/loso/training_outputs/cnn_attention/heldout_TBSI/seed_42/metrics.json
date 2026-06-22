@@ -1,0 +1,13 @@
+{
+  "family": "cnn_attention",
+  "heldout_dataset": "TBSI",
+  "seed": 42,
+  "auc": 0.9085714285714286,
+  "f1": 0.33333333333333337,
+  "ece": 0.29996712468564507,
+  "brier": 0.12125100345297968,
+  "threshold": 0.56,
+  "n_test": 40,
+  "train_time_s": 1921.9799045,
+  "input_size": 224
+}

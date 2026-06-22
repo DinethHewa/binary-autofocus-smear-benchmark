@@ -1,0 +1,13 @@
+{
+  "family": "cnn_attention",
+  "heldout_dataset": "tbf_imgs",
+  "seed": 42,
+  "auc": 0.8309369202226345,
+  "f1": 0.0,
+  "ece": 0.08331949570628608,
+  "brier": 0.08333036380460801,
+  "threshold": 0.92,
+  "n_test": 336,
+  "train_time_s": 1656.6843779,
+  "input_size": 224
+}

@@ -1,0 +1,13 @@
+{
+  "family": "hybrid_vit",
+  "heldout_dataset": "pbs_imgs",
+  "seed": 42,
+  "auc": 0.8484848484848485,
+  "f1": 0.0,
+  "ece": 0.07574634986406614,
+  "brier": 0.0741993725176741,
+  "threshold": 0.92,
+  "n_test": 131,
+  "train_time_s": 957.5748926000015,
+  "input_size": 224
+}

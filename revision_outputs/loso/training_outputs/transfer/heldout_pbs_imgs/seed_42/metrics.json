@@ -1,0 +1,13 @@
+{
+  "family": "transfer",
+  "heldout_dataset": "pbs_imgs",
+  "seed": 42,
+  "auc": 0.8613636363636363,
+  "f1": 0.0,
+  "ece": 0.04403912258967188,
+  "brier": 0.0687550879226787,
+  "threshold": 0.27,
+  "n_test": 131,
+  "train_time_s": 649.1066501999994,
+  "input_size": 224
+}

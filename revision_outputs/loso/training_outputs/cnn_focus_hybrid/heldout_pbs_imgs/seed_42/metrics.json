@@ -1,0 +1,13 @@
+{
+  "family": "cnn_focus_hybrid",
+  "heldout_dataset": "pbs_imgs",
+  "seed": 42,
+  "auc": 0.8431818181818181,
+  "f1": 0.4444444444444444,
+  "ece": 0.44585169294408256,
+  "brier": 0.25916467930865406,
+  "threshold": 0.7000000000000001,
+  "n_test": 131,
+  "train_time_s": 658.0973762000012,
+  "input_size": 224
+}

@@ -1,0 +1,13 @@
+{
+  "family": "cnn",
+  "heldout_dataset": "pbs_imgs",
+  "seed": 42,
+  "auc": 0.937121212121212,
+  "f1": 0.5384615384615385,
+  "ece": 0.14969787200026832,
+  "brier": 0.12518185400302478,
+  "threshold": 0.97,
+  "n_test": 131,
+  "train_time_s": 4791.6810236,
+  "input_size": 224
+}

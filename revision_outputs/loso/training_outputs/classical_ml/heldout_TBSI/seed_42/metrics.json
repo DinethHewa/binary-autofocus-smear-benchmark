@@ -1,0 +1,13 @@
+{
+  "family": "classical_ml",
+  "heldout_dataset": "TBSI",
+  "seed": 42,
+  "auc": 0.8,
+  "f1": 0.7499999999999999,
+  "ece": 0.0968512686507447,
+  "brier": 0.058270929459556496,
+  "threshold": 0.72,
+  "n_test": 40,
+  "best_model": "gradient_boosting",
+  "input_size": 224
+}

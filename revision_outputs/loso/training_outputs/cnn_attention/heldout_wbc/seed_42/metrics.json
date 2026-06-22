@@ -1,0 +1,13 @@
+{
+  "family": "cnn_attention",
+  "heldout_dataset": "wbc",
+  "seed": 42,
+  "auc": 0.3364817001180638,
+  "f1": 0.0,
+  "ece": 0.2045401215807281,
+  "brier": 0.1275241181571727,
+  "threshold": 0.8,
+  "n_test": 176,
+  "train_time_s": 2653.2967226000037,
+  "input_size": 224
+}

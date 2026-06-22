@@ -1,0 +1,13 @@
+{
+  "family": "cnn_focus_hybrid",
+  "heldout_dataset": "tbf_imgs",
+  "seed": 42,
+  "auc": 0.6371753246753247,
+  "f1": 0.0,
+  "ece": 0.07118303021083452,
+  "brier": 0.08135092212624852,
+  "threshold": 0.65,
+  "n_test": 336,
+  "train_time_s": 517.3007643999999,
+  "input_size": 224
+}

@@ -1,0 +1,13 @@
+{
+  "family": "cnn_attention",
+  "heldout_dataset": "bma",
+  "seed": 42,
+  "auc": 0.9672727272727273,
+  "f1": 0.2702702702702703,
+  "ece": 0.1571336233561548,
+  "brier": 0.08593730784700612,
+  "threshold": 0.08,
+  "n_test": 60,
+  "train_time_s": 2629.9653669,
+  "input_size": 224
+}

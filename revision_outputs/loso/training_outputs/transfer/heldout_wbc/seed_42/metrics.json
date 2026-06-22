@@ -1,0 +1,13 @@
+{
+  "family": "transfer",
+  "heldout_dataset": "wbc",
+  "seed": 42,
+  "auc": 0.6853600944510035,
+  "f1": 0.0,
+  "ece": 0.20152007916476578,
+  "brier": 0.16387752733660638,
+  "threshold": 0.89,
+  "n_test": 176,
+  "train_time_s": 682.7438033999642,
+  "input_size": 224
+}

@@ -1,0 +1,13 @@
+{
+  "family": "classical_ml",
+  "heldout_dataset": "pbs_imgs",
+  "seed": 42,
+  "auc": 0.8856060606060606,
+  "f1": 0.30769230769230765,
+  "ece": 0.1198985093734024,
+  "brier": 0.10574882413806298,
+  "threshold": 0.72,
+  "n_test": 131,
+  "best_model": "gradient_boosting",
+  "input_size": 224
+}

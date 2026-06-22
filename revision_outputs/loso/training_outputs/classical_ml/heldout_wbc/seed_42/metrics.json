@@ -1,0 +1,13 @@
+{
+  "family": "classical_ml",
+  "heldout_dataset": "wbc",
+  "seed": 42,
+  "auc": 0.04752066115702476,
+  "f1": 0.0,
+  "ece": 0.12420171432388788,
+  "brier": 0.12587805707985492,
+  "threshold": 0.56,
+  "n_test": 176,
+  "best_model": "gradient_boosting",
+  "input_size": 224
+}

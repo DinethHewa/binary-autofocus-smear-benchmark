@@ -1,0 +1,13 @@
+{
+  "family": "classical_ml",
+  "heldout_dataset": "tbf_imgs",
+  "seed": 42,
+  "auc": 0.5,
+  "f1": 0.0,
+  "ece": 0.08326199691702918,
+  "brier": 0.0833214490195003,
+  "threshold": 0.8,
+  "n_test": 336,
+  "best_model": "gradient_boosting",
+  "input_size": 224
+}

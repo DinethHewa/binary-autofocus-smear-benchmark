@@ -1,0 +1,13 @@
+{
+  "family": "transfer",
+  "heldout_dataset": "bma",
+  "seed": 42,
+  "auc": 0.8218181818181819,
+  "f1": 0.4000000000000001,
+  "ece": 0.2254493845626712,
+  "brier": 0.11513336608817815,
+  "threshold": 0.45,
+  "n_test": 60,
+  "train_time_s": 724.1283530000001,
+  "input_size": 224
+}

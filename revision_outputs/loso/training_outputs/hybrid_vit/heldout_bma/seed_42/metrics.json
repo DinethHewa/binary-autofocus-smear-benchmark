@@ -1,0 +1,13 @@
+{
+  "family": "hybrid_vit",
+  "heldout_dataset": "bma",
+  "seed": 42,
+  "auc": 0.9781818181818182,
+  "f1": 0.5,
+  "ece": 0.4656520118626455,
+  "brier": 0.32619053611236015,
+  "threshold": 0.84,
+  "n_test": 60,
+  "train_time_s": 1000.4182170000022,
+  "input_size": 224
+}
