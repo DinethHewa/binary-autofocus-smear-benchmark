@@ -1,0 +1,5 @@
+model_a_code_name,model_a_display_name,model_b_code_name,model_b_display_name,n_aligned,mcnemar_b,mcnemar_c,mcnemar_statistic,mcnemar_p_value,mcnemar_method,auc_a,auc_b,auc_difference_a_minus_b,auc_difference_ci_low,auc_difference_ci_high,auc_difference_p_value,auc_difference_method
+cnn_attention,Attention-CNN,cnn,CNN,743,4,21,10.24,0.0009105205535888,exact_binomial,0.9958501006036216,0.9935446009389672,0.0023054996646545,-0.0008168850135925,0.0075748623674632,0.325,paired bootstrap
+cnn_attention,Attention-CNN,cnn_focus_hybrid,CNN--focus hybrid,743,10,15,0.64,0.4243562221527099,exact_binomial,0.9958501006036216,0.97761569416499,0.0182344064386317,0.0052333862564312,0.0412893581216924,0.0,paired bootstrap
+cnn,CNN,cnn_focus_hybrid,CNN--focus hybrid,743,15,3,6.722222222222222,0.007537841796875,exact_binomial,0.9935446009389672,0.97761569416499,0.0159289067739771,0.0051081569949779,0.0341824590650918,0.0,paired bootstrap
+cnn_attention,Attention-CNN,classical_ml,Classical ML,743,37,23,2.816666666666667,0.0924609810729237,exact_binomial,0.9958501006036216,0.8568494299128102,0.1390006706908114,0.1014478725202003,0.180128984729107,0.0,paired bootstrap
