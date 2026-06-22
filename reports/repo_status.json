@@ -1,0 +1,103 @@
+{
+  "registry": {
+    "cnn": [
+      "default",
+      "minimal",
+      "tuned"
+    ],
+    "cnn_attention": [
+      "default"
+    ],
+    "focus_dnn": [
+      "default",
+      "mlp_focus_measures"
+    ],
+    "cnn_focus_hybrid": [
+      "cnn_plus_focus",
+      "default"
+    ],
+    "transfer": [
+      "default"
+    ],
+    "vit": [
+      "default"
+    ],
+    "hybrid": [
+      "default"
+    ],
+    "hybrid_vit": [
+      "default"
+    ],
+    "efficient_vit": [
+      "default"
+    ]
+  },
+  "tunable_families": [
+    "cnn",
+    "cnn_attention",
+    "cnn_focus_hybrid",
+    "focus_dnn",
+    "hybrid_vit",
+    "transfer",
+    "vit"
+  ],
+  "config_families": [
+    "cnn",
+    "cnn_attention",
+    "hybrid_vit",
+    "transfer",
+    "vit"
+  ],
+  "missing_tuning": [
+    "cnn_focus_hybrid",
+    "focus_dnn"
+  ],
+  "checks": [
+    {
+      "name": "Model registry",
+      "status": "PASS",
+      "rationale": "Loaded registry families",
+      "files": []
+    },
+    {
+      "name": "Required files",
+      "status": "PASS",
+      "rationale": "All required files present",
+      "files": []
+    },
+    {
+      "name": "Tuning config coverage",
+      "status": "FAIL",
+      "rationale": "Missing tunable families in configs/tuning.yaml",
+      "files": [
+        "cnn_focus_hybrid",
+        "focus_dnn"
+      ]
+    },
+    {
+      "name": "Leaderboard ingestion (deep)",
+      "status": "PASS",
+      "rationale": "compare_best scans family run folders",
+      "files": []
+    },
+    {
+      "name": "Leaderboard ingestion (classical)",
+      "status": "PASS",
+      "rationale": "classical_ml ingestion present",
+      "files": []
+    },
+    {
+      "name": "Leaderboard ingestion (threshold baseline)",
+      "status": "FAIL",
+      "rationale": "threshold baseline ingestion missing",
+      "files": [
+        "/home/dineth/focus_measure/journal/focus_binary_benchmark/src/focus_binary/scripts/compare_best.py"
+      ]
+    }
+  ],
+  "summary": {
+    "pass": 4,
+    "fail": 2,
+    "warn": 0
+  }
+}
