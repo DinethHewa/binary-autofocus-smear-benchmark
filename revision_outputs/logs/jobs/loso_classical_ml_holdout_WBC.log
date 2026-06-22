@@ -1,0 +1,53 @@
+$ D:\Dineth\myenv\Scripts\python.exe -u D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\scripts\lodo_eval.py --families classical_ml --manifest data/manifest_with_splits.csv --runs-dir runs --out-dir D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\revision_outputs\loso\training_outputs --heldout wbc --seeds 42
+
+2026-05-28 10:30:44.934860: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-05-28 10:30:50.294185: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-05-28 10:30:52.020566: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Leakage check: PASS
+Leakage audit summary:
+  stack_id overlaps: 0
+  sha1 duplicates: 0
+  phash duplicates: 0
+Class balance per dataset/split:
+  TBSI split=train label=0 count=147 ratio=0.875
+  TBSI split=train label=1 count=21 ratio=0.125
+  TBSI split=val label=0 count=28 ratio=0.875
+  TBSI split=val label=1 count=4 ratio=0.125
+  bma split=train label=0 count=297 ratio=0.917
+  bma split=train label=1 count=27 ratio=0.083
+  bma split=val label=0 count=66 ratio=0.917
+  bma split=val label=1 count=6 ratio=0.083
+  pbs_imgs split=train label=0 count=546 ratio=0.910
+  pbs_imgs split=train label=1 count=54 ratio=0.090
+  pbs_imgs split=val label=0 count=138 ratio=0.920
+  pbs_imgs split=val label=1 count=12 ratio=0.080
+  tbf_imgs split=train label=0 count=1397 ratio=0.917
+  tbf_imgs split=train label=1 count=127 ratio=0.083
+  tbf_imgs split=val label=0 count=297 ratio=0.917
+  tbf_imgs split=val label=1 count=27 ratio=0.083
+  wbc split=test label=0 count=154 ratio=0.875
+  wbc split=test label=1 count=22 ratio=0.125
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+LODO classical_ml heldout=wbc seed=42: fitting logistic_regression
+LODO classical_ml heldout=wbc seed=42: fitting linear_svc_calibrated
+LODO classical_ml heldout=wbc seed=42: fitting random_forest
+LODO classical_ml heldout=wbc seed=42: fitting gradient_boosting
+[INFO] focus_binary.focus_binary.scripts.lodo_eval: LODO evaluation complete

@@ -1,0 +1,181 @@
+$ D:\Dineth\myenv\Scripts\python.exe -u D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\scripts\multiseed_eval.py --family hybrid_vit --manifest D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\revision_outputs\multiseed\leakage_safe_manifest.csv --runs-dir runs --out-dir D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\revision_outputs\multiseed\training_outputs --seeds 55 --leakage-check stack_sha1
+
+2026-05-23 03:44:52.529195: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-05-23 03:45:02.946726: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-05-23 03:45:15.153402: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Running leakage check (stack_sha1) on D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\revision_outputs\multiseed\leakage_safe_manifest.csv
+  sha1: checking 4969 files
+  sha1: checked 1/4969
+  sha1: checked 250/4969
+  sha1: checked 500/4969
+  sha1: checked 750/4969
+  sha1: checked 1000/4969
+  sha1: checked 1250/4969
+  sha1: checked 1500/4969
+  sha1: checked 1750/4969
+  sha1: checked 2000/4969
+  sha1: checked 2250/4969
+  sha1: checked 2500/4969
+  sha1: checked 2750/4969
+  sha1: checked 3000/4969
+  sha1: checked 3250/4969
+  sha1: checked 3500/4969
+  sha1: checked 3750/4969
+  sha1: checked 4000/4969
+  sha1: checked 4250/4969
+  sha1: checked 4500/4969
+  sha1: checked 4750/4969
+  sha1: checked 4969/4969
+Leakage audit summary:
+  stack_id overlaps: 0
+  sha1 duplicates: 0
+  phash duplicates: 0
+Class balance per dataset/split:
+  TBSI split=test label=0 count=35 ratio=0.875
+  TBSI split=test label=1 count=5 ratio=0.125
+  TBSI split=train label=0 count=147 ratio=0.875
+  TBSI split=train label=1 count=21 ratio=0.125
+  TBSI split=val label=0 count=28 ratio=0.875
+  TBSI split=val label=1 count=4 ratio=0.125
+  bma split=test label=0 count=55 ratio=0.917
+  bma split=test label=1 count=5 ratio=0.083
+  bma split=train label=0 count=297 ratio=0.917
+  bma split=train label=1 count=27 ratio=0.083
+  bma split=val label=0 count=66 ratio=0.917
+  bma split=val label=1 count=6 ratio=0.083
+  pbs_imgs split=test label=0 count=114 ratio=0.912
+  pbs_imgs split=test label=1 count=11 ratio=0.088
+  pbs_imgs split=train label=0 count=570 ratio=0.913
+  pbs_imgs split=train label=1 count=54 ratio=0.087
+  pbs_imgs split=val label=0 count=120 ratio=0.909
+  pbs_imgs split=val label=1 count=12 ratio=0.091
+  tbf_imgs split=test label=0 count=297 ratio=0.917
+  tbf_imgs split=test label=1 count=27 ratio=0.083
+  tbf_imgs split=train label=0 count=1353 ratio=0.917
+  tbf_imgs split=train label=1 count=123 ratio=0.083
+  tbf_imgs split=val label=0 count=352 ratio=0.917
+  tbf_imgs split=val label=1 count=32 ratio=0.083
+  wbc split=test label=0 count=154 ratio=0.875
+  wbc split=test label=1 count=22 ratio=0.125
+  wbc split=train label=0 count=742 ratio=0.875
+  wbc split=train label=1 count=106 ratio=0.125
+  wbc split=val label=0 count=161 ratio=0.875
+  wbc split=val label=1 count=23 ratio=0.125
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+Starting multiseed job: family=hybrid_vit seed=55
+hybrid_vit phase-a: epoch 1/30 start
+2026-05-23 03:49:44.774680: I external/local_xla/xla/service/service.cc:163] XLA service 0x17ad4460280 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-05-23 03:49:44.797819: I external/local_xla/xla/service/service.cc:171]   StreamExecutor device (0): Host, Default Version
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1779488422.109545   18452 device_compiler.h:196] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.
+hybrid_vit phase-a: epoch 1/30 done in 402.3s loss=0.5993 auc=0.7387 val_loss=0.3829 val_auc=0.8866
+hybrid_vit phase-a: epoch 2/30 start
+hybrid_vit phase-a: epoch 2/30 done in 39.1s loss=0.4398 auc=0.8893 val_loss=0.2707 val_auc=0.9225
+hybrid_vit phase-a: epoch 3/30 start
+hybrid_vit phase-a: epoch 3/30 done in 39.7s loss=0.3655 auc=0.9225 val_loss=0.2197 val_auc=0.9411
+hybrid_vit phase-a: epoch 4/30 start
+hybrid_vit phase-a: epoch 4/30 done in 39.1s loss=0.3164 auc=0.9411 val_loss=0.1902 val_auc=0.9505
+hybrid_vit phase-a: epoch 5/30 start
+hybrid_vit phase-a: epoch 5/30 done in 39.2s loss=0.2852 auc=0.9513 val_loss=0.1797 val_auc=0.9584
+hybrid_vit phase-a: epoch 6/30 start
+hybrid_vit phase-a: epoch 6/30 done in 39.0s loss=0.2635 auc=0.9581 val_loss=0.1815 val_auc=0.9619
+hybrid_vit phase-a: epoch 7/30 start
+hybrid_vit phase-a: epoch 7/30 done in 38.9s loss=0.2406 auc=0.9650 val_loss=0.1807 val_auc=0.9641
+hybrid_vit phase-a: epoch 8/30 start
+hybrid_vit phase-a: epoch 8/30 done in 39.1s loss=0.2350 auc=0.9662 val_loss=0.1788 val_auc=0.9634
+hybrid_vit phase-a: epoch 9/30 start
+hybrid_vit phase-a: epoch 9/30 done in 39.0s loss=0.2280 auc=0.9678 val_loss=0.1936 val_auc=0.9628
+hybrid_vit phase-a: epoch 10/30 start
+hybrid_vit phase-a: epoch 10/30 done in 38.8s loss=0.2176 auc=0.9706 val_loss=0.1984 val_auc=0.9643
+hybrid_vit phase-a: epoch 11/30 start
+hybrid_vit phase-a: epoch 11/30 done in 38.9s loss=0.2040 auc=0.9737 val_loss=0.2122 val_auc=0.9629
+hybrid_vit phase-a: epoch 12/30 start
+hybrid_vit phase-a: epoch 12/30 done in 39.0s loss=0.1899 auc=0.9770 val_loss=0.2086 val_auc=0.9632
+hybrid_vit phase-a: epoch 13/30 start
+hybrid_vit phase-a: epoch 13/30 done in 39.1s loss=0.1889 auc=0.9769 val_loss=0.2111 val_auc=0.9637
+hybrid_vit phase-a: epoch 14/30 start
+hybrid_vit phase-a: epoch 14/30 done in 39.1s loss=0.1804 auc=0.9788 val_loss=0.2307 val_auc=0.9627
+hybrid_vit phase-a: epoch 15/30 start
+hybrid_vit phase-a: epoch 15/30 done in 38.9s loss=0.1719 auc=0.9801 val_loss=0.2164 val_auc=0.9636
+hybrid_vit phase-a: epoch 16/30 start
+hybrid_vit phase-a: epoch 16/30 done in 38.9s loss=0.1654 auc=0.9813 val_loss=0.2301 val_auc=0.9639
+hybrid_vit phase-a: epoch 17/30 start
+hybrid_vit phase-a: epoch 17/30 done in 39.0s loss=0.1597 auc=0.9822 val_loss=0.2057 val_auc=0.9640
+hybrid_vit phase-a: epoch 18/30 start
+hybrid_vit phase-a: epoch 18/30 done in 38.9s loss=0.1506 auc=0.9840 val_loss=0.2139 val_auc=0.9629
+hybrid_vit phase-a: epoch 19/30 start
+hybrid_vit phase-a: epoch 19/30 done in 38.9s loss=0.1430 auc=0.9851 val_loss=0.2261 val_auc=0.9625
+hybrid_vit phase-a: epoch 20/30 start
+hybrid_vit phase-a: epoch 20/30 done in 38.9s loss=0.1384 auc=0.9857 val_loss=0.2208 val_auc=0.9632
+hybrid_vit phase-a: epoch 21/30 start
+hybrid_vit phase-a: epoch 21/30 done in 38.9s loss=0.1317 auc=0.9867 val_loss=0.2209 val_auc=0.9629
+hybrid_vit phase-a: epoch 22/30 start
+hybrid_vit phase-a: epoch 22/30 done in 38.9s loss=0.1276 auc=0.9873 val_loss=0.2386 val_auc=0.9623
+hybrid_vit phase-a: epoch 23/30 start
+hybrid_vit phase-a: epoch 23/30 done in 38.9s loss=0.1199 auc=0.9884 val_loss=0.2255 val_auc=0.9571
+hybrid_vit phase-a: epoch 24/30 start
+hybrid_vit phase-a: epoch 24/30 done in 39.0s loss=0.1099 auc=0.9897 val_loss=0.2233 val_auc=0.9483
+hybrid_vit phase-a: epoch 25/30 start
+hybrid_vit phase-a: epoch 25/30 done in 38.9s loss=0.1052 auc=0.9902 val_loss=0.2213 val_auc=0.9484
+hybrid_vit phase-a: epoch 26/30 start
+hybrid_vit phase-a: epoch 26/30 done in 38.9s loss=0.1017 auc=0.9904 val_loss=0.2321 val_auc=0.9487
+hybrid_vit phase-a: epoch 27/30 start
+hybrid_vit phase-a: epoch 27/30 done in 39.4s loss=0.1013 auc=0.9905 val_loss=0.2246 val_auc=0.9491
+hybrid_vit phase-a: epoch 28/30 start
+hybrid_vit phase-a: epoch 28/30 done in 39.0s loss=0.0959 auc=0.9908 val_loss=0.2260 val_auc=0.9490
+hybrid_vit phase-a: epoch 29/30 start
+hybrid_vit phase-a: epoch 29/30 done in 38.9s loss=0.0854 auc=0.9922 val_loss=0.2380 val_auc=0.9489
+hybrid_vit phase-a: epoch 30/30 start
+hybrid_vit phase-a: epoch 30/30 done in 38.8s loss=0.0796 auc=0.9930 val_loss=0.2384 val_auc=0.9432
+hybrid_vit final: epoch 1/10 start
+hybrid_vit final: epoch 1/10 done in 410.8s loss=0.5686 auc=0.7743
+hybrid_vit final: epoch 2/10 start
+hybrid_vit final: epoch 2/10 done in 39.0s loss=0.3974 auc=0.9125
+hybrid_vit final: epoch 3/10 start
+hybrid_vit final: epoch 3/10 done in 39.3s loss=0.3226 auc=0.9407
+hybrid_vit final: epoch 4/10 start
+hybrid_vit final: epoch 4/10 done in 39.3s loss=0.2784 auc=0.9541
+hybrid_vit final: epoch 5/10 start
+hybrid_vit final: epoch 5/10 done in 39.3s loss=0.2523 auc=0.9612
+hybrid_vit final: epoch 6/10 start
+hybrid_vit final: epoch 6/10 done in 39.1s loss=0.2362 auc=0.9654
+hybrid_vit final: epoch 7/10 start
+hybrid_vit final: epoch 7/10 done in 39.4s loss=0.2169 auc=0.9705
+hybrid_vit final: epoch 8/10 start
+hybrid_vit final: epoch 8/10 done in 39.2s loss=0.2071 auc=0.9721
+hybrid_vit final: epoch 9/10 start
+hybrid_vit final: epoch 9/10 done in 39.2s loss=0.1970 auc=0.9746
+hybrid_vit final: epoch 10/10 start
+hybrid_vit final: epoch 10/10 done in 39.5s loss=0.1872 auc=0.9763
+[INFO] focus_binary.focus_binary.scripts.multiseed_eval: seed complete
+[INFO] focus_binary.focus_binary.scripts.multiseed_eval: multi-seed evaluation complete

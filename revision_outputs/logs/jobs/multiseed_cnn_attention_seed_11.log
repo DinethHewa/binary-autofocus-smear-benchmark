@@ -1,0 +1,299 @@
+$ D:\Dineth\myenv\Scripts\python.exe -u D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\scripts\multiseed_eval.py --family cnn_attention --manifest D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\revision_outputs\multiseed\leakage_safe_manifest.csv --runs-dir runs --out-dir D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\revision_outputs\multiseed\training_outputs --seeds 11 --leakage-check stack_sha1
+
+2026-05-21 21:51:08.225164: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-05-21 21:51:41.432535: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-05-21 21:52:09.776582: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Running leakage check (stack_sha1) on D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\revision_outputs\multiseed\leakage_safe_manifest.csv
+  sha1: checking 4969 files
+  sha1: checked 1/4969
+  sha1: checked 250/4969
+  sha1: checked 500/4969
+  sha1: checked 750/4969
+  sha1: checked 1000/4969
+  sha1: checked 1250/4969
+  sha1: checked 1500/4969
+  sha1: checked 1750/4969
+  sha1: checked 2000/4969
+  sha1: checked 2250/4969
+  sha1: checked 2500/4969
+  sha1: checked 2750/4969
+  sha1: checked 3000/4969
+  sha1: checked 3250/4969
+  sha1: checked 3500/4969
+  sha1: checked 3750/4969
+  sha1: checked 4000/4969
+  sha1: checked 4250/4969
+  sha1: checked 4500/4969
+  sha1: checked 4750/4969
+  sha1: checked 4969/4969
+Leakage audit summary:
+  stack_id overlaps: 0
+  sha1 duplicates: 0
+  phash duplicates: 0
+Class balance per dataset/split:
+  TBSI split=test label=0 count=35 ratio=0.875
+  TBSI split=test label=1 count=5 ratio=0.125
+  TBSI split=train label=0 count=147 ratio=0.875
+  TBSI split=train label=1 count=21 ratio=0.125
+  TBSI split=val label=0 count=28 ratio=0.875
+  TBSI split=val label=1 count=4 ratio=0.125
+  bma split=test label=0 count=55 ratio=0.917
+  bma split=test label=1 count=5 ratio=0.083
+  bma split=train label=0 count=297 ratio=0.917
+  bma split=train label=1 count=27 ratio=0.083
+  bma split=val label=0 count=66 ratio=0.917
+  bma split=val label=1 count=6 ratio=0.083
+  pbs_imgs split=test label=0 count=114 ratio=0.912
+  pbs_imgs split=test label=1 count=11 ratio=0.088
+  pbs_imgs split=train label=0 count=570 ratio=0.913
+  pbs_imgs split=train label=1 count=54 ratio=0.087
+  pbs_imgs split=val label=0 count=120 ratio=0.909
+  pbs_imgs split=val label=1 count=12 ratio=0.091
+  tbf_imgs split=test label=0 count=297 ratio=0.917
+  tbf_imgs split=test label=1 count=27 ratio=0.083
+  tbf_imgs split=train label=0 count=1353 ratio=0.917
+  tbf_imgs split=train label=1 count=123 ratio=0.083
+  tbf_imgs split=val label=0 count=352 ratio=0.917
+  tbf_imgs split=val label=1 count=32 ratio=0.083
+  wbc split=test label=0 count=154 ratio=0.875
+  wbc split=test label=1 count=22 ratio=0.125
+  wbc split=train label=0 count=742 ratio=0.875
+  wbc split=train label=1 count=106 ratio=0.125
+  wbc split=val label=0 count=161 ratio=0.875
+  wbc split=val label=1 count=23 ratio=0.125
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+[WARNING] focus_binary.focus_binary.data.balance: Extreme class imbalance detected
+Starting multiseed job: family=cnn_attention seed=11
+cnn_attention phase-a: epoch 1/50 start
+2026-05-21 21:58:18.947828: I external/local_xla/xla/service/service.cc:163] XLA service 0x2930cc3a540 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2026-05-21 21:58:18.948786: I external/local_xla/xla/service/service.cc:171]   StreamExecutor device (0): Host, Default Version
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1779380942.594132   13004 device_compiler.h:196] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.
+cnn_attention phase-a: epoch 1/50 done in 409.7s loss=0.6790 auc=0.7172 val_loss=0.3985 val_auc=0.4465
+cnn_attention phase-a: epoch 2/50 start
+cnn_attention phase-a: epoch 2/50 done in 142.5s loss=0.6200 auc=0.7600 val_loss=0.3919 val_auc=0.4545
+cnn_attention phase-a: epoch 3/50 start
+cnn_attention phase-a: epoch 3/50 done in 143.9s loss=0.5844 auc=0.7877 val_loss=0.4239 val_auc=0.5075
+cnn_attention phase-a: epoch 4/50 start
+cnn_attention phase-a: epoch 4/50 done in 143.9s loss=0.5592 auc=0.8082 val_loss=0.4573 val_auc=0.5178
+cnn_attention phase-a: epoch 5/50 start
+cnn_attention phase-a: epoch 5/50 done in 142.4s loss=0.5518 auc=0.8146 val_loss=0.4251 val_auc=0.6353
+cnn_attention phase-a: epoch 6/50 start
+cnn_attention phase-a: epoch 6/50 done in 141.7s loss=0.5396 auc=0.8203 val_loss=0.4105 val_auc=0.6982
+cnn_attention phase-a: epoch 7/50 start
+cnn_attention phase-a: epoch 7/50 done in 142.3s loss=0.5292 auc=0.8296 val_loss=0.4841 val_auc=0.7090
+cnn_attention phase-a: epoch 8/50 start
+cnn_attention phase-a: epoch 8/50 done in 141.9s loss=0.5208 auc=0.8383 val_loss=0.5370 val_auc=0.8457
+cnn_attention phase-a: epoch 9/50 start
+cnn_attention phase-a: epoch 9/50 done in 142.1s loss=0.5151 auc=0.8416 val_loss=0.5202 val_auc=0.7123
+cnn_attention phase-a: epoch 10/50 start
+cnn_attention phase-a: epoch 10/50 done in 141.9s loss=0.5118 auc=0.8430 val_loss=0.5663 val_auc=0.8543
+cnn_attention phase-a: epoch 11/50 start
+cnn_attention phase-a: epoch 11/50 done in 141.0s loss=0.4959 auc=0.8578 val_loss=0.5841 val_auc=0.7342
+cnn_attention phase-a: epoch 12/50 start
+cnn_attention phase-a: epoch 12/50 done in 141.7s loss=0.4824 auc=0.8660 val_loss=0.5554 val_auc=0.8353
+cnn_attention phase-a: epoch 13/50 start
+cnn_attention phase-a: epoch 13/50 done in 142.2s loss=0.4717 auc=0.8737 val_loss=0.4711 val_auc=0.8180
+cnn_attention phase-a: epoch 14/50 start
+cnn_attention phase-a: epoch 14/50 done in 141.1s loss=0.4620 auc=0.8805 val_loss=0.4770 val_auc=0.6997
+cnn_attention phase-a: epoch 15/50 start
+cnn_attention phase-a: epoch 15/50 done in 142.5s loss=0.4337 auc=0.9012 val_loss=0.2511 val_auc=0.9109
+cnn_attention phase-a: epoch 16/50 start
+cnn_attention phase-a: epoch 16/50 done in 142.5s loss=0.4339 auc=0.9016 val_loss=0.2904 val_auc=0.9236
+cnn_attention phase-a: epoch 17/50 start
+cnn_attention phase-a: epoch 17/50 done in 142.1s loss=0.3962 auc=0.9206 val_loss=0.2883 val_auc=0.9298
+cnn_attention phase-a: epoch 18/50 start
+cnn_attention phase-a: epoch 18/50 done in 142.5s loss=0.4154 auc=0.9091 val_loss=0.2516 val_auc=0.9194
+cnn_attention phase-a: epoch 19/50 start
+cnn_attention phase-a: epoch 19/50 done in 142.6s loss=0.4113 auc=0.9116 val_loss=0.6309 val_auc=0.8477
+cnn_attention phase-a: epoch 20/50 start
+cnn_attention phase-a: epoch 20/50 done in 142.7s loss=0.3382 auc=0.9452 val_loss=0.3321 val_auc=0.7615
+cnn_attention phase-a: epoch 21/50 start
+cnn_attention phase-a: epoch 21/50 done in 143.7s loss=0.3150 auc=0.9515 val_loss=0.5298 val_auc=0.8600
+cnn_attention phase-a: epoch 22/50 start
+cnn_attention phase-a: epoch 22/50 done in 143.5s loss=0.3013 auc=0.9558 val_loss=0.4036 val_auc=0.7468
+cnn_attention phase-a: epoch 23/50 start
+cnn_attention phase-a: epoch 23/50 done in 143.2s loss=0.2917 auc=0.9581 val_loss=0.3899 val_auc=0.8885
+cnn_attention phase-a: epoch 24/50 start
+cnn_attention phase-a: epoch 24/50 done in 142.8s loss=0.2624 auc=0.9675 val_loss=0.2974 val_auc=0.9040
+cnn_attention phase-a: epoch 25/50 start
+cnn_attention phase-a: epoch 25/50 done in 142.1s loss=0.2491 auc=0.9701 val_loss=1.4731 val_auc=0.7432
+cnn_attention phase-a: epoch 26/50 start
+cnn_attention phase-a: epoch 26/50 done in 141.9s loss=0.2911 auc=0.9582 val_loss=0.5995 val_auc=0.6907
+cnn_attention phase-a: epoch 27/50 start
+cnn_attention phase-a: epoch 27/50 done in 141.5s loss=0.2897 auc=0.9599 val_loss=1.2007 val_auc=0.8679
+cnn_attention phase-a: epoch 28/50 start
+cnn_attention phase-a: epoch 28/50 done in 141.0s loss=0.3357 auc=0.9449 val_loss=0.3316 val_auc=0.8210
+cnn_attention phase-a: epoch 29/50 start
+cnn_attention phase-a: epoch 29/50 done in 143.3s loss=0.3633 auc=0.9362 val_loss=1.0578 val_auc=0.7566
+cnn_attention phase-a: epoch 30/50 start
+cnn_attention phase-a: epoch 30/50 done in 142.4s loss=0.2262 auc=0.9756 val_loss=0.2737 val_auc=0.9460
+cnn_attention phase-a: epoch 31/50 start
+cnn_attention phase-a: epoch 31/50 done in 141.4s loss=0.2687 auc=0.9663 val_loss=0.1826 val_auc=0.9529
+cnn_attention phase-a: epoch 32/50 start
+cnn_attention phase-a: epoch 32/50 done in 140.7s loss=0.3096 auc=0.9522 val_loss=1.1712 val_auc=0.8726
+cnn_attention phase-a: epoch 33/50 start
+cnn_attention phase-a: epoch 33/50 done in 141.7s loss=0.2710 auc=0.9660 val_loss=0.3338 val_auc=0.8443
+cnn_attention phase-a: epoch 34/50 start
+cnn_attention phase-a: epoch 34/50 done in 141.2s loss=0.2352 auc=0.9738 val_loss=1.2375 val_auc=0.5000
+cnn_attention phase-a: epoch 35/50 start
+cnn_attention phase-a: epoch 35/50 done in 141.1s loss=0.2303 auc=0.9757 val_loss=1.8474 val_auc=0.6806
+cnn_attention phase-a: epoch 36/50 start
+cnn_attention phase-a: epoch 36/50 done in 141.1s loss=0.1957 auc=0.9822 val_loss=0.8031 val_auc=0.7649
+cnn_attention phase-a: epoch 37/50 start
+cnn_attention phase-a: epoch 37/50 done in 141.3s loss=0.2346 auc=0.9743 val_loss=0.7880 val_auc=0.6819
+cnn_attention phase-a: epoch 38/50 start
+cnn_attention phase-a: epoch 38/50 done in 141.1s loss=0.2165 auc=0.9793 val_loss=0.2149 val_auc=0.9597
+cnn_attention phase-a: epoch 39/50 start
+cnn_attention phase-a: epoch 39/50 done in 141.2s loss=0.2571 auc=0.9704 val_loss=0.8376 val_auc=0.9336
+cnn_attention phase-a: epoch 40/50 start
+cnn_attention phase-a: epoch 40/50 done in 141.0s loss=0.2283 auc=0.9765 val_loss=1.0087 val_auc=0.9003
+cnn_attention phase-a: epoch 41/50 start
+cnn_attention phase-a: epoch 41/50 done in 141.1s loss=0.2569 auc=0.9704 val_loss=1.2784 val_auc=0.6993
+cnn_attention phase-a: epoch 42/50 start
+cnn_attention phase-a: epoch 42/50 done in 141.8s loss=0.2105 auc=0.9800 val_loss=0.5066 val_auc=0.7046
+cnn_attention phase-a: epoch 43/50 start
+cnn_attention phase-a: epoch 43/50 done in 141.9s loss=0.1874 auc=0.9839 val_loss=1.1940 val_auc=0.6888
+cnn_attention phase-a: epoch 44/50 start
+cnn_attention phase-a: epoch 44/50 done in 142.9s loss=0.2555 auc=0.9712 val_loss=1.1651 val_auc=0.9360
+cnn_attention phase-a: epoch 45/50 start
+cnn_attention phase-a: epoch 45/50 done in 143.4s loss=0.2168 auc=0.9784 val_loss=0.4074 val_auc=0.7690
+cnn_attention phase-a: epoch 46/50 start
+cnn_attention phase-a: epoch 46/50 done in 143.5s loss=0.2113 auc=0.9799 val_loss=0.7975 val_auc=0.6878
+cnn_attention phase-a: epoch 47/50 start
+cnn_attention phase-a: epoch 47/50 done in 143.4s loss=0.1834 auc=0.9846 val_loss=0.4741 val_auc=0.7904
+cnn_attention phase-a: epoch 48/50 start
+cnn_attention phase-a: epoch 48/50 done in 142.4s loss=0.1893 auc=0.9834 val_loss=2.1239 val_auc=0.6680
+cnn_attention phase-a: epoch 49/50 start
+cnn_attention phase-a: epoch 49/50 done in 142.0s loss=0.1816 auc=0.9858 val_loss=0.2101 val_auc=0.9737
+cnn_attention phase-a: epoch 50/50 start
+cnn_attention phase-a: epoch 50/50 done in 141.7s loss=0.2040 auc=0.9817 val_loss=2.0824 val_auc=0.7798
+cnn_attention final: epoch 1/49 start
+cnn_attention final: epoch 1/49 done in 423.7s loss=0.6693 auc=0.7227
+cnn_attention final: epoch 2/49 start
+cnn_attention final: epoch 2/49 done in 174.1s loss=0.6109 auc=0.7735
+cnn_attention final: epoch 3/49 start
+cnn_attention final: epoch 3/49 done in 174.9s loss=0.5817 auc=0.7890
+cnn_attention final: epoch 4/49 start
+cnn_attention final: epoch 4/49 done in 175.0s loss=0.5696 auc=0.7996
+cnn_attention final: epoch 5/49 start
+cnn_attention final: epoch 5/49 done in 174.0s loss=0.5494 auc=0.8152
+cnn_attention final: epoch 6/49 start
+cnn_attention final: epoch 6/49 done in 171.9s loss=0.5343 auc=0.8247
+cnn_attention final: epoch 7/49 start
+cnn_attention final: epoch 7/49 done in 169.8s loss=0.5227 auc=0.8348
+cnn_attention final: epoch 8/49 start
+cnn_attention final: epoch 8/49 done in 170.5s loss=0.5084 auc=0.8404
+cnn_attention final: epoch 9/49 start
+cnn_attention final: epoch 9/49 done in 169.1s loss=0.5176 auc=0.8397
+cnn_attention final: epoch 10/49 start
+cnn_attention final: epoch 10/49 done in 168.8s loss=0.4862 auc=0.8581
+cnn_attention final: epoch 11/49 start
+cnn_attention final: epoch 11/49 done in 169.4s loss=0.4828 auc=0.8627
+cnn_attention final: epoch 12/49 start
+cnn_attention final: epoch 12/49 done in 169.4s loss=0.4660 auc=0.8754
+cnn_attention final: epoch 13/49 start
+cnn_attention final: epoch 13/49 done in 170.0s loss=0.4587 auc=0.8827
+cnn_attention final: epoch 14/49 start
+cnn_attention final: epoch 14/49 done in 170.0s loss=0.4377 auc=0.8963
+cnn_attention final: epoch 15/49 start
+cnn_attention final: epoch 15/49 done in 169.2s loss=0.4116 auc=0.9114
+cnn_attention final: epoch 16/49 start
+cnn_attention final: epoch 16/49 done in 169.7s loss=0.3968 auc=0.9180
+cnn_attention final: epoch 17/49 start
+cnn_attention final: epoch 17/49 done in 169.1s loss=0.3840 auc=0.9260
+cnn_attention final: epoch 18/49 start
+cnn_attention final: epoch 18/49 done in 169.5s loss=0.3576 auc=0.9364
+cnn_attention final: epoch 19/49 start
+cnn_attention final: epoch 19/49 done in 170.1s loss=0.3804 auc=0.9264
+cnn_attention final: epoch 20/49 start
+cnn_attention final: epoch 20/49 done in 169.3s loss=0.3431 auc=0.9417
+cnn_attention final: epoch 21/49 start
+cnn_attention final: epoch 21/49 done in 169.4s loss=0.3337 auc=0.9452
+cnn_attention final: epoch 22/49 start
+cnn_attention final: epoch 22/49 done in 169.2s loss=0.3546 auc=0.9369
+cnn_attention final: epoch 23/49 start
+cnn_attention final: epoch 23/49 done in 168.6s loss=0.3077 auc=0.9540
+cnn_attention final: epoch 24/49 start
+cnn_attention final: epoch 24/49 done in 169.2s loss=0.3648 auc=0.9346
+cnn_attention final: epoch 25/49 start
+cnn_attention final: epoch 25/49 done in 168.3s loss=0.3474 auc=0.9416
+cnn_attention final: epoch 26/49 start
+cnn_attention final: epoch 26/49 done in 169.4s loss=0.3216 auc=0.9505
+cnn_attention final: epoch 27/49 start
+cnn_attention final: epoch 27/49 done in 169.1s loss=0.3896 auc=0.9286
+cnn_attention final: epoch 28/49 start
+cnn_attention final: epoch 28/49 done in 168.4s loss=0.3043 auc=0.9576
+cnn_attention final: epoch 29/49 start
+cnn_attention final: epoch 29/49 done in 168.9s loss=0.2753 auc=0.9636
+cnn_attention final: epoch 30/49 start
+cnn_attention final: epoch 30/49 done in 169.1s loss=0.2692 auc=0.9664
+cnn_attention final: epoch 31/49 start
+cnn_attention final: epoch 31/49 done in 169.6s loss=0.2615 auc=0.9683
+cnn_attention final: epoch 32/49 start
+cnn_attention final: epoch 32/49 done in 170.8s loss=0.2492 auc=0.9706
+cnn_attention final: epoch 33/49 start
+cnn_attention final: epoch 33/49 done in 170.9s loss=0.2628 auc=0.9682
+cnn_attention final: epoch 34/49 start
+cnn_attention final: epoch 34/49 done in 170.7s loss=0.2438 auc=0.9731
+cnn_attention final: epoch 35/49 start
+cnn_attention final: epoch 35/49 done in 170.1s loss=0.2438 auc=0.9725
+cnn_attention final: epoch 36/49 start
+cnn_attention final: epoch 36/49 done in 169.3s loss=0.2350 auc=0.9756
+cnn_attention final: epoch 37/49 start
+cnn_attention final: epoch 37/49 done in 169.3s loss=0.2361 auc=0.9746
+cnn_attention final: epoch 38/49 start
+cnn_attention final: epoch 38/49 done in 169.8s loss=0.2578 auc=0.9688
+cnn_attention final: epoch 39/49 start
+cnn_attention final: epoch 39/49 done in 169.4s loss=0.2324 auc=0.9766
+cnn_attention final: epoch 40/49 start
+cnn_attention final: epoch 40/49 done in 169.1s loss=0.2403 auc=0.9749
+cnn_attention final: epoch 41/49 start
+cnn_attention final: epoch 41/49 done in 170.2s loss=0.2238 auc=0.9776
+cnn_attention final: epoch 42/49 start
+cnn_attention final: epoch 42/49 done in 170.3s loss=0.2064 auc=0.9818
+cnn_attention final: epoch 43/49 start
+cnn_attention final: epoch 43/49 done in 169.9s loss=0.2573 auc=0.9709
+cnn_attention final: epoch 44/49 start
+cnn_attention final: epoch 44/49 done in 169.1s loss=0.2881 auc=0.9633
+cnn_attention final: epoch 45/49 start
+cnn_attention final: epoch 45/49 done in 169.6s loss=0.1927 auc=0.9841
+cnn_attention final: epoch 46/49 start
+cnn_attention final: epoch 46/49 done in 170.0s loss=0.2125 auc=0.9811
+cnn_attention final: epoch 47/49 start
+cnn_attention final: epoch 47/49 done in 169.4s loss=0.2133 auc=0.9791
+cnn_attention final: epoch 48/49 start
+cnn_attention final: epoch 48/49 done in 170.4s loss=0.2230 auc=0.9797
+cnn_attention final: epoch 49/49 start
+cnn_attention final: epoch 49/49 done in 170.2s loss=0.2140 auc=0.9810
+[INFO] focus_binary.focus_binary.scripts.multiseed_eval: seed complete
+[INFO] focus_binary.focus_binary.scripts.multiseed_eval: multi-seed evaluation complete

@@ -1,0 +1,19 @@
+$ D:\Dineth\myenv\Scripts\python.exe -u D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\scripts\multiseed_eval.py --family classical_ml --manifest D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\revision_outputs\multiseed\leakage_safe_manifest.csv --runs-dir runs --out-dir D:\Dineth\focus_binary_benchmark\focus_binary_benchmark\revision_outputs\multiseed\training_outputs --seeds 11 --leakage-check stack_sha1
+
+2026-05-27 03:03:49.659851: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-05-27 03:04:16.899675: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-05-27 03:04:48.740302: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+usage: multiseed_eval.py [-h] --family
+                         {cnn,cnn_attention,transfer,vit,hybrid_vit,focus_dnn,cnn_focus_hybrid,convnext,swin}
+                         --manifest MANIFEST --runs-dir RUNS_DIR --out-dir
+                         OUT_DIR [--seeds SEEDS] [--retrain | --no-retrain]
+                         [--phase1-epochs PHASE1_EPOCHS]
+                         [--phase2-epochs PHASE2_EPOCHS]
+                         [--phase2-lr-mult PHASE2_LR_MULT]
+                         [--run-robustness | --no-run-robustness]
+                         [--robustness-per-seed]
+                         [--robustness-grid ROBUSTNESS_GRID]
+                         [--robustness-save-preds]
+                         [--leakage-check {full,stack_sha1,stack,none}]
+multiseed_eval.py: error: argument --family: invalid choice: 'classical_ml' (choose from 'cnn', 'cnn_attention', 'transfer', 'vit', 'hybrid_vit', 'focus_dnn', 'cnn_focus_hybrid', 'convnext', 'swin')
