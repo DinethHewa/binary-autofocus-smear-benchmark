@@ -1,0 +1,49 @@
+# High-level defaults for training and evaluation.
+seed: 42
+img_size: [224, 224]
+batch_size: 16
+epochs: 30
+model_family: cnn
+optimizer: adam
+learning_rate: 0.0005
+mixed_precision: false
+output_dir: ./artifacts
+
+# Model-specific overrides (example values for transfer).
+model:
+  backbone: MobileNetV2
+  input_size: 224
+  pooling: avg
+  head_units: 0
+  dropout: 0.1
+  weights: imagenet
+
+transfer:
+  backbone_set: light
+  base_trainable_blocks: 2
+  phase1_epochs: 3
+  phase2_epochs: 5
+  phase2_lr_multiplier: 0.1
+
+optim:
+  lr: 0.0005
+
+loss:
+  label_smoothing: 0.0
+
+data:
+  manifest_with_splits: ./artifacts/manifest_with_splits.csv
+  image_mode: rgb
+  augment: false
+
+enabled_focus_measures: ["lapvar", "tenengrad", "brenner", "sml"]
+focus_vector_from_augmented: false
+
+leakage_check: true
+leakage_phash: false
+leakage_sha1: false
+leakage_max_list: 50
+
+# These references point to other config files and can be overridden via CLI flags.
+datasets: configs/datasets.yaml
+tuning: configs/tuning.yaml

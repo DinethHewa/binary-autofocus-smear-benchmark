@@ -1,0 +1,141 @@
+paths:
+  project_root: .
+  data_root: ../dataset
+  manifest: data/manifest_with_splits.csv
+  split_metadata: data/splits_meta.json
+  runs_dir: runs
+  final_reports_dir: reports/final
+  journal2_predictions_dir: journal2_gate_analysis/outputs/predictions
+  journal2_calibration_dir: journal2_gate_analysis/outputs/calibration
+  classical_ml_dir: runs/classical_ml
+  threshold_baselines_dir: runs/threshold_baselines
+  paper_ready_outputs_dir: paper_ready_outputs
+  output_dir: revision_outputs
+
+subdirs:
+  audit: revision_outputs/audit
+  architecture: revision_outputs/architecture
+  predictions: revision_outputs/predictions
+  thresholds: revision_outputs/thresholds
+  caops: revision_outputs/caops
+  multiseed: revision_outputs/multiseed
+  loso: revision_outputs/loso
+  statistics: revision_outputs/statistics
+  figures: revision_outputs/figures
+  tables: revision_outputs/tables
+  paper_exports: revision_outputs/paper_exports
+  logs: revision_outputs/logs
+
+datasets:
+  names: [WBC, TBF, PBS, BMA, TBSI]
+  code_to_display:
+    wbc: WBC
+    WBC: WBC
+    WBC-MF: WBC
+    tbf_imgs: TBF
+    TBF: TBF
+    pbs_imgs: PBS
+    PBS: PBS
+    bma: BMA
+    BMA: BMA
+    TBSI: TBSI
+    TBI: TBSI
+  display_to_code:
+    WBC: wbc
+    TBF: tbf_imgs
+    PBS: pbs_imgs
+    BMA: bma
+    TBSI: TBSI
+
+model_families:
+  - cnn
+  - cnn_attention
+  - cnn_focus_hybrid
+  - transfer
+  - hybrid_vit
+  - focus_dnn
+  - classical_ml
+  - threshold_baselines
+  - vit
+
+priority_multiseed_models:
+  - cnn
+  - cnn_attention
+  - cnn_focus_hybrid
+  - transfer
+  - hybrid_vit
+
+optional_multiseed_models:
+  - focus_dnn
+  - vit
+  - classical_ml
+  - threshold_baselines
+
+priority_loso_models:
+  - cnn
+  - cnn_attention
+  - cnn_focus_hybrid
+  - transfer
+  - hybrid_vit
+  - classical_ml
+
+publication_display_names:
+  cnn: CNN
+  cnn_attention: Attention-CNN
+  cnn_focus_hybrid: CNN--focus hybrid
+  transfer: Transfer learning
+  hybrid_vit: Hybrid ViT
+  focus_dnn: Focus-DNN
+  classical_ml: Classical ML
+  threshold_baselines: Threshold baselines
+  vit: ViT
+
+default_threshold: 0.5
+threshold_grid:
+  start: 0.01
+  stop: 0.99
+  step: 0.01
+
+bootstrap:
+  iterations: 2000
+  confidence_level: 0.95
+  seed: 42
+
+random_seeds: [11, 22, 33, 44, 55]
+
+multiseed:
+  leakage_safe_manifest: revision_outputs/multiseed/leakage_safe_manifest.csv
+  leakage_check: stack_sha1
+  split_seed: 42
+
+primary_metrics:
+  - accuracy
+  - precision
+  - recall
+  - specificity
+  - balanced_accuracy
+  - MCC
+  - AUC
+  - F1
+  - ECE
+  - Brier score
+
+caops:
+  lambda_values: [0.0, 0.1, 0.25, 0.5, 1.0]
+  ece_constraint_values: [0.025, 0.05, 0.075, 0.10]
+  selection_objectives:
+    - balanced_accuracy
+    - MCC
+    - F1
+    - Youden_J
+    - CAOPS_penalty
+    - CAOPS_constraint
+
+prediction_sources:
+  deep_validation_pattern: journal2_gate_analysis/outputs/predictions/predictions_{model}_val.csv
+  deep_test_pattern: journal2_gate_analysis/outputs/predictions/predictions_{model}_test.csv
+  final_test_pattern: reports/final/predictions_{model}.csv
+  classical_predictions: runs/classical_ml/predictions.csv
+  classical_metrics: runs/classical_ml/metrics.csv
+  threshold_predictions: runs/threshold_baselines/predictions.csv
+  threshold_metrics: runs/threshold_baselines/metrics.csv

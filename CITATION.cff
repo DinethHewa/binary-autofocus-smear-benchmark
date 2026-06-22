@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or its archived results, cite the Zenodo software record and the associated manuscript."
+title: "Binary autofocus classification in smear-related microscopy: benchmark software and results"
+type: software
+version: 1.0.0
+date-released: 2026-06-22
+authors:
+  - family-names: Hewavitharana
+    given-names: Dineth
+    affiliation: University of Moratuwa
+  - family-names: Jayathilaka
+    given-names: Dumith
+    affiliation: University of Moratuwa
+  - family-names: Dassanayake
+    given-names: Palitha
+    affiliation: University of Moratuwa
+  - family-names: Amarasighe
+    given-names: Ranjith
+    affiliation: University of Moratuwa
+license: MIT
+keywords:
+  - autofocus classification
+  - smear microscopy
+  - binary classification
+  - class imbalance
+  - calibration
+  - explainable artificial intelligence
+  - robustness

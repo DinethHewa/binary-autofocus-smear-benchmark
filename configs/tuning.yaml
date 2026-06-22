@@ -1,0 +1,38 @@
+# Hyper-parameter search defaults.
+input_size: 224
+batch_size: 32  # set to 16 if GPU memory is limited
+epochs: 100
+early_stop_patience: 8
+light_mode: false
+tuner: hyperband
+leakage_check: false
+leakage_phash: false
+leakage_sha1: false
+leakage_max_list: 50
+
+families:
+  cnn:
+    max_trials: 50
+  cnn_attention:
+    max_trials: 50
+  focus_dnn:
+    max_trials: 50
+  cnn_focus_hybrid:
+    max_trials: 50
+  transfer:
+    max_trials: 50
+  vit:
+    max_trials: 50
+  hybrid_vit:
+    max_trials: 50
+  convnext:
+    max_trials: 50
+  swin:
+    max_trials: 50
+
+search_strategy: random
+results_dir: ./artifacts/tuning
+
+classical_ml:
+  enabled: true
+  models: ["logistic_regression", "linear_svc_calibrated", "random_forest", "gradient_boosting"]

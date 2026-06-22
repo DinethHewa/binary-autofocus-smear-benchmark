@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "train": 0.7,
+  "val": 0.15,
+  "test": 0.15,
+  "group_col": "stack_id",
+  "stratify_col": "label",
+  "by_dataset": true,
+  "strategy": "group_majority_label",
+  "created_at": "2025-12-22T14:43:28.338284Z"
+}

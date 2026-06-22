@@ -1,0 +1,26 @@
+# Dataset discovery and manifest options.
+# Uses paths from the original notebooks in "Dense binary" and "binary/notebooks" as reference.
+output_root: ../dataset
+manifest_path: ./artifacts/manifest.csv
+
+# Pretty dataset name -> folder name on disk
+# (matches DEFAULT_DATASET_MAP in the notebooks; keeps "TBI" pretty name while folder is "TBSI").
+dataset_map:
+  WBC-MF: wbc
+  TBF: tbf_imgs
+  PBS: pbs_imgs
+  BMA: bma
+  TBI: TBSI
+
+# Train/val/test split ratios applied per dataset.
+split:
+  train: 0.7
+  val: 0.15
+  test: 0.15
+
+# Accepted image extensions when scanning directories.
+image_exts: [".png", ".jpg", ".jpeg", ".tif", ".tiff", ".bmp"]
+
+# Focus-measure vector configuration.
+enabled_focus_measures: ["lapvar", "tenengrad", "brenner", "sml"]
+focus_vector_from_augmented: false

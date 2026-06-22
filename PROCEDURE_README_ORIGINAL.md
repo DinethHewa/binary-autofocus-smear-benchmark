@@ -1,0 +1,157 @@
+# focus_binary_benchmark
+
+Practical commands for building manifests, tuning model families, and comparing results for focused vs unfocused binary classification.
+
+## 1) Create the manifest (with splits)
+Run from the repository root:
+
+```bash
+python -m focus_binary.scripts.make_manifest --root ../dataset --out ./data/manifest_with_splits.csv --seed 42
+```
+
+This generates `./data/manifest_with_splits.csv` with stack-aware splits.
+
+## 2) Tune each family (examples)
+
+```bash
+python -m focus_binary.scripts.tune_family --family cnn --manifest ./data/manifest_with_splits.csv --out ./runs/cnn --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+
+python -m focus_binary.scripts.tune_family --family cnn_attention --manifest ./data/manifest_with_splits.csv --out ./runs/cnn_attention --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+
+python -m focus_binary.scripts.tune_family --family transfer --manifest ./data/manifest_with_splits.csv --out ./runs/transfer --seed 42 --tuner bayesian --max-trials 20 --epochs 30
+
+python -m focus_binary.scripts.tune_family --family vit --manifest ./data/manifest_with_splits.csv --out ./runs/vit --seed 42 --tuner hyperband --max-trials 20 --epochs 30
+
+python -m focus_binary.scripts.tune_family --family hybrid_vit --manifest ./data/manifest_with_splits.csv --out ./runs/hybrid_vit --seed 42 --tuner hyperband --max-trials 20 --epochs 30
+
+python -m focus_binary.scripts.tune_family --family focus_dnn --manifest ./data/manifest_with_splits.csv --out ./runs/focus_dnn --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+
+python -m focus_binary.scripts.tune_family --family cnn_focus_hybrid --manifest ./data/manifest_with_splits.csv --out ./runs/cnn_focus_hybrid --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+```
+
+## 3) Compare the best models
+
+```bash
+python -m focus_binary.scripts.compare_best --manifest ./data/manifest_with_splits.csv --runs-dir ./runs --out-dir ./reports/final
+```
+
+Outputs:
+- `./reports/final/leaderboard.csv`
+- `./reports/final/leaderboard.md`
+- `./reports/final/per_dataset_metrics.csv`
+- `./reports/final/confusion_matrices.json`
+- `./reports/final/predictions.csv`
+
+## 4) Notes
+- Stack-level splitting is mandatory to avoid leakage: images from the same stack must not appear in multiple splits.
+- “Best” is ranked by pooled test AUC, then pooled test F1, then parameter count (smaller is better).
+- `light_mode` (config in `configs/tuning.yaml` or `--light-mode` flag) restricts model sizes and transfer backbones to keep runs fast; it also warns if a trial exceeds 10M parameters.
+- `focus_dnn` = learning-based fusion of focus measures.
+- `cnn_focus_hybrid` = fusion of learned CNN embeddings with explicit sharpness descriptors.
+
+## Reproducible Q1 Benchmark Protocol
+Protocol:
+- Dataset ingestion + stack-level split + leakage audit.
+- Hyperparameter tuning: objective `val_auc` (primary), `val_f1` (secondary), early stopping enabled, budgets set in `configs/tuning.yaml`.
+- Final evaluation: multi-seed (N seeds), pooled + per-dataset metrics with mean±std + bootstrap CI.
+- Calibration: threshold selected on validation only; report ECE and Brier on test.
+- Robustness: perturbation suite (noise, JPEG, brightness/contrast, blur).
+- Explainability: Grad-CAM/attention rollout + stability (SSIM across mild transforms).
+- Statistical testing: Friedman + Nemenyi across datasets.
+
+End-to-end commands:
+
+1) Make manifest:
+```bash
+python -m focus_binary.scripts.make_manifest --root ../dataset --out ./data/manifest_with_splits.csv --seed 42
+```
+
+2) Tune each family:
+```bash
+python -m focus_binary.scripts.tune_family --family cnn --manifest ./data/manifest_with_splits.csv --out ./runs/cnn --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+python -m focus_binary.scripts.tune_family --family cnn_attention --manifest ./data/manifest_with_splits.csv --out ./runs/cnn_attention --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+python -m focus_binary.scripts.tune_family --family transfer --manifest ./data/manifest_with_splits.csv --out ./runs/transfer --seed 42 --tuner bayesian --max-trials 20 --epochs 30
+python -m focus_binary.scripts.tune_family --family vit --manifest ./data/manifest_with_splits.csv --out ./runs/vit --seed 42 --tuner hyperband --max-trials 20 --epochs 30
+python -m focus_binary.scripts.tune_family --family hybrid_vit --manifest ./data/manifest_with_splits.csv --out ./runs/hybrid_vit --seed 42 --tuner hyperband --max-trials 20 --epochs 30
+python -m focus_binary.scripts.tune_family --family focus_dnn --manifest ./data/manifest_with_splits.csv --out ./runs/focus_dnn --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+python -m focus_binary.scripts.tune_family --family cnn_focus_hybrid --manifest ./data/manifest_with_splits.csv --out ./runs/cnn_focus_hybrid --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+```
+
+3) Multi-seed eval per family (repeat per family):
+```bash
+python -m focus_binary.scripts.multiseed_eval --family cnn --manifest ./data/manifest_with_splits.csv --runs-dir ./runs --out-dir ./reports/multiseed --seeds 0,1,2,3,4
+python -m focus_binary.scripts.multiseed_eval --family focus_dnn --manifest ./data/manifest_with_splits.csv --runs-dir ./runs --out-dir ./reports/multiseed --seeds 0,1,2,3,4
+python -m focus_binary.scripts.multiseed_eval --family cnn_focus_hybrid --manifest ./data/manifest_with_splits.csv --runs-dir ./runs --out-dir ./reports/multiseed --seeds 0,1,2,3,4
+```
+
+4) Compare Q1 results:
+```bash
+python -m focus_binary.scripts.compare_best --mode q1 --runs-dir ./reports/multiseed --out-dir ./reports/final_q1
+```
+
+5) Statistical comparison:
+```bash
+python -m focus_binary.scripts.stats_compare --results-dir ./reports/final_q1 --metric auc
+```
+
+6) Explainability for winning model:
+```bash
+python -m focus_binary.scripts.explain_samples --model-path ./runs/<WINNING_FAMILY>/best_model.keras --manifest ./data/manifest_with_splits.csv --out-dir ./reports/final_q1 --family <WINNING_FAMILY> --split test --n-samples 32 --seed 0
+```
+
+7) Robustness suite for winning model:
+```bash
+python -m focus_binary.scripts.robustness_suite --model-path ./runs/<WINNING_FAMILY>/best_model.keras --manifest ./data/manifest_with_splits.csv --out-dir ./reports/final_q1/robustness --split test --grid light
+```
+
+Q1 checklist audit:
+```bash
+python scripts/q1_checklist.py --manifest ./data/manifest_with_splits.csv --runs-dir ./runs --out-dir ./reports/q1_checklist
+```
+
+## One-command Q1 pipeline
+Run in order:
+
+1) Tune families:
+```bash
+python -m focus_binary.scripts.tune_family --family cnn --manifest ./data/manifest_with_splits.csv --out ./runs/cnn --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+python -m focus_binary.scripts.tune_family --family cnn_attention --manifest ./data/manifest_with_splits.csv --out ./runs/cnn_attention --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+python -m focus_binary.scripts.tune_family --family transfer --manifest ./data/manifest_with_splits.csv --out ./runs/transfer --seed 42 --tuner bayesian --max-trials 20 --epochs 30
+python -m focus_binary.scripts.tune_family --family vit --manifest ./data/manifest_with_splits.csv --out ./runs/vit --seed 42 --tuner hyperband --max-trials 20 --epochs 30
+python -m focus_binary.scripts.tune_family --family hybrid_vit --manifest ./data/manifest_with_splits.csv --out ./runs/hybrid_vit --seed 42 --tuner hyperband --max-trials 20 --epochs 30
+python -m focus_binary.scripts.tune_family --family focus_dnn --manifest ./data/manifest_with_splits.csv --out ./runs/focus_dnn --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+python -m focus_binary.scripts.tune_family --family cnn_focus_hybrid --manifest ./data/manifest_with_splits.csv --out ./runs/cnn_focus_hybrid --seed 42 --tuner hyperband --max-trials 30 --epochs 30
+```
+
+2) Multi-seed eval:
+```bash
+python -m focus_binary.scripts.multiseed_eval --family cnn --manifest ./data/manifest_with_splits.csv --runs-dir ./runs --out-dir ./reports/multiseed --seeds 0,1,2,3,4
+```
+
+3) Robustness suite:
+```bash
+python -m focus_binary.scripts.robustness_suite --model-path ./runs/<WINNING_FAMILY>/best_model.keras --manifest ./data/manifest_with_splits.csv --out-dir ./reports/robustness/<WINNING_FAMILY> --split test --grid light
+```
+
+4) Explain samples:
+```bash
+python -m focus_binary.scripts.explain_samples --model-path ./runs/<WINNING_FAMILY>/best_model.keras --manifest ./data/manifest_with_splits.csv --out-dir ./reports/explain --family <WINNING_FAMILY> --split test --n-samples 32 --seed 0
+```
+
+5) LODO eval:
+```bash
+python scripts/lodo_eval.py --families cnn,cnn_attention,transfer,vit,hybrid_vit,focus_dnn,cnn_focus_hybrid,classical_ml,threshold_baselines --manifest ./data/manifest_with_splits.csv --out-dir ./reports/lodo --seeds 0,1,2,3,4 --heldout all --use-best-hparams true --max-epochs 30 --early-stop true
+```
+
+6) Build final Q1 report:
+```bash
+python scripts/build_final_q1_report.py --manifest ./data/manifest_with_splits.csv --runs-dir ./runs --out-dir ./reports/final_q1 --families cnn,cnn_attention,transfer,vit,hybrid_vit,focus_dnn,cnn_focus_hybrid,classical_ml,threshold_baselines --require-lodo true --require-explain true --require-robustness true --require-stats true
+```
+
+## Sanity / Audit
+```bash
+python scripts/audit_repo_status.py
+```
+Outputs:
+- `./reports/repo_status.json`
+- `./reports/repo_status.md`
