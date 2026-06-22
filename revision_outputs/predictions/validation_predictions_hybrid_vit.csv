@@ -1,0 +1,763 @@
+sample_id,dataset,stack_id,true_label,probability_focused,predicted_label_default_0p5,model_code_name,model_display_name,seed,split,image_path,dataset_code
+3,BMA,pos000_3,1,0.9996034502983092,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos000_3\pos000_3_page_8.png,bma
+7,BMA,pos001_3,1,0.9373723268508912,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos001_3\pos001_3_page_5.png,bma
+13,BMA,pos003_1,1,0.9334659576416016,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos003_1\pos003_1_page_4.png,bma
+14,BMA,pos003_2,1,0.9761991500854492,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos003_2\pos003_2_page_6.png,bma
+29,BMA,pos007_1,1,0.997760534286499,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos007_1\pos007_1_page_8.png,bma
+31,BMA,pos007_3,1,0.992855191230774,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\focused\pos007_3\pos007_3_page_10.png,bma
+71,BMA,pos000_3,0,0.0004433097201399,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_3\pos000_3_page_1.png,bma
+72,BMA,pos000_3,0,0.7471332550048828,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_3\pos000_3_page_10.png,bma
+73,BMA,pos000_3,0,0.0009299624944105,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_3\pos000_3_page_11.png,bma
+74,BMA,pos000_3,0,0.0001601918338565,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_3\pos000_3_page_12.png,bma
+75,BMA,pos000_3,0,0.0001413831632817,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_3\pos000_3_page_13.png,bma
+76,BMA,pos000_3,0,0.0002335024764761,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_3\pos000_3_page_14.png,bma
+77,BMA,pos000_3,0,0.0001402743655489,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_3\pos000_3_page_2.png,bma
+78,BMA,pos000_3,0,0.0001677982945693,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_3\pos000_3_page_3.png,bma
+79,BMA,pos000_3,0,0.0001572938635945,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_3\pos000_3_page_4.png,bma
+80,BMA,pos000_3,0,0.000197964545805,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_3\pos000_3_page_5.png,bma
+81,BMA,pos000_3,0,0.0005521662533283,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos000_3\pos000_3_page_6.png,bma
+115,BMA,pos001_3,0,0.0013381877215579,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_3\pos001_3_page_1.png,bma
+116,BMA,pos001_3,0,0.1723222732543945,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_3\pos001_3_page_10.png,bma
+117,BMA,pos001_3,0,0.3711735308170318,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_3\pos001_3_page_11.png,bma
+118,BMA,pos001_3,0,0.1074548512697219,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_3\pos001_3_page_12.png,bma
+119,BMA,pos001_3,0,0.0313011556863784,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_3\pos001_3_page_13.png,bma
+120,BMA,pos001_3,0,0.0091252047568559,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_3\pos001_3_page_14.png,bma
+121,BMA,pos001_3,0,0.8524618148803711,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_3\pos001_3_page_2.png,bma
+122,BMA,pos001_3,0,0.9436912536621094,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_3\pos001_3_page_3.png,bma
+123,BMA,pos001_3,0,0.1205193400382995,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_3\pos001_3_page_7.png,bma
+124,BMA,pos001_3,0,0.0197126511484384,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_3\pos001_3_page_8.png,bma
+125,BMA,pos001_3,0,0.0168418660759925,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos001_3\pos001_3_page_9.png,bma
+181,BMA,pos003_1,0,0.0063224327750504,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_1\pos003_1_page_1.png,bma
+182,BMA,pos003_1,0,0.000412985420553,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_1\pos003_1_page_10.png,bma
+183,BMA,pos003_1,0,0.0003513098345138,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_1\pos003_1_page_11.png,bma
+184,BMA,pos003_1,0,0.0003257354255765,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_1\pos003_1_page_12.png,bma
+185,BMA,pos003_1,0,0.0013386053033173,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_1\pos003_1_page_13.png,bma
+186,BMA,pos003_1,0,0.0037289718165993,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_1\pos003_1_page_14.png,bma
+187,BMA,pos003_1,0,0.0834821611642837,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_1\pos003_1_page_2.png,bma
+188,BMA,pos003_1,0,0.0020130379125475,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_1\pos003_1_page_6.png,bma
+189,BMA,pos003_1,0,0.000410507491324,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_1\pos003_1_page_7.png,bma
+190,BMA,pos003_1,0,0.0002602325694169,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_1\pos003_1_page_8.png,bma
+191,BMA,pos003_1,0,0.0003402802685741,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_1\pos003_1_page_9.png,bma
+192,BMA,pos003_2,0,0.0004140248638577,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_2\pos003_2_page_1.png,bma
+193,BMA,pos003_2,0,0.0001015493253362,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_2\pos003_2_page_10.png,bma
+194,BMA,pos003_2,0,0.0001228954060934,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_2\pos003_2_page_11.png,bma
+195,BMA,pos003_2,0,0.0002098474506055,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_2\pos003_2_page_12.png,bma
+196,BMA,pos003_2,0,0.0003109432582277,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_2\pos003_2_page_13.png,bma
+197,BMA,pos003_2,0,0.0003144448564853,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_2\pos003_2_page_14.png,bma
+198,BMA,pos003_2,0,0.0002643003244884,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_2\pos003_2_page_2.png,bma
+199,BMA,pos003_2,0,0.0007795339915901,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_2\pos003_2_page_3.png,bma
+200,BMA,pos003_2,0,0.0221267137676477,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_2\pos003_2_page_4.png,bma
+201,BMA,pos003_2,0,0.0007219081162475,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_2\pos003_2_page_8.png,bma
+202,BMA,pos003_2,0,0.0001040925562847,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos003_2\pos003_2_page_9.png,bma
+357,BMA,pos007_1,0,0.0003017169074155,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_1\pos007_1_page_1.png,bma
+358,BMA,pos007_1,0,0.580456018447876,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_1\pos007_1_page_10.png,bma
+359,BMA,pos007_1,0,0.0009194205049425,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_1\pos007_1_page_11.png,bma
+360,BMA,pos007_1,0,0.0002171156666008,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_1\pos007_1_page_12.png,bma
+361,BMA,pos007_1,0,0.000327711488353,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_1\pos007_1_page_13.png,bma
+362,BMA,pos007_1,0,0.0004409610701259,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_1\pos007_1_page_14.png,bma
+363,BMA,pos007_1,0,0.0002760383649729,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_1\pos007_1_page_2.png,bma
+364,BMA,pos007_1,0,0.0002735301968641,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_1\pos007_1_page_3.png,bma
+365,BMA,pos007_1,0,0.0002498904359526,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_1\pos007_1_page_4.png,bma
+366,BMA,pos007_1,0,0.0002036064688581,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_1\pos007_1_page_5.png,bma
+367,BMA,pos007_1,0,0.0004798135778401,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_1\pos007_1_page_6.png,bma
+379,BMA,pos007_3,0,0.0037766890600323,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_12.png,bma
+380,BMA,pos007_3,0,0.0009316923678852,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_13.png,bma
+381,BMA,pos007_3,0,0.0005506902816705,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_14.png,bma
+382,BMA,pos007_3,0,0.0002352755400352,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_2.png,bma
+383,BMA,pos007_3,0,0.0002230181562481,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_3.png,bma
+384,BMA,pos007_3,0,0.0003069121448788,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_4.png,bma
+385,BMA,pos007_3,0,0.0005691921105608,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_5.png,bma
+386,BMA,pos007_3,0,0.0006266566342674,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_6.png,bma
+387,BMA,pos007_3,0,0.0026314738206565,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_7.png,bma
+388,BMA,pos007_3,0,0.3277715742588043,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_8.png,bma
+389,BMA,pos007_3,0,0.9982140064239502,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\bma\unfocused\pos007_3\pos007_3_page_9.png,bma
+477,PBS,FieldPos255_Cam01_RGB_MB,1,0.990796446800232,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos255_Cam01_RGB_MB\FieldPos255_Cam01_RGB_MB_page_2.png,pbs_imgs
+485,PBS,FieldPos302_Cam01_RGB_MB,1,0.912813365459442,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_10.png,pbs_imgs
+491,PBS,FieldPos337_Cam01_RGB_MB,1,0.9981428980827332,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_11.png,pbs_imgs
+496,PBS,FieldPos362_Cam01_RGB_MB,1,0.9989409446716307,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_4.png,pbs_imgs
+498,PBS,FieldPos374_Cam01_RGB_MB,1,0.0101569080725312,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_10.png,pbs_imgs
+499,PBS,FieldPos375_Cam01_RGB_MB,1,0.8239953517913818,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_10.png,pbs_imgs
+500,PBS,FieldPos384_Cam01_RGB_MB,1,0.996813714504242,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_11.png,pbs_imgs
+507,PBS,FieldPos411_Cam01_RGB_MB,1,0.9844923615455629,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_7.png,pbs_imgs
+508,PBS,FieldPos412_Cam01_RGB_MB,1,0.0611490383744239,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_8.png,pbs_imgs
+509,PBS,FieldPos413_Cam01_RGB_MB,1,0.9823776483535768,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_8.png,pbs_imgs
+520,PBS,FieldPos445_Cam01_RGB_MB,1,0.0073895705863833,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_15.png,pbs_imgs
+528,PBS,FieldPos468_Cam01_RGB_MB,1,0.9996684193611144,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\focused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_10.png,pbs_imgs
+677,PBS,FieldPos255_Cam01_RGB_MB,0,0.0473665334284305,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos255_Cam01_RGB_MB\FieldPos255_Cam01_RGB_MB_page_4.png,pbs_imgs
+678,PBS,FieldPos255_Cam01_RGB_MB,0,0.001548888743855,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos255_Cam01_RGB_MB\FieldPos255_Cam01_RGB_MB_page_5.png,pbs_imgs
+679,PBS,FieldPos255_Cam01_RGB_MB,0,0.0034848840441554,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos255_Cam01_RGB_MB\FieldPos255_Cam01_RGB_MB_page_6.png,pbs_imgs
+680,PBS,FieldPos255_Cam01_RGB_MB,0,0.0147099290043115,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos255_Cam01_RGB_MB\FieldPos255_Cam01_RGB_MB_page_7.png,pbs_imgs
+681,PBS,FieldPos255_Cam01_RGB_MB,0,0.2707959413528442,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos255_Cam01_RGB_MB\FieldPos255_Cam01_RGB_MB_page_8.png,pbs_imgs
+682,PBS,FieldPos255_Cam01_RGB_MB,0,0.4371158182621002,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos255_Cam01_RGB_MB\FieldPos255_Cam01_RGB_MB_page_9.png,pbs_imgs
+761,PBS,FieldPos302_Cam01_RGB_MB,0,0.0033265736419707,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_12.png,pbs_imgs
+762,PBS,FieldPos302_Cam01_RGB_MB,0,0.0019258528482168,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_13.png,pbs_imgs
+763,PBS,FieldPos302_Cam01_RGB_MB,0,0.0024358623195439,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_14.png,pbs_imgs
+764,PBS,FieldPos302_Cam01_RGB_MB,0,0.0055431211367249,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_15.png,pbs_imgs
+765,PBS,FieldPos302_Cam01_RGB_MB,0,0.0015895405085757,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_2.png,pbs_imgs
+766,PBS,FieldPos302_Cam01_RGB_MB,0,0.0038814500439912,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_3.png,pbs_imgs
+767,PBS,FieldPos302_Cam01_RGB_MB,0,0.0208934284746646,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_4.png,pbs_imgs
+768,PBS,FieldPos302_Cam01_RGB_MB,0,0.0396781153976917,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_5.png,pbs_imgs
+769,PBS,FieldPos302_Cam01_RGB_MB,0,0.0563056915998458,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_6.png,pbs_imgs
+770,PBS,FieldPos302_Cam01_RGB_MB,0,0.0170880556106567,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_7.png,pbs_imgs
+771,PBS,FieldPos302_Cam01_RGB_MB,0,0.0122033953666687,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_8.png,pbs_imgs
+772,PBS,FieldPos302_Cam01_RGB_MB,0,0.1291393339633941,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos302_Cam01_RGB_MB\FieldPos302_Cam01_RGB_MB_page_9.png,pbs_imgs
+833,PBS,FieldPos337_Cam01_RGB_MB,0,0.0085125491023063,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_1.png,pbs_imgs
+834,PBS,FieldPos337_Cam01_RGB_MB,0,0.0393767356872558,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_13.png,pbs_imgs
+835,PBS,FieldPos337_Cam01_RGB_MB,0,0.0004246699681971,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_14.png,pbs_imgs
+836,PBS,FieldPos337_Cam01_RGB_MB,0,0.0001572926703374,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_15.png,pbs_imgs
+837,PBS,FieldPos337_Cam01_RGB_MB,0,0.0041019250638782,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_2.png,pbs_imgs
+838,PBS,FieldPos337_Cam01_RGB_MB,0,0.0023088830057531,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_3.png,pbs_imgs
+839,PBS,FieldPos337_Cam01_RGB_MB,0,0.000653738330584,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_4.png,pbs_imgs
+840,PBS,FieldPos337_Cam01_RGB_MB,0,0.0003253195318393,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_5.png,pbs_imgs
+841,PBS,FieldPos337_Cam01_RGB_MB,0,0.0002764028613455,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_6.png,pbs_imgs
+842,PBS,FieldPos337_Cam01_RGB_MB,0,0.0002481766277924,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_7.png,pbs_imgs
+843,PBS,FieldPos337_Cam01_RGB_MB,0,0.0002572888915892,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_8.png,pbs_imgs
+844,PBS,FieldPos337_Cam01_RGB_MB,0,0.0003508783993311,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos337_Cam01_RGB_MB\FieldPos337_Cam01_RGB_MB_page_9.png,pbs_imgs
+893,PBS,FieldPos362_Cam01_RGB_MB,0,0.0382394157350063,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_1.png,pbs_imgs
+894,PBS,FieldPos362_Cam01_RGB_MB,0,0.0004002274072263,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_10.png,pbs_imgs
+895,PBS,FieldPos362_Cam01_RGB_MB,0,0.0007701555150561,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_11.png,pbs_imgs
+896,PBS,FieldPos362_Cam01_RGB_MB,0,0.0029129539616405,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_12.png,pbs_imgs
+897,PBS,FieldPos362_Cam01_RGB_MB,0,0.0006893769605085,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_13.png,pbs_imgs
+898,PBS,FieldPos362_Cam01_RGB_MB,0,0.0002661893959157,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_14.png,pbs_imgs
+899,PBS,FieldPos362_Cam01_RGB_MB,0,0.0002763482916634,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_15.png,pbs_imgs
+900,PBS,FieldPos362_Cam01_RGB_MB,0,0.9733672738075256,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_2.png,pbs_imgs
+901,PBS,FieldPos362_Cam01_RGB_MB,0,0.0164805743843317,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_6.png,pbs_imgs
+902,PBS,FieldPos362_Cam01_RGB_MB,0,0.0008387594134546,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_7.png,pbs_imgs
+903,PBS,FieldPos362_Cam01_RGB_MB,0,0.000296985701425,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_8.png,pbs_imgs
+904,PBS,FieldPos362_Cam01_RGB_MB,0,0.0002613260585349,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos362_Cam01_RGB_MB\FieldPos362_Cam01_RGB_MB_page_9.png,pbs_imgs
+917,PBS,FieldPos374_Cam01_RGB_MB,0,0.0004026319948025,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_12.png,pbs_imgs
+918,PBS,FieldPos374_Cam01_RGB_MB,0,0.0004827804514206,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_13.png,pbs_imgs
+919,PBS,FieldPos374_Cam01_RGB_MB,0,0.0056380685418844,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_14.png,pbs_imgs
+920,PBS,FieldPos374_Cam01_RGB_MB,0,0.0177403278648853,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_15.png,pbs_imgs
+921,PBS,FieldPos374_Cam01_RGB_MB,0,0.0261637810617685,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_2.png,pbs_imgs
+922,PBS,FieldPos374_Cam01_RGB_MB,0,0.0170494373887777,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_3.png,pbs_imgs
+923,PBS,FieldPos374_Cam01_RGB_MB,0,0.0008750464767217,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_4.png,pbs_imgs
+924,PBS,FieldPos374_Cam01_RGB_MB,0,0.0007160799577832,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_5.png,pbs_imgs
+925,PBS,FieldPos374_Cam01_RGB_MB,0,0.0005642093019559,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_6.png,pbs_imgs
+926,PBS,FieldPos374_Cam01_RGB_MB,0,0.0011048316955566,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_7.png,pbs_imgs
+927,PBS,FieldPos374_Cam01_RGB_MB,0,0.0152658019214868,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_8.png,pbs_imgs
+928,PBS,FieldPos374_Cam01_RGB_MB,0,0.1830359548330307,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos374_Cam01_RGB_MB\FieldPos374_Cam01_RGB_MB_page_9.png,pbs_imgs
+929,PBS,FieldPos375_Cam01_RGB_MB,0,0.0022963141091167,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_12.png,pbs_imgs
+930,PBS,FieldPos375_Cam01_RGB_MB,0,0.0003640639188233,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_13.png,pbs_imgs
+931,PBS,FieldPos375_Cam01_RGB_MB,0,0.0002441287506371,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_14.png,pbs_imgs
+932,PBS,FieldPos375_Cam01_RGB_MB,0,0.0002510677732061,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_15.png,pbs_imgs
+933,PBS,FieldPos375_Cam01_RGB_MB,0,0.0002871706383302,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_2.png,pbs_imgs
+934,PBS,FieldPos375_Cam01_RGB_MB,0,0.0002427861618343,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_3.png,pbs_imgs
+935,PBS,FieldPos375_Cam01_RGB_MB,0,0.0004128813161514,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_4.png,pbs_imgs
+936,PBS,FieldPos375_Cam01_RGB_MB,0,0.0004230626218486,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_5.png,pbs_imgs
+937,PBS,FieldPos375_Cam01_RGB_MB,0,0.0001940534129971,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_6.png,pbs_imgs
+938,PBS,FieldPos375_Cam01_RGB_MB,0,0.0002264222857775,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_7.png,pbs_imgs
+939,PBS,FieldPos375_Cam01_RGB_MB,0,0.000425311300205,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_8.png,pbs_imgs
+940,PBS,FieldPos375_Cam01_RGB_MB,0,0.004221717827022,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos375_Cam01_RGB_MB\FieldPos375_Cam01_RGB_MB_page_9.png,pbs_imgs
+941,PBS,FieldPos384_Cam01_RGB_MB,0,0.0012011600192636,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_1.png,pbs_imgs
+942,PBS,FieldPos384_Cam01_RGB_MB,0,0.0002788124256767,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_13.png,pbs_imgs
+943,PBS,FieldPos384_Cam01_RGB_MB,0,8.793638698989525e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_14.png,pbs_imgs
+944,PBS,FieldPos384_Cam01_RGB_MB,0,9.50235771597363e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_15.png,pbs_imgs
+945,PBS,FieldPos384_Cam01_RGB_MB,0,0.000441004813183,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_2.png,pbs_imgs
+946,PBS,FieldPos384_Cam01_RGB_MB,0,0.0002756772737484,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_3.png,pbs_imgs
+947,PBS,FieldPos384_Cam01_RGB_MB,0,0.0001269903586944,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_4.png,pbs_imgs
+948,PBS,FieldPos384_Cam01_RGB_MB,0,0.0001037256370182,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_5.png,pbs_imgs
+949,PBS,FieldPos384_Cam01_RGB_MB,0,8.448670996585861e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_6.png,pbs_imgs
+950,PBS,FieldPos384_Cam01_RGB_MB,0,6.493218097602949e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_7.png,pbs_imgs
+951,PBS,FieldPos384_Cam01_RGB_MB,0,0.0001003077049972,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_8.png,pbs_imgs
+952,PBS,FieldPos384_Cam01_RGB_MB,0,0.0045684352517127,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos384_Cam01_RGB_MB\FieldPos384_Cam01_RGB_MB_page_9.png,pbs_imgs
+1025,PBS,FieldPos411_Cam01_RGB_MB,0,0.0001470919523853,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_1.png,pbs_imgs
+1026,PBS,FieldPos411_Cam01_RGB_MB,0,0.0001807985099731,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_10.png,pbs_imgs
+1027,PBS,FieldPos411_Cam01_RGB_MB,0,0.0001648686884436,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_11.png,pbs_imgs
+1028,PBS,FieldPos411_Cam01_RGB_MB,0,0.0002339811762794,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_12.png,pbs_imgs
+1029,PBS,FieldPos411_Cam01_RGB_MB,0,0.0021387829910963,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_13.png,pbs_imgs
+1030,PBS,FieldPos411_Cam01_RGB_MB,0,0.0486911758780479,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_14.png,pbs_imgs
+1031,PBS,FieldPos411_Cam01_RGB_MB,0,0.0279710609465837,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_15.png,pbs_imgs
+1032,PBS,FieldPos411_Cam01_RGB_MB,0,0.0001702547742752,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_2.png,pbs_imgs
+1033,PBS,FieldPos411_Cam01_RGB_MB,0,0.0002236053987871,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_3.png,pbs_imgs
+1034,PBS,FieldPos411_Cam01_RGB_MB,0,0.0004292884259484,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_4.png,pbs_imgs
+1035,PBS,FieldPos411_Cam01_RGB_MB,0,0.0016648098826408,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_5.png,pbs_imgs
+1036,PBS,FieldPos411_Cam01_RGB_MB,0,0.0008775250171311,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos411_Cam01_RGB_MB\FieldPos411_Cam01_RGB_MB_page_9.png,pbs_imgs
+1037,PBS,FieldPos412_Cam01_RGB_MB,0,0.0031146884430199,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_1.png,pbs_imgs
+1038,PBS,FieldPos412_Cam01_RGB_MB,0,0.0188449267297983,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_10.png,pbs_imgs
+1039,PBS,FieldPos412_Cam01_RGB_MB,0,0.0006555267027579,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_11.png,pbs_imgs
+1040,PBS,FieldPos412_Cam01_RGB_MB,0,0.0003986354277003,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_12.png,pbs_imgs
+1041,PBS,FieldPos412_Cam01_RGB_MB,0,0.0002633527619764,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_13.png,pbs_imgs
+1042,PBS,FieldPos412_Cam01_RGB_MB,0,0.0003533326671458,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_14.png,pbs_imgs
+1043,PBS,FieldPos412_Cam01_RGB_MB,0,0.0006126988446339,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_15.png,pbs_imgs
+1044,PBS,FieldPos412_Cam01_RGB_MB,0,0.0014700001338496,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_2.png,pbs_imgs
+1045,PBS,FieldPos412_Cam01_RGB_MB,0,0.0005442417459562,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_3.png,pbs_imgs
+1046,PBS,FieldPos412_Cam01_RGB_MB,0,0.0005555283278226,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_4.png,pbs_imgs
+1047,PBS,FieldPos412_Cam01_RGB_MB,0,0.0004436701128724,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_5.png,pbs_imgs
+1048,PBS,FieldPos412_Cam01_RGB_MB,0,0.000406713807024,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos412_Cam01_RGB_MB\FieldPos412_Cam01_RGB_MB_page_6.png,pbs_imgs
+1049,PBS,FieldPos413_Cam01_RGB_MB,0,0.0020082737319171,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_1.png,pbs_imgs
+1050,PBS,FieldPos413_Cam01_RGB_MB,0,0.8599090576171875,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_10.png,pbs_imgs
+1051,PBS,FieldPos413_Cam01_RGB_MB,0,0.0274492837488651,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_11.png,pbs_imgs
+1052,PBS,FieldPos413_Cam01_RGB_MB,0,0.0135480454191565,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_12.png,pbs_imgs
+1053,PBS,FieldPos413_Cam01_RGB_MB,0,0.0037505433429032,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_13.png,pbs_imgs
+1054,PBS,FieldPos413_Cam01_RGB_MB,0,0.0007053101435303,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_14.png,pbs_imgs
+1055,PBS,FieldPos413_Cam01_RGB_MB,0,0.0012939133448526,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_15.png,pbs_imgs
+1056,PBS,FieldPos413_Cam01_RGB_MB,0,0.0052492776885628,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_2.png,pbs_imgs
+1057,PBS,FieldPos413_Cam01_RGB_MB,0,0.0093919774517416,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_3.png,pbs_imgs
+1058,PBS,FieldPos413_Cam01_RGB_MB,0,0.0142726255580782,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_4.png,pbs_imgs
+1059,PBS,FieldPos413_Cam01_RGB_MB,0,0.0259360373020172,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_5.png,pbs_imgs
+1060,PBS,FieldPos413_Cam01_RGB_MB,0,0.1110231503844261,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos413_Cam01_RGB_MB\FieldPos413_Cam01_RGB_MB_page_6.png,pbs_imgs
+1181,PBS,FieldPos445_Cam01_RGB_MB,0,0.0002901450498029,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_1.png,pbs_imgs
+1182,PBS,FieldPos445_Cam01_RGB_MB,0,0.0001541408419143,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_10.png,pbs_imgs
+1183,PBS,FieldPos445_Cam01_RGB_MB,0,0.0001556220959173,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_11.png,pbs_imgs
+1184,PBS,FieldPos445_Cam01_RGB_MB,0,0.0004785040800925,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_12.png,pbs_imgs
+1185,PBS,FieldPos445_Cam01_RGB_MB,0,0.0005677819135598,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_13.png,pbs_imgs
+1186,PBS,FieldPos445_Cam01_RGB_MB,0,0.000165667021065,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_3.png,pbs_imgs
+1187,PBS,FieldPos445_Cam01_RGB_MB,0,0.0002100458368659,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_4.png,pbs_imgs
+1188,PBS,FieldPos445_Cam01_RGB_MB,0,0.0060690627433359,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_5.png,pbs_imgs
+1189,PBS,FieldPos445_Cam01_RGB_MB,0,0.971159040927887,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_6.png,pbs_imgs
+1190,PBS,FieldPos445_Cam01_RGB_MB,0,0.9986368417739868,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_7.png,pbs_imgs
+1191,PBS,FieldPos445_Cam01_RGB_MB,0,0.9180977940559388,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_8.png,pbs_imgs
+1192,PBS,FieldPos445_Cam01_RGB_MB,0,0.0004004676884505,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos445_Cam01_RGB_MB\FieldPos445_Cam01_RGB_MB_page_9.png,pbs_imgs
+1277,PBS,FieldPos468_Cam01_RGB_MB,0,0.8880030512809753,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_12.png,pbs_imgs
+1278,PBS,FieldPos468_Cam01_RGB_MB,0,0.011398259550333,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_13.png,pbs_imgs
+1279,PBS,FieldPos468_Cam01_RGB_MB,0,0.0012124399654567,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_14.png,pbs_imgs
+1280,PBS,FieldPos468_Cam01_RGB_MB,0,0.0008220333838835,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_15.png,pbs_imgs
+1281,PBS,FieldPos468_Cam01_RGB_MB,0,0.000374808529159,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_2.png,pbs_imgs
+1282,PBS,FieldPos468_Cam01_RGB_MB,0,0.0003614363959059,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_3.png,pbs_imgs
+1283,PBS,FieldPos468_Cam01_RGB_MB,0,0.0002289963304065,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_4.png,pbs_imgs
+1284,PBS,FieldPos468_Cam01_RGB_MB,0,0.0002214117266703,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_5.png,pbs_imgs
+1285,PBS,FieldPos468_Cam01_RGB_MB,0,0.0002506894234102,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_6.png,pbs_imgs
+1286,PBS,FieldPos468_Cam01_RGB_MB,0,0.0009300449164584,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_7.png,pbs_imgs
+1287,PBS,FieldPos468_Cam01_RGB_MB,0,0.0082834148779511,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_8.png,pbs_imgs
+1288,PBS,FieldPos468_Cam01_RGB_MB,0,0.9937660694122314,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\pbs_imgs\unfocused\FieldPos468_Cam01_RGB_MB\FieldPos468_Cam01_RGB_MB_page_9.png,pbs_imgs
+1347,TBF,FieldPos001 (5),1,0.9936642646789552,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos001 (5)\FieldPos001 (5)_page_8.png,tbf_imgs
+1348,TBF,FieldPos001 (6),1,0.7579672932624817,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos001 (6)\FieldPos001 (6)_page_7.png,tbf_imgs
+1349,TBF,FieldPos001 (7),1,0.7579672932624817,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos001 (7)\FieldPos001 (7)_page_7.png,tbf_imgs
+1356,TBF,FieldPos003,1,0.8412433862686157,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos003\FieldPos003_page_6.png,tbf_imgs
+1360,TBF,FieldPos003 (5),1,0.9885801672935486,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos003 (5)\FieldPos003 (5)_page_6.png,tbf_imgs
+1370,TBF,FieldPos007,1,0.844810962677002,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos007\FieldPos007_page_8.png,tbf_imgs
+1375,TBF,FieldPos009,1,0.755120038986206,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos009\FieldPos009_page_7.png,tbf_imgs
+1379,TBF,FieldPos010 (2),1,0.9726442694664,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos010 (2)\FieldPos010 (2)_page_7.png,tbf_imgs
+1380,TBF,FieldPos011,1,0.2964795231819153,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos011\FieldPos011_page_6.png,tbf_imgs
+1383,TBF,FieldPos012 (2),1,0.8434430360794067,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos012 (2)\FieldPos012 (2)_page_8.png,tbf_imgs
+1385,TBF,FieldPos013 (2),1,0.973996102809906,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos013 (2)\FieldPos013 (2)_page_8.png,tbf_imgs
+1386,TBF,FieldPos014,1,0.3310145735740661,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos014\FieldPos014_page_5.png,tbf_imgs
+1392,TBF,FieldPos017,1,0.0779483690857887,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos017\FieldPos017_page_5.png,tbf_imgs
+1402,TBF,FieldPos021,1,0.8003663420677185,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos021\FieldPos021_page_7.png,tbf_imgs
+1407,TBF,FieldPos026,1,0.9812079668045044,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos026\FieldPos026_page_8.png,tbf_imgs
+1422,TBF,FieldPos038 (2),1,0.9645580649375916,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos038 (2)\FieldPos038 (2)_page_7.png,tbf_imgs
+1445,TBF,FieldPos055 (2),1,0.925167202949524,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos055 (2)\FieldPos055 (2)_page_8.png,tbf_imgs
+1450,TBF,FieldPos060,1,0.9553048014640808,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos060\FieldPos060_page_7.png,tbf_imgs
+1461,TBF,FieldPos068,1,0.971534252166748,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos068\FieldPos068_page_7.png,tbf_imgs
+1468,TBF,FieldPos076,1,0.981758177280426,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos076\FieldPos076_page_5.png,tbf_imgs
+1469,TBF,FieldPos077,1,0.9968935251235962,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos077\FieldPos077_page_5.png,tbf_imgs
+1482,TBF,FieldPos089,1,0.3324756324291229,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos089\FieldPos089_page_6.png,tbf_imgs
+1491,TBF,FieldPos097,1,0.7951284646987915,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos097\FieldPos097_page_6.png,tbf_imgs
+1496,TBF,FieldPos102,1,0.8331069350242615,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos102\FieldPos102_page_7.png,tbf_imgs
+1510,TBF,FieldPos115,1,0.9988293647766112,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos115\FieldPos115_page_5.png,tbf_imgs
+1512,TBF,FieldPos123,1,0.97504061460495,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos123\FieldPos123_page_5.png,tbf_imgs
+1513,TBF,FieldPos125,1,0.1773954629898071,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\focused\FieldPos125\FieldPos125_page_7.png,tbf_imgs
+1629,TBF,FieldPos001 (5),0,0.0003858417621813,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (5)\FieldPos001 (5)_page_1.png,tbf_imgs
+1630,TBF,FieldPos001 (5),0,0.7974230647087097,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (5)\FieldPos001 (5)_page_10.png,tbf_imgs
+1631,TBF,FieldPos001 (5),0,0.0418665558099746,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (5)\FieldPos001 (5)_page_11.png,tbf_imgs
+1632,TBF,FieldPos001 (5),0,0.0021141716279089,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (5)\FieldPos001 (5)_page_12.png,tbf_imgs
+1633,TBF,FieldPos001 (5),0,0.0007845508516766,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (5)\FieldPos001 (5)_page_13.png,tbf_imgs
+1634,TBF,FieldPos001 (5),0,0.0004324537585489,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (5)\FieldPos001 (5)_page_14.png,tbf_imgs
+1635,TBF,FieldPos001 (5),0,0.0012901747832074,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (5)\FieldPos001 (5)_page_2.png,tbf_imgs
+1636,TBF,FieldPos001 (5),0,0.0470596514642238,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (5)\FieldPos001 (5)_page_3.png,tbf_imgs
+1637,TBF,FieldPos001 (5),0,0.7851190567016602,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (5)\FieldPos001 (5)_page_4.png,tbf_imgs
+1638,TBF,FieldPos001 (5),0,0.9712124466896056,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (5)\FieldPos001 (5)_page_5.png,tbf_imgs
+1639,TBF,FieldPos001 (5),0,0.9833508729934692,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (5)\FieldPos001 (5)_page_6.png,tbf_imgs
+1640,TBF,FieldPos001 (6),0,0.0003006521728821,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (6)\FieldPos001 (6)_page_1.png,tbf_imgs
+1641,TBF,FieldPos001 (6),0,0.0005630046944133,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (6)\FieldPos001 (6)_page_10.png,tbf_imgs
+1642,TBF,FieldPos001 (6),0,0.0001667103206273,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (6)\FieldPos001 (6)_page_11.png,tbf_imgs
+1643,TBF,FieldPos001 (6),0,7.652631029486656e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (6)\FieldPos001 (6)_page_12.png,tbf_imgs
+1644,TBF,FieldPos001 (6),0,4.649878610507585e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (6)\FieldPos001 (6)_page_13.png,tbf_imgs
+1645,TBF,FieldPos001 (6),0,4.00243625335861e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (6)\FieldPos001 (6)_page_14.png,tbf_imgs
+1646,TBF,FieldPos001 (6),0,0.0011442356044426,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (6)\FieldPos001 (6)_page_2.png,tbf_imgs
+1647,TBF,FieldPos001 (6),0,0.0257282257080078,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (6)\FieldPos001 (6)_page_3.png,tbf_imgs
+1648,TBF,FieldPos001 (6),0,0.2613815367221832,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (6)\FieldPos001 (6)_page_4.png,tbf_imgs
+1649,TBF,FieldPos001 (6),0,0.7198116183280945,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (6)\FieldPos001 (6)_page_5.png,tbf_imgs
+1650,TBF,FieldPos001 (6),0,0.0090135373175144,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (6)\FieldPos001 (6)_page_9.png,tbf_imgs
+1651,TBF,FieldPos001 (7),0,0.0003006521728821,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (7)\FieldPos001 (7)_page_1.png,tbf_imgs
+1652,TBF,FieldPos001 (7),0,0.0005630046944133,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (7)\FieldPos001 (7)_page_10.png,tbf_imgs
+1653,TBF,FieldPos001 (7),0,0.0001667103206273,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (7)\FieldPos001 (7)_page_11.png,tbf_imgs
+1654,TBF,FieldPos001 (7),0,7.652631029486656e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (7)\FieldPos001 (7)_page_12.png,tbf_imgs
+1655,TBF,FieldPos001 (7),0,4.649878610507585e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (7)\FieldPos001 (7)_page_13.png,tbf_imgs
+1656,TBF,FieldPos001 (7),0,4.00243625335861e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (7)\FieldPos001 (7)_page_14.png,tbf_imgs
+1657,TBF,FieldPos001 (7),0,0.0011442356044426,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (7)\FieldPos001 (7)_page_2.png,tbf_imgs
+1658,TBF,FieldPos001 (7),0,0.0257282257080078,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (7)\FieldPos001 (7)_page_3.png,tbf_imgs
+1659,TBF,FieldPos001 (7),0,0.2613815367221832,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (7)\FieldPos001 (7)_page_4.png,tbf_imgs
+1660,TBF,FieldPos001 (7),0,0.7198116183280945,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (7)\FieldPos001 (7)_page_5.png,tbf_imgs
+1661,TBF,FieldPos001 (7),0,0.0090135373175144,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos001 (7)\FieldPos001 (7)_page_9.png,tbf_imgs
+1728,TBF,FieldPos003,0,0.0043073543347418,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003\FieldPos003_page_1.png,tbf_imgs
+1729,TBF,FieldPos003,0,0.0449826568365097,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003\FieldPos003_page_10.png,tbf_imgs
+1730,TBF,FieldPos003,0,0.0125859146937727,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003\FieldPos003_page_11.png,tbf_imgs
+1731,TBF,FieldPos003,0,0.0042855255305767,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003\FieldPos003_page_12.png,tbf_imgs
+1732,TBF,FieldPos003,0,0.0037434285040944,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003\FieldPos003_page_13.png,tbf_imgs
+1733,TBF,FieldPos003,0,0.0023802176583558,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003\FieldPos003_page_14.png,tbf_imgs
+1734,TBF,FieldPos003,0,0.0119128674268722,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003\FieldPos003_page_2.png,tbf_imgs
+1735,TBF,FieldPos003,0,0.052802424877882,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003\FieldPos003_page_3.png,tbf_imgs
+1736,TBF,FieldPos003,0,0.3334041833877563,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003\FieldPos003_page_4.png,tbf_imgs
+1737,TBF,FieldPos003,0,0.7254186272621155,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003\FieldPos003_page_8.png,tbf_imgs
+1738,TBF,FieldPos003,0,0.2986215054988861,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003\FieldPos003_page_9.png,tbf_imgs
+1772,TBF,FieldPos003 (5),0,0.006633695680648,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003 (5)\FieldPos003 (5)_page_1.png,tbf_imgs
+1773,TBF,FieldPos003 (5),0,0.0909754112362861,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003 (5)\FieldPos003 (5)_page_10.png,tbf_imgs
+1774,TBF,FieldPos003 (5),0,0.0104098720476031,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003 (5)\FieldPos003 (5)_page_11.png,tbf_imgs
+1775,TBF,FieldPos003 (5),0,0.0041820090264081,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003 (5)\FieldPos003 (5)_page_12.png,tbf_imgs
+1776,TBF,FieldPos003 (5),0,0.0018033663509413,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003 (5)\FieldPos003 (5)_page_13.png,tbf_imgs
+1777,TBF,FieldPos003 (5),0,0.0010250160703435,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003 (5)\FieldPos003 (5)_page_14.png,tbf_imgs
+1778,TBF,FieldPos003 (5),0,0.02523023635149,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003 (5)\FieldPos003 (5)_page_2.png,tbf_imgs
+1779,TBF,FieldPos003 (5),0,0.3520461618900299,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003 (5)\FieldPos003 (5)_page_3.png,tbf_imgs
+1780,TBF,FieldPos003 (5),0,0.8964137434959412,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003 (5)\FieldPos003 (5)_page_4.png,tbf_imgs
+1781,TBF,FieldPos003 (5),0,0.9344271421432496,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003 (5)\FieldPos003 (5)_page_8.png,tbf_imgs
+1782,TBF,FieldPos003 (5),0,0.6091145277023315,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos003 (5)\FieldPos003 (5)_page_9.png,tbf_imgs
+1882,TBF,FieldPos007,0,0.001573187764734,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos007\FieldPos007_page_1.png,tbf_imgs
+1883,TBF,FieldPos007,0,0.170433685183525,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos007\FieldPos007_page_10.png,tbf_imgs
+1884,TBF,FieldPos007,0,0.0567175857722759,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos007\FieldPos007_page_11.png,tbf_imgs
+1885,TBF,FieldPos007,0,0.0135724293068051,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos007\FieldPos007_page_12.png,tbf_imgs
+1886,TBF,FieldPos007,0,0.0047688763588666,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos007\FieldPos007_page_13.png,tbf_imgs
+1887,TBF,FieldPos007,0,0.0019795114640146,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos007\FieldPos007_page_14.png,tbf_imgs
+1888,TBF,FieldPos007,0,0.0041991919279098,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos007\FieldPos007_page_2.png,tbf_imgs
+1889,TBF,FieldPos007,0,0.0065930406562983,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos007\FieldPos007_page_3.png,tbf_imgs
+1890,TBF,FieldPos007,0,0.028325030580163,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos007\FieldPos007_page_4.png,tbf_imgs
+1891,TBF,FieldPos007,0,0.1962801963090896,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos007\FieldPos007_page_5.png,tbf_imgs
+1892,TBF,FieldPos007,0,0.6205288767814636,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos007\FieldPos007_page_6.png,tbf_imgs
+1937,TBF,FieldPos009,0,0.0025282623246312,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_1.png,tbf_imgs
+1938,TBF,FieldPos009,0,0.0056795380078256,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_10.png,tbf_imgs
+1939,TBF,FieldPos009,0,0.0031718080863356,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_11.png,tbf_imgs
+1940,TBF,FieldPos009,0,0.0020590953063219,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_12.png,tbf_imgs
+1941,TBF,FieldPos009,0,0.001788169844076,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_13.png,tbf_imgs
+1942,TBF,FieldPos009,0,0.0015527206705883,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_14.png,tbf_imgs
+1943,TBF,FieldPos009,0,0.0048453384079039,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_2.png,tbf_imgs
+1944,TBF,FieldPos009,0,0.0104964543133974,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_3.png,tbf_imgs
+1945,TBF,FieldPos009,0,0.0498752444982528,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_4.png,tbf_imgs
+1946,TBF,FieldPos009,0,0.5022153854370117,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_5.png,tbf_imgs
+1947,TBF,FieldPos009,0,0.0325455851852893,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos009\FieldPos009_page_9.png,tbf_imgs
+1981,TBF,FieldPos010 (2),0,0.0046841893345117,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos010 (2)\FieldPos010 (2)_page_1.png,tbf_imgs
+1982,TBF,FieldPos010 (2),0,0.0947337225079536,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos010 (2)\FieldPos010 (2)_page_10.png,tbf_imgs
+1983,TBF,FieldPos010 (2),0,0.0185187961906194,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos010 (2)\FieldPos010 (2)_page_11.png,tbf_imgs
+1984,TBF,FieldPos010 (2),0,0.005272323731333,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos010 (2)\FieldPos010 (2)_page_12.png,tbf_imgs
+1985,TBF,FieldPos010 (2),0,0.0028479336760938,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos010 (2)\FieldPos010 (2)_page_13.png,tbf_imgs
+1986,TBF,FieldPos010 (2),0,0.0029534990899264,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos010 (2)\FieldPos010 (2)_page_14.png,tbf_imgs
+1987,TBF,FieldPos010 (2),0,0.0107377804815769,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos010 (2)\FieldPos010 (2)_page_2.png,tbf_imgs
+1988,TBF,FieldPos010 (2),0,0.0296957064419984,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos010 (2)\FieldPos010 (2)_page_3.png,tbf_imgs
+1989,TBF,FieldPos010 (2),0,0.0999498590826988,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos010 (2)\FieldPos010 (2)_page_4.png,tbf_imgs
+1990,TBF,FieldPos010 (2),0,0.6960986852645874,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos010 (2)\FieldPos010 (2)_page_5.png,tbf_imgs
+1991,TBF,FieldPos010 (2),0,0.5724023580551147,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos010 (2)\FieldPos010 (2)_page_9.png,tbf_imgs
+1992,TBF,FieldPos011,0,0.0007621679105795,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos011\FieldPos011_page_1.png,tbf_imgs
+1993,TBF,FieldPos011,0,0.0007578496006317,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos011\FieldPos011_page_10.png,tbf_imgs
+1994,TBF,FieldPos011,0,0.0010795132257044,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos011\FieldPos011_page_11.png,tbf_imgs
+1995,TBF,FieldPos011,0,0.0004491024010349,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos011\FieldPos011_page_12.png,tbf_imgs
+1996,TBF,FieldPos011,0,0.0007668019970878,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos011\FieldPos011_page_13.png,tbf_imgs
+1997,TBF,FieldPos011,0,0.000820267247036,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos011\FieldPos011_page_14.png,tbf_imgs
+1998,TBF,FieldPos011,0,0.0019386627245694,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos011\FieldPos011_page_2.png,tbf_imgs
+1999,TBF,FieldPos011,0,0.0078977467492222,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos011\FieldPos011_page_3.png,tbf_imgs
+2000,TBF,FieldPos011,0,0.0621945895254612,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos011\FieldPos011_page_4.png,tbf_imgs
+2001,TBF,FieldPos011,0,0.0101589756086468,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos011\FieldPos011_page_8.png,tbf_imgs
+2002,TBF,FieldPos011,0,0.0026772450655698,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos011\FieldPos011_page_9.png,tbf_imgs
+2025,TBF,FieldPos012 (2),0,0.0004446305974852,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos012 (2)\FieldPos012 (2)_page_1.png,tbf_imgs
+2026,TBF,FieldPos012 (2),0,0.0379243493080139,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos012 (2)\FieldPos012 (2)_page_10.png,tbf_imgs
+2027,TBF,FieldPos012 (2),0,0.0062061962671577,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos012 (2)\FieldPos012 (2)_page_11.png,tbf_imgs
+2028,TBF,FieldPos012 (2),0,0.0011325882514938,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos012 (2)\FieldPos012 (2)_page_12.png,tbf_imgs
+2029,TBF,FieldPos012 (2),0,0.0004815794818568,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos012 (2)\FieldPos012 (2)_page_13.png,tbf_imgs
+2030,TBF,FieldPos012 (2),0,0.00028653346817,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos012 (2)\FieldPos012 (2)_page_14.png,tbf_imgs
+2031,TBF,FieldPos012 (2),0,0.000657006225083,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos012 (2)\FieldPos012 (2)_page_2.png,tbf_imgs
+2032,TBF,FieldPos012 (2),0,0.0024360802490264,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos012 (2)\FieldPos012 (2)_page_3.png,tbf_imgs
+2033,TBF,FieldPos012 (2),0,0.0108035840094089,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos012 (2)\FieldPos012 (2)_page_4.png,tbf_imgs
+2034,TBF,FieldPos012 (2),0,0.0604174323379993,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos012 (2)\FieldPos012 (2)_page_5.png,tbf_imgs
+2035,TBF,FieldPos012 (2),0,0.4024437069892883,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos012 (2)\FieldPos012 (2)_page_6.png,tbf_imgs
+2047,TBF,FieldPos013 (2),0,0.0005852994509041,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos013 (2)\FieldPos013 (2)_page_1.png,tbf_imgs
+2048,TBF,FieldPos013 (2),0,0.1461134850978851,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos013 (2)\FieldPos013 (2)_page_10.png,tbf_imgs
+2049,TBF,FieldPos013 (2),0,0.0086107747629284,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos013 (2)\FieldPos013 (2)_page_11.png,tbf_imgs
+2050,TBF,FieldPos013 (2),0,0.0016720686107873,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos013 (2)\FieldPos013 (2)_page_12.png,tbf_imgs
+2051,TBF,FieldPos013 (2),0,0.0004763169563375,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos013 (2)\FieldPos013 (2)_page_13.png,tbf_imgs
+2052,TBF,FieldPos013 (2),0,0.0002878864179365,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos013 (2)\FieldPos013 (2)_page_14.png,tbf_imgs
+2053,TBF,FieldPos013 (2),0,0.0006981561891734,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos013 (2)\FieldPos013 (2)_page_2.png,tbf_imgs
+2054,TBF,FieldPos013 (2),0,0.001801056205295,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos013 (2)\FieldPos013 (2)_page_3.png,tbf_imgs
+2055,TBF,FieldPos013 (2),0,0.0072206193581223,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos013 (2)\FieldPos013 (2)_page_4.png,tbf_imgs
+2056,TBF,FieldPos013 (2),0,0.1346811801195144,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos013 (2)\FieldPos013 (2)_page_5.png,tbf_imgs
+2057,TBF,FieldPos013 (2),0,0.707305908203125,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos013 (2)\FieldPos013 (2)_page_6.png,tbf_imgs
+2058,TBF,FieldPos014,0,0.0012743949191644,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_1.png,tbf_imgs
+2059,TBF,FieldPos014,0,0.0011018851073458,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_10.png,tbf_imgs
+2060,TBF,FieldPos014,0,0.0008099002297967,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_11.png,tbf_imgs
+2061,TBF,FieldPos014,0,0.0004939133068546,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_12.png,tbf_imgs
+2062,TBF,FieldPos014,0,0.0003900466545019,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_13.png,tbf_imgs
+2063,TBF,FieldPos014,0,0.0002971941430587,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_14.png,tbf_imgs
+2064,TBF,FieldPos014,0,0.0022719639819115,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_2.png,tbf_imgs
+2065,TBF,FieldPos014,0,0.0131790721789002,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_3.png,tbf_imgs
+2066,TBF,FieldPos014,0,0.1405686289072036,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_7.png,tbf_imgs
+2067,TBF,FieldPos014,0,0.0143268313258886,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_8.png,tbf_imgs
+2068,TBF,FieldPos014,0,0.0020739980973303,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos014\FieldPos014_page_9.png,tbf_imgs
+2124,TBF,FieldPos017,0,0.0009854721138253,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos017\FieldPos017_page_1.png,tbf_imgs
+2125,TBF,FieldPos017,0,0.0004912458825856,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos017\FieldPos017_page_10.png,tbf_imgs
+2126,TBF,FieldPos017,0,0.00038502694224,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos017\FieldPos017_page_11.png,tbf_imgs
+2127,TBF,FieldPos017,0,0.0003783286956604,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos017\FieldPos017_page_12.png,tbf_imgs
+2128,TBF,FieldPos017,0,0.0004020561173092,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos017\FieldPos017_page_13.png,tbf_imgs
+2129,TBF,FieldPos017,0,0.0004450355190783,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos017\FieldPos017_page_14.png,tbf_imgs
+2130,TBF,FieldPos017,0,0.0023214002139866,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos017\FieldPos017_page_2.png,tbf_imgs
+2131,TBF,FieldPos017,0,0.0081470571458339,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos017\FieldPos017_page_3.png,tbf_imgs
+2132,TBF,FieldPos017,0,0.008114093914628,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos017\FieldPos017_page_7.png,tbf_imgs
+2133,TBF,FieldPos017,0,0.0022460136096924,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos017\FieldPos017_page_8.png,tbf_imgs
+2134,TBF,FieldPos017,0,0.0009662364027462,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos017\FieldPos017_page_9.png,tbf_imgs
+2234,TBF,FieldPos021,0,0.0098093263804912,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos021\FieldPos021_page_1.png,tbf_imgs
+2235,TBF,FieldPos021,0,0.0209649410098791,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos021\FieldPos021_page_10.png,tbf_imgs
+2236,TBF,FieldPos021,0,0.0078641511499881,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos021\FieldPos021_page_11.png,tbf_imgs
+2237,TBF,FieldPos021,0,0.0049316240474581,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos021\FieldPos021_page_12.png,tbf_imgs
+2238,TBF,FieldPos021,0,0.0026558395475149,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos021\FieldPos021_page_13.png,tbf_imgs
+2239,TBF,FieldPos021,0,0.0020194088574498,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos021\FieldPos021_page_14.png,tbf_imgs
+2240,TBF,FieldPos021,0,0.0212837699800729,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos021\FieldPos021_page_2.png,tbf_imgs
+2241,TBF,FieldPos021,0,0.1185654699802398,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos021\FieldPos021_page_3.png,tbf_imgs
+2242,TBF,FieldPos021,0,0.3264544308185577,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos021\FieldPos021_page_4.png,tbf_imgs
+2243,TBF,FieldPos021,0,0.7371187210083008,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos021\FieldPos021_page_5.png,tbf_imgs
+2244,TBF,FieldPos021,0,0.0984846800565719,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos021\FieldPos021_page_9.png,tbf_imgs
+2289,TBF,FieldPos026,0,5.645737473969348e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos026\FieldPos026_page_1.png,tbf_imgs
+2290,TBF,FieldPos026,0,0.1931295245885849,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos026\FieldPos026_page_10.png,tbf_imgs
+2291,TBF,FieldPos026,0,0.002470048610121,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos026\FieldPos026_page_11.png,tbf_imgs
+2292,TBF,FieldPos026,0,0.0003904470941051,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos026\FieldPos026_page_12.png,tbf_imgs
+2293,TBF,FieldPos026,0,9.10337985260412e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos026\FieldPos026_page_13.png,tbf_imgs
+2294,TBF,FieldPos026,0,6.036400009179488e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos026\FieldPos026_page_14.png,tbf_imgs
+2295,TBF,FieldPos026,0,7.399539754260331e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos026\FieldPos026_page_2.png,tbf_imgs
+2296,TBF,FieldPos026,0,0.0001567092840559,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos026\FieldPos026_page_3.png,tbf_imgs
+2297,TBF,FieldPos026,0,0.0009079673909582,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos026\FieldPos026_page_4.png,tbf_imgs
+2298,TBF,FieldPos026,0,0.0163172427564859,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos026\FieldPos026_page_5.png,tbf_imgs
+2299,TBF,FieldPos026,0,0.4967077970504761,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos026\FieldPos026_page_6.png,tbf_imgs
+2454,TBF,FieldPos038 (2),0,0.0001430343691026,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos038 (2)\FieldPos038 (2)_page_1.png,tbf_imgs
+2455,TBF,FieldPos038 (2),0,0.0012227235129103,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos038 (2)\FieldPos038 (2)_page_10.png,tbf_imgs
+2456,TBF,FieldPos038 (2),0,0.0002698457974474,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos038 (2)\FieldPos038 (2)_page_11.png,tbf_imgs
+2457,TBF,FieldPos038 (2),0,7.800935418345034e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos038 (2)\FieldPos038 (2)_page_12.png,tbf_imgs
+2458,TBF,FieldPos038 (2),0,5.922678246861324e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos038 (2)\FieldPos038 (2)_page_13.png,tbf_imgs
+2459,TBF,FieldPos038 (2),0,4.7500026994384825e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos038 (2)\FieldPos038 (2)_page_14.png,tbf_imgs
+2460,TBF,FieldPos038 (2),0,0.0007405748474411,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos038 (2)\FieldPos038 (2)_page_2.png,tbf_imgs
+2461,TBF,FieldPos038 (2),0,0.0043702814728021,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos038 (2)\FieldPos038 (2)_page_3.png,tbf_imgs
+2462,TBF,FieldPos038 (2),0,0.2982628345489502,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos038 (2)\FieldPos038 (2)_page_4.png,tbf_imgs
+2463,TBF,FieldPos038 (2),0,0.8867051601409912,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos038 (2)\FieldPos038 (2)_page_5.png,tbf_imgs
+2464,TBF,FieldPos038 (2),0,0.0128463916480541,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos038 (2)\FieldPos038 (2)_page_9.png,tbf_imgs
+2707,TBF,FieldPos055 (2),0,0.0065468517132103,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos055 (2)\FieldPos055 (2)_page_1.png,tbf_imgs
+2708,TBF,FieldPos055 (2),0,0.2551434636116028,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos055 (2)\FieldPos055 (2)_page_10.png,tbf_imgs
+2709,TBF,FieldPos055 (2),0,0.0663301423192024,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos055 (2)\FieldPos055 (2)_page_11.png,tbf_imgs
+2710,TBF,FieldPos055 (2),0,0.0266674757003784,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos055 (2)\FieldPos055 (2)_page_12.png,tbf_imgs
+2711,TBF,FieldPos055 (2),0,0.0106333615258336,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos055 (2)\FieldPos055 (2)_page_13.png,tbf_imgs
+2712,TBF,FieldPos055 (2),0,0.0063429167494177,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos055 (2)\FieldPos055 (2)_page_14.png,tbf_imgs
+2713,TBF,FieldPos055 (2),0,0.0105761168524622,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos055 (2)\FieldPos055 (2)_page_2.png,tbf_imgs
+2714,TBF,FieldPos055 (2),0,0.0216430854052305,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos055 (2)\FieldPos055 (2)_page_3.png,tbf_imgs
+2715,TBF,FieldPos055 (2),0,0.0520860850811004,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos055 (2)\FieldPos055 (2)_page_4.png,tbf_imgs
+2716,TBF,FieldPos055 (2),0,0.1830800026655197,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos055 (2)\FieldPos055 (2)_page_5.png,tbf_imgs
+2717,TBF,FieldPos055 (2),0,0.7506678104400635,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos055 (2)\FieldPos055 (2)_page_6.png,tbf_imgs
+2762,TBF,FieldPos060,0,0.0003341517876833,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos060\FieldPos060_page_1.png,tbf_imgs
+2763,TBF,FieldPos060,0,0.0010258430847898,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos060\FieldPos060_page_10.png,tbf_imgs
+2764,TBF,FieldPos060,0,0.000292792712571,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos060\FieldPos060_page_11.png,tbf_imgs
+2765,TBF,FieldPos060,0,0.0001388716336805,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos060\FieldPos060_page_12.png,tbf_imgs
+2766,TBF,FieldPos060,0,0.0001031296415021,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos060\FieldPos060_page_13.png,tbf_imgs
+2767,TBF,FieldPos060,0,9.853675874182954e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos060\FieldPos060_page_14.png,tbf_imgs
+2768,TBF,FieldPos060,0,0.0013102807570248,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos060\FieldPos060_page_2.png,tbf_imgs
+2769,TBF,FieldPos060,0,0.0240495968610048,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos060\FieldPos060_page_3.png,tbf_imgs
+2770,TBF,FieldPos060,0,0.4639627039432525,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos060\FieldPos060_page_4.png,tbf_imgs
+2771,TBF,FieldPos060,0,0.925686240196228,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos060\FieldPos060_page_5.png,tbf_imgs
+2772,TBF,FieldPos060,0,0.0173453222960233,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos060\FieldPos060_page_9.png,tbf_imgs
+2883,TBF,FieldPos068,0,0.0136850094422698,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos068\FieldPos068_page_1.png,tbf_imgs
+2884,TBF,FieldPos068,0,0.0175043474882841,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos068\FieldPos068_page_10.png,tbf_imgs
+2885,TBF,FieldPos068,0,0.0046858815476298,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos068\FieldPos068_page_11.png,tbf_imgs
+2886,TBF,FieldPos068,0,0.0019488065736368,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos068\FieldPos068_page_12.png,tbf_imgs
+2887,TBF,FieldPos068,0,0.0009629425476305,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos068\FieldPos068_page_13.png,tbf_imgs
+2888,TBF,FieldPos068,0,0.0005280445329844,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos068\FieldPos068_page_14.png,tbf_imgs
+2889,TBF,FieldPos068,0,0.0675006508827209,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos068\FieldPos068_page_2.png,tbf_imgs
+2890,TBF,FieldPos068,0,0.4670725464820862,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos068\FieldPos068_page_3.png,tbf_imgs
+2891,TBF,FieldPos068,0,0.933551549911499,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos068\FieldPos068_page_4.png,tbf_imgs
+2892,TBF,FieldPos068,0,0.9844754338264464,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos068\FieldPos068_page_5.png,tbf_imgs
+2893,TBF,FieldPos068,0,0.1150269955396652,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos068\FieldPos068_page_9.png,tbf_imgs
+2960,TBF,FieldPos076,0,0.0009119039750657,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos076\FieldPos076_page_1.png,tbf_imgs
+2961,TBF,FieldPos076,0,0.0001359786110697,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos076\FieldPos076_page_10.png,tbf_imgs
+2962,TBF,FieldPos076,0,0.0001119604639825,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos076\FieldPos076_page_11.png,tbf_imgs
+2963,TBF,FieldPos076,0,9.240960207534954e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos076\FieldPos076_page_12.png,tbf_imgs
+2964,TBF,FieldPos076,0,9.591024718247354e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos076\FieldPos076_page_13.png,tbf_imgs
+2965,TBF,FieldPos076,0,9.629377018427476e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos076\FieldPos076_page_14.png,tbf_imgs
+2966,TBF,FieldPos076,0,0.0079785948619246,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos076\FieldPos076_page_2.png,tbf_imgs
+2967,TBF,FieldPos076,0,0.6476173996925354,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos076\FieldPos076_page_3.png,tbf_imgs
+2968,TBF,FieldPos076,0,0.018697215244174,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos076\FieldPos076_page_7.png,tbf_imgs
+2969,TBF,FieldPos076,0,0.0012284202966839,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos076\FieldPos076_page_8.png,tbf_imgs
+2970,TBF,FieldPos076,0,0.0002656514116097,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos076\FieldPos076_page_9.png,tbf_imgs
+2971,TBF,FieldPos077,0,0.0027320175431668,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos077\FieldPos077_page_1.png,tbf_imgs
+2972,TBF,FieldPos077,0,0.0001085271433112,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos077\FieldPos077_page_10.png,tbf_imgs
+2973,TBF,FieldPos077,0,6.924533226992935e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos077\FieldPos077_page_11.png,tbf_imgs
+2974,TBF,FieldPos077,0,5.856892312294804e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos077\FieldPos077_page_12.png,tbf_imgs
+2975,TBF,FieldPos077,0,6.531398685183376e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos077\FieldPos077_page_13.png,tbf_imgs
+2976,TBF,FieldPos077,0,7.124357944121584e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos077\FieldPos077_page_14.png,tbf_imgs
+2977,TBF,FieldPos077,0,0.1275951415300369,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos077\FieldPos077_page_2.png,tbf_imgs
+2978,TBF,FieldPos077,0,0.9653136134147644,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos077\FieldPos077_page_3.png,tbf_imgs
+2979,TBF,FieldPos077,0,0.297227144241333,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos077\FieldPos077_page_7.png,tbf_imgs
+2980,TBF,FieldPos077,0,0.0068651591427624,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos077\FieldPos077_page_8.png,tbf_imgs
+2981,TBF,FieldPos077,0,0.0004740436561405,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos077\FieldPos077_page_9.png,tbf_imgs
+3114,TBF,FieldPos089,0,0.0002893028431572,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos089\FieldPos089_page_1.png,tbf_imgs
+3115,TBF,FieldPos089,0,0.0004116690543014,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos089\FieldPos089_page_10.png,tbf_imgs
+3116,TBF,FieldPos089,0,0.0001418651372659,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos089\FieldPos089_page_11.png,tbf_imgs
+3117,TBF,FieldPos089,0,9.604369552107528e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos089\FieldPos089_page_12.png,tbf_imgs
+3118,TBF,FieldPos089,0,8.163960592355579e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos089\FieldPos089_page_13.png,tbf_imgs
+3119,TBF,FieldPos089,0,7.149021257646382e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos089\FieldPos089_page_14.png,tbf_imgs
+3120,TBF,FieldPos089,0,0.0017096144147217,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos089\FieldPos089_page_2.png,tbf_imgs
+3121,TBF,FieldPos089,0,0.0129445036873221,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos089\FieldPos089_page_3.png,tbf_imgs
+3122,TBF,FieldPos089,0,0.0631236210465431,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos089\FieldPos089_page_4.png,tbf_imgs
+3123,TBF,FieldPos089,0,0.0176746379584074,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos089\FieldPos089_page_8.png,tbf_imgs
+3124,TBF,FieldPos089,0,0.0018881127471104,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos089\FieldPos089_page_9.png,tbf_imgs
+3213,TBF,FieldPos097,0,0.0009386176243424,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos097\FieldPos097_page_1.png,tbf_imgs
+3214,TBF,FieldPos097,0,0.0001736507256282,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos097\FieldPos097_page_10.png,tbf_imgs
+3215,TBF,FieldPos097,0,0.0001094003455364,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos097\FieldPos097_page_11.png,tbf_imgs
+3216,TBF,FieldPos097,0,8.873443584889174e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos097\FieldPos097_page_12.png,tbf_imgs
+3217,TBF,FieldPos097,0,7.016923336777836e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos097\FieldPos097_page_13.png,tbf_imgs
+3218,TBF,FieldPos097,0,7.429165270878002e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos097\FieldPos097_page_14.png,tbf_imgs
+3219,TBF,FieldPos097,0,0.0080950893461704,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos097\FieldPos097_page_2.png,tbf_imgs
+3220,TBF,FieldPos097,0,0.3953149616718292,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos097\FieldPos097_page_3.png,tbf_imgs
+3221,TBF,FieldPos097,0,0.8075470924377441,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos097\FieldPos097_page_4.png,tbf_imgs
+3222,TBF,FieldPos097,0,0.0018759740050882,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos097\FieldPos097_page_8.png,tbf_imgs
+3223,TBF,FieldPos097,0,0.0003928815131075,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos097\FieldPos097_page_9.png,tbf_imgs
+3268,TBF,FieldPos102,0,8.781730866758153e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos102\FieldPos102_page_1.png,tbf_imgs
+3269,TBF,FieldPos102,0,0.0060283262282609,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos102\FieldPos102_page_10.png,tbf_imgs
+3270,TBF,FieldPos102,0,0.0005345893441699,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos102\FieldPos102_page_11.png,tbf_imgs
+3271,TBF,FieldPos102,0,0.0001308346400037,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos102\FieldPos102_page_12.png,tbf_imgs
+3272,TBF,FieldPos102,0,7.565948908450082e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos102\FieldPos102_page_13.png,tbf_imgs
+3273,TBF,FieldPos102,0,5.559093551710248e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos102\FieldPos102_page_14.png,tbf_imgs
+3274,TBF,FieldPos102,0,0.0001962670212378,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos102\FieldPos102_page_2.png,tbf_imgs
+3275,TBF,FieldPos102,0,0.0009442011360079,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos102\FieldPos102_page_3.png,tbf_imgs
+3276,TBF,FieldPos102,0,0.0096798157319426,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos102\FieldPos102_page_4.png,tbf_imgs
+3277,TBF,FieldPos102,0,0.0777598917484283,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos102\FieldPos102_page_5.png,tbf_imgs
+3278,TBF,FieldPos102,0,0.0539326593279838,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos102\FieldPos102_page_9.png,tbf_imgs
+3422,TBF,FieldPos115,0,0.2448117136955261,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos115\FieldPos115_page_1.png,tbf_imgs
+3423,TBF,FieldPos115,0,0.0008631244418211,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos115\FieldPos115_page_10.png,tbf_imgs
+3424,TBF,FieldPos115,0,0.0002732301654759,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos115\FieldPos115_page_11.png,tbf_imgs
+3425,TBF,FieldPos115,0,0.0001716103142825,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos115\FieldPos115_page_12.png,tbf_imgs
+3426,TBF,FieldPos115,0,0.0001219526311615,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos115\FieldPos115_page_13.png,tbf_imgs
+3427,TBF,FieldPos115,0,0.0001255943789146,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos115\FieldPos115_page_14.png,tbf_imgs
+3428,TBF,FieldPos115,0,0.9471624493598938,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos115\FieldPos115_page_2.png,tbf_imgs
+3429,TBF,FieldPos115,0,0.9937559962272644,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos115\FieldPos115_page_3.png,tbf_imgs
+3430,TBF,FieldPos115,0,0.9338003993034364,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos115\FieldPos115_page_7.png,tbf_imgs
+3431,TBF,FieldPos115,0,0.1645102649927139,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos115\FieldPos115_page_8.png,tbf_imgs
+3432,TBF,FieldPos115,0,0.0063385730609297,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos115\FieldPos115_page_9.png,tbf_imgs
+3444,TBF,FieldPos123,0,0.0881056189537048,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_1.png,tbf_imgs
+3445,TBF,FieldPos123,0,0.0093990070745348,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_10.png,tbf_imgs
+3446,TBF,FieldPos123,0,0.0051662558689713,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_11.png,tbf_imgs
+3447,TBF,FieldPos123,0,0.0034390562213957,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_12.png,tbf_imgs
+3448,TBF,FieldPos123,0,0.0023875590413808,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_13.png,tbf_imgs
+3449,TBF,FieldPos123,0,0.0020163122098892,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_14.png,tbf_imgs
+3450,TBF,FieldPos123,0,0.4743843376636505,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_2.png,tbf_imgs
+3451,TBF,FieldPos123,0,0.8087871670722961,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_3.png,tbf_imgs
+3452,TBF,FieldPos123,0,0.7311503291130066,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_7.png,tbf_imgs
+3453,TBF,FieldPos123,0,0.3637996017932892,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_8.png,tbf_imgs
+3454,TBF,FieldPos123,0,0.0659753456711769,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos123\FieldPos123_page_9.png,tbf_imgs
+3455,TBF,FieldPos125,0,0.0003488213405944,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos125\FieldPos125_page_1.png,tbf_imgs
+3456,TBF,FieldPos125,0,0.000231347803492,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos125\FieldPos125_page_10.png,tbf_imgs
+3457,TBF,FieldPos125,0,0.0001017645263345,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos125\FieldPos125_page_11.png,tbf_imgs
+3458,TBF,FieldPos125,0,6.764956197002903e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos125\FieldPos125_page_12.png,tbf_imgs
+3459,TBF,FieldPos125,0,5.707100353902206e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos125\FieldPos125_page_13.png,tbf_imgs
+3460,TBF,FieldPos125,0,5.13535451318603e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos125\FieldPos125_page_14.png,tbf_imgs
+3461,TBF,FieldPos125,0,0.0010923439403995,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos125\FieldPos125_page_2.png,tbf_imgs
+3462,TBF,FieldPos125,0,0.0045997807756066,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos125\FieldPos125_page_3.png,tbf_imgs
+3463,TBF,FieldPos125,0,0.0403381772339344,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos125\FieldPos125_page_4.png,tbf_imgs
+3464,TBF,FieldPos125,0,0.3475790917873382,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos125\FieldPos125_page_5.png,tbf_imgs
+3465,TBF,FieldPos125,0,0.0008038334781304,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\tbf_imgs\unfocused\FieldPos125\FieldPos125_page_9.png,tbf_imgs
+3522,TBSI,HH10,1,0.9887226223945618,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HH10\HH10 (6).JPG,TBSI
+3525,TBSI,HH4,1,0.7451415061950684,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HH4\HH4 (6).JPG,TBSI
+3530,TBSI,HH9,1,0.9991546869277954,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HH9\HH9 (6).JPG,TBSI
+3532,TBSI,HL10,1,0.9730777144432068,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\focused\HL10\HL10 (6).JPG,TBSI
+3558,TBSI,HH10,0,9.705514094093814e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH10\HH10 (1).JPG,TBSI
+3559,TBSI,HH10,0,0.0001013951768982,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH10\HH10 (10).JPG,TBSI
+3560,TBSI,HH10,0,7.894494774518535e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH10\HH10 (2).JPG,TBSI
+3561,TBSI,HH10,0,0.0001203973879455,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH10\HH10 (3).JPG,TBSI
+3562,TBSI,HH10,0,0.0001143796034739,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH10\HH10 (4).JPG,TBSI
+3563,TBSI,HH10,0,0.0001283089368371,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH10\HH10 (8).JPG,TBSI
+3564,TBSI,HH10,0,7.557469507446513e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH10\HH10 (9).JPG,TBSI
+3579,TBSI,HH4,0,6.543641939060763e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH4\HH4 (1).JPG,TBSI
+3580,TBSI,HH4,0,6.18366029812023e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH4\HH4 (10).JPG,TBSI
+3581,TBSI,HH4,0,0.0001233084767591,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH4\HH4 (2).JPG,TBSI
+3582,TBSI,HH4,0,0.000106291125121,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH4\HH4 (3).JPG,TBSI
+3583,TBSI,HH4,0,0.0002458771923556,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH4\HH4 (4).JPG,TBSI
+3584,TBSI,HH4,0,0.0360638014972209,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH4\HH4 (8).JPG,TBSI
+3585,TBSI,HH4,0,0.0001934166648425,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH4\HH4 (9).JPG,TBSI
+3614,TBSI,HH9,0,8.635220729047433e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH9\HH9 (1).JPG,TBSI
+3615,TBSI,HH9,0,7.714566891081631e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH9\HH9 (10).JPG,TBSI
+3616,TBSI,HH9,0,7.045943493722007e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH9\HH9 (2).JPG,TBSI
+3617,TBSI,HH9,0,7.267399632837623e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH9\HH9 (3).JPG,TBSI
+3618,TBSI,HH9,0,0.0001720089057926,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH9\HH9 (4).JPG,TBSI
+3619,TBSI,HH9,0,0.2504313290119171,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH9\HH9 (8).JPG,TBSI
+3620,TBSI,HH9,0,0.0001141647226177,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HH9\HH9 (9).JPG,TBSI
+3628,TBSI,HL10,0,0.0003960479516535,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (1).JPG,TBSI
+3629,TBSI,HL10,0,0.000324057531543,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (10).JPG,TBSI
+3630,TBSI,HL10,0,0.0003960479516535,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (2).JPG,TBSI
+3631,TBSI,HL10,0,0.0005139569402672,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (3).JPG,TBSI
+3632,TBSI,HL10,0,0.0088605359196662,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (4).JPG,TBSI
+3633,TBSI,HL10,0,0.0010666695889085,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (8).JPG,TBSI
+3634,TBSI,HL10,0,0.000537508924026,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\TBSI\unfocused\HL10\HL10 (9).JPG,TBSI
+3784,WBC,119,1,0.9930576086044312,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\119\119_6.jpg,wbc
+3786,WBC,120,1,0.9952011704444884,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\120\120_5.jpg,wbc
+3789,WBC,123,1,0.9995591640472412,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\123\123_6.jpg,wbc
+3797,WBC,130,1,0.5551854372024536,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\130\130_6.jpg,wbc
+3799,WBC,132,1,0.9996598362922668,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\132\132_6.jpg,wbc
+3803,WBC,136,1,0.982543170452118,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\136\136_5.jpg,wbc
+3806,WBC,139,1,0.9994836449623108,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\139\139_5.jpg,wbc
+3814,WBC,146,1,0.9962103366851808,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\146\146_6.jpg,wbc
+3821,WBC,17,1,0.9976055026054382,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\17\17_5.jpg,wbc
+3834,WBC,29,1,0.998448371887207,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\29\29_6.jpg,wbc
+3846,WBC,4,1,0.9325841665267944,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\4\4_6.jpg,wbc
+3853,WBC,46,1,0.9179388284683228,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\46\46_6.jpg,wbc
+3854,WBC,47,1,0.605087161064148,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\47\47_6.jpg,wbc
+3857,WBC,5,1,0.9074787497520448,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\5\5_6.jpg,wbc
+3859,WBC,51,1,0.99880713224411,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\51\51_6.jpg,wbc
+3876,WBC,67,1,0.9984091520309448,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\67\67_6.jpg,wbc
+3877,WBC,68,1,0.9997604489326476,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\68\68_6.jpg,wbc
+3887,WBC,77,1,0.9994330406188964,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\77\77_6.jpg,wbc
+3891,WBC,80,1,0.9975520372390748,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\80\80_6.jpg,wbc
+3896,WBC,85,1,0.99944007396698,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\85\85_6.jpg,wbc
+3897,WBC,86,1,0.8715928792953491,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\86\86_6.jpg,wbc
+3905,WBC,93,1,0.9995145797729492,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\93\93_5.jpg,wbc
+3909,WBC,97,1,0.9995410442352296,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\focused\97\97_5.jpg,wbc
+4073,WBC,119,0,4.978204015060328e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\119\119_0.jpg,wbc
+4074,WBC,119,0,0.0001000447300611,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\119\119_1.jpg,wbc
+4075,WBC,119,0,0.0002659255987964,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\119\119_2.jpg,wbc
+4076,WBC,119,0,0.0001941096707014,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\119\119_3.jpg,wbc
+4077,WBC,119,0,0.0004151290922891,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\119\119_4.jpg,wbc
+4078,WBC,119,0,0.0015047236811369,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\119\119_8.jpg,wbc
+4079,WBC,119,0,8.811475709080696e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\119\119_9.jpg,wbc
+4087,WBC,120,0,8.735318260733038e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\120\120_0.jpg,wbc
+4088,WBC,120,0,0.0001230981724802,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\120\120_1.jpg,wbc
+4089,WBC,120,0,0.0025667485315352,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\120\120_2.jpg,wbc
+4090,WBC,120,0,0.0399214029312133,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\120\120_3.jpg,wbc
+4091,WBC,120,0,0.0022919888142496,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\120\120_7.jpg,wbc
+4092,WBC,120,0,0.0001960248191608,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\120\120_8.jpg,wbc
+4093,WBC,120,0,4.600145621225238e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\120\120_9.jpg,wbc
+4108,WBC,123,0,3.523308987496421e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\123\123_0.jpg,wbc
+4109,WBC,123,0,4.018675463157706e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\123\123_1.jpg,wbc
+4110,WBC,123,0,0.0001192556810565,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\123\123_2.jpg,wbc
+4111,WBC,123,0,0.0008990030619315,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\123\123_3.jpg,wbc
+4112,WBC,123,0,0.0175648815929889,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\123\123_4.jpg,wbc
+4113,WBC,123,0,0.0102538811042904,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\123\123_8.jpg,wbc
+4114,WBC,123,0,0.0003321800031699,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\123\123_9.jpg,wbc
+4164,WBC,130,0,4.012131466879509e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_0.jpg,wbc
+4165,WBC,130,0,5.681318361894228e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_1.jpg,wbc
+4166,WBC,130,0,9.845505701377988e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_2.jpg,wbc
+4167,WBC,130,0,0.000287635368295,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_3.jpg,wbc
+4168,WBC,130,0,0.0417373515665531,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_4.jpg,wbc
+4169,WBC,130,0,8.381234511034563e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_8.jpg,wbc
+4170,WBC,130,0,4.03153826482594e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\130\130_9.jpg,wbc
+4178,WBC,132,0,9.98515315586701e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\132\132_0.jpg,wbc
+4179,WBC,132,0,5.710988261853345e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\132\132_1.jpg,wbc
+4180,WBC,132,0,0.0002420876262476,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\132\132_2.jpg,wbc
+4181,WBC,132,0,0.0010115476325154,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\132\132_3.jpg,wbc
+4182,WBC,132,0,0.0031964227091521,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\132\132_4.jpg,wbc
+4183,WBC,132,0,0.1091580688953399,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\132\132_8.jpg,wbc
+4184,WBC,132,0,0.0002857894578482,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\132\132_9.jpg,wbc
+4206,WBC,136,0,5.018639421905391e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\136\136_0.jpg,wbc
+4207,WBC,136,0,0.0001600190007593,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\136\136_1.jpg,wbc
+4208,WBC,136,0,0.0001184000939247,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\136\136_2.jpg,wbc
+4209,WBC,136,0,0.0001248171465704,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\136\136_3.jpg,wbc
+4210,WBC,136,0,0.0002757766342256,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\136\136_7.jpg,wbc
+4211,WBC,136,0,7.284717867150903e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\136\136_8.jpg,wbc
+4212,WBC,136,0,4.13391062465962e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\136\136_9.jpg,wbc
+4227,WBC,139,0,3.154474688926712e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\139\139_0.jpg,wbc
+4228,WBC,139,0,4.5201406464912e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\139\139_1.jpg,wbc
+4229,WBC,139,0,5.129383498569951e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\139\139_2.jpg,wbc
+4230,WBC,139,0,9.307916479883716e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\139\139_3.jpg,wbc
+4231,WBC,139,0,0.8057199120521545,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\139\139_7.jpg,wbc
+4232,WBC,139,0,0.0002136785915354,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\139\139_8.jpg,wbc
+4233,WBC,139,0,5.287441672408022e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\139\139_9.jpg,wbc
+4283,WBC,146,0,4.247914330335334e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\146\146_0.jpg,wbc
+4284,WBC,146,0,5.05960088048596e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\146\146_1.jpg,wbc
+4285,WBC,146,0,5.510430128197186e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\146\146_2.jpg,wbc
+4286,WBC,146,0,6.604546797461808e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\146\146_3.jpg,wbc
+4287,WBC,146,0,0.0003654686152003,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\146\146_4.jpg,wbc
+4288,WBC,146,0,0.0006304880371317,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\146\146_8.jpg,wbc
+4289,WBC,146,0,7.272834773175418e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\146\146_9.jpg,wbc
+4332,WBC,17,0,0.0001647266326472,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\17\17_0.jpg,wbc
+4333,WBC,17,0,0.0002396838972344,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\17\17_1.jpg,wbc
+4334,WBC,17,0,0.0023281124886125,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\17\17_2.jpg,wbc
+4335,WBC,17,0,0.0026529890019446,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\17\17_3.jpg,wbc
+4336,WBC,17,0,0.0092034013941884,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\17\17_7.jpg,wbc
+4337,WBC,17,0,0.0001071743463398,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\17\17_8.jpg,wbc
+4338,WBC,17,0,3.565992301446386e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\17\17_9.jpg,wbc
+4423,WBC,29,0,6.32454757578671e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_0.jpg,wbc
+4424,WBC,29,0,7.685753371333703e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_1.jpg,wbc
+4425,WBC,29,0,0.00027680103085,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_2.jpg,wbc
+4426,WBC,29,0,0.0015240520006045,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_3.jpg,wbc
+4427,WBC,29,0,0.5404168367385864,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_4.jpg,wbc
+4428,WBC,29,0,0.0356107167899608,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_8.jpg,wbc
+4429,WBC,29,0,0.0001324865443166,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\29\29_9.jpg,wbc
+4507,WBC,4,0,5.0778038712451234e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\4\4_0.jpg,wbc
+4508,WBC,4,0,5.151462028152309e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\4\4_1.jpg,wbc
+4509,WBC,4,0,0.0001054223321261,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\4\4_2.jpg,wbc
+4510,WBC,4,0,0.0001091111334972,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\4\4_3.jpg,wbc
+4511,WBC,4,0,0.0411202199757099,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\4\4_4.jpg,wbc
+4512,WBC,4,0,0.0003010962100233,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\4\4_8.jpg,wbc
+4513,WBC,4,0,6.305553688434884e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\4\4_9.jpg,wbc
+4556,WBC,46,0,0.001009693252854,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_0.jpg,wbc
+4557,WBC,46,0,0.0001407019881298,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_1.jpg,wbc
+4558,WBC,46,0,0.0007726582116447,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_2.jpg,wbc
+4559,WBC,46,0,0.0044737793505191,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_3.jpg,wbc
+4560,WBC,46,0,0.3476622998714447,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_4.jpg,wbc
+4561,WBC,46,0,0.0007497243350371,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_8.jpg,wbc
+4562,WBC,46,0,8.794511086307466e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\46\46_9.jpg,wbc
+4563,WBC,47,0,4.662186620407738e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\47\47_0.jpg,wbc
+4564,WBC,47,0,4.237451867084019e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\47\47_1.jpg,wbc
+4565,WBC,47,0,5.844617771799676e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\47\47_2.jpg,wbc
+4566,WBC,47,0,7.440324407070875e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\47\47_3.jpg,wbc
+4567,WBC,47,0,6.0961108829360455e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\47\47_4.jpg,wbc
+4568,WBC,47,0,0.0001747634960338,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\47\47_8.jpg,wbc
+4569,WBC,47,0,7.735856343060732e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\47\47_9.jpg,wbc
+4584,WBC,5,0,5.57097046112176e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_0.jpg,wbc
+4585,WBC,5,0,4.296677798265591e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_1.jpg,wbc
+4586,WBC,5,0,5.320658237906173e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_2.jpg,wbc
+4587,WBC,5,0,5.8649569837143645e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_3.jpg,wbc
+4588,WBC,5,0,0.0010427167871966,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_4.jpg,wbc
+4589,WBC,5,0,0.0001460393104935,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_8.jpg,wbc
+4590,WBC,5,0,0.0001328592334175,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\5\5_9.jpg,wbc
+4598,WBC,51,0,9.033973037730902e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\51\51_0.jpg,wbc
+4599,WBC,51,0,6.034321995684877e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\51\51_1.jpg,wbc
+4600,WBC,51,0,6.69484434183687e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\51\51_2.jpg,wbc
+4601,WBC,51,0,9.318591764895244e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\51\51_3.jpg,wbc
+4602,WBC,51,0,0.0552910827100276,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\51\51_4.jpg,wbc
+4603,WBC,51,0,0.0035761152394115,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\51\51_8.jpg,wbc
+4604,WBC,51,0,0.0001337638241238,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\51\51_9.jpg,wbc
+4717,WBC,67,0,5.011838584323414e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\67\67_0.jpg,wbc
+4718,WBC,67,0,5.678751404047944e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\67\67_1.jpg,wbc
+4719,WBC,67,0,0.0001228074397658,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\67\67_2.jpg,wbc
+4720,WBC,67,0,0.0001587263977853,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\67\67_3.jpg,wbc
+4721,WBC,67,0,0.0004850235709454,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\67\67_4.jpg,wbc
+4722,WBC,67,0,0.712835967540741,1,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\67\67_8.jpg,wbc
+4723,WBC,67,0,0.0001737467973725,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\67\67_9.jpg,wbc
+4724,WBC,68,0,4.802852708962746e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\68\68_0.jpg,wbc
+4725,WBC,68,0,0.0002038218808593,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\68\68_1.jpg,wbc
+4726,WBC,68,0,5.492618220159784e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\68\68_2.jpg,wbc
+4727,WBC,68,0,0.0004219097609166,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\68\68_3.jpg,wbc
+4728,WBC,68,0,0.0056717554107308,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\68\68_4.jpg,wbc
+4729,WBC,68,0,0.0004510074504651,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\68\68_8.jpg,wbc
+4730,WBC,68,0,5.524905645870604e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\68\68_9.jpg,wbc
+4794,WBC,77,0,6.442789890570566e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\77\77_0.jpg,wbc
+4795,WBC,77,0,0.0001292509259656,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\77\77_1.jpg,wbc
+4796,WBC,77,0,0.0001580657844897,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\77\77_2.jpg,wbc
+4797,WBC,77,0,9.635613969294354e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\77\77_3.jpg,wbc
+4798,WBC,77,0,0.0003058506408706,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\77\77_4.jpg,wbc
+4799,WBC,77,0,0.0043835574761033,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\77\77_8.jpg,wbc
+4800,WBC,77,0,0.000202573952265,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\77\77_9.jpg,wbc
+4822,WBC,80,0,4.789935701410286e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\80\80_0.jpg,wbc
+4823,WBC,80,0,0.0001283182355109,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\80\80_1.jpg,wbc
+4824,WBC,80,0,0.0002569468924775,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\80\80_2.jpg,wbc
+4825,WBC,80,0,0.0005766595131717,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\80\80_3.jpg,wbc
+4826,WBC,80,0,0.0932453274726867,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\80\80_4.jpg,wbc
+4827,WBC,80,0,0.0016760084545239,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\80\80_8.jpg,wbc
+4828,WBC,80,0,0.0003018322749994,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\80\80_9.jpg,wbc
+4857,WBC,85,0,4.569709926727228e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\85\85_0.jpg,wbc
+4858,WBC,85,0,4.75362285214942e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\85\85_1.jpg,wbc
+4859,WBC,85,0,4.661088314605877e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\85\85_2.jpg,wbc
+4860,WBC,85,0,0.0001214840740431,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\85\85_3.jpg,wbc
+4861,WBC,85,0,0.0088260378688573,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\85\85_4.jpg,wbc
+4862,WBC,85,0,0.0005306614330038,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\85\85_8.jpg,wbc
+4863,WBC,85,0,5.170316217117943e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\85\85_9.jpg,wbc
+4864,WBC,86,0,9.786769078345968e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\86\86_0.jpg,wbc
+4865,WBC,86,0,7.037751493044198e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\86\86_1.jpg,wbc
+4866,WBC,86,0,0.0001468184054829,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\86\86_2.jpg,wbc
+4867,WBC,86,0,0.0001262085716007,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\86\86_3.jpg,wbc
+4868,WBC,86,0,0.0009252821910195,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\86\86_4.jpg,wbc
+4869,WBC,86,0,0.0004667877510655,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\86\86_8.jpg,wbc
+4870,WBC,86,0,0.0001100203007808,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\86\86_9.jpg,wbc
+4920,WBC,93,0,8.141515718307346e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\93\93_0.jpg,wbc
+4921,WBC,93,0,0.0001159400126198,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\93\93_1.jpg,wbc
+4922,WBC,93,0,0.0008476759539917,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\93\93_2.jpg,wbc
+4923,WBC,93,0,0.0051435534842312,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\93\93_3.jpg,wbc
+4924,WBC,93,0,0.0438521988689899,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\93\93_7.jpg,wbc
+4925,WBC,93,0,0.000262192566879,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\93\93_8.jpg,wbc
+4926,WBC,93,0,7.736911356914788e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\93\93_9.jpg,wbc
+4948,WBC,97,0,0.0001145605856436,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_0.jpg,wbc
+4949,WBC,97,0,0.0007610999164171,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_1.jpg,wbc
+4950,WBC,97,0,0.0002751481661107,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_2.jpg,wbc
+4951,WBC,97,0,0.0004605152644217,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_3.jpg,wbc
+4952,WBC,97,0,0.0003745145513676,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_7.jpg,wbc
+4953,WBC,97,0,5.059996692580171e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_8.jpg,wbc
+4954,WBC,97,0,2.9619370252476077e-05,0,hybrid_vit,Hybrid ViT,,val,D:\Dineth\focus_binary_benchmark\dataset\wbc\unfocused\97\97_9.jpg,wbc

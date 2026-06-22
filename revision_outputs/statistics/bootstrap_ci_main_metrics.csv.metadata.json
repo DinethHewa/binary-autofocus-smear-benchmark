@@ -1,0 +1,36 @@
+{
+  "auc_difference_method": "paired bootstrap",
+  "command_line_arguments": {
+    "config": "configs/bspc_revision.yaml",
+    "force": true
+  },
+  "config_hash": "55645e9dd21299c9cbee9f739681c1a9584e366d076b1aaa492b55db33389ae9",
+  "delong_used": false,
+  "git_commit_hash": null,
+  "input_file_modification_times": {
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\configs\\bspc_revision.yaml": 1777892121.6526253,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_classical_ml.csv": 1780041466.2563722,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_cnn.csv": 1780041465.4089434,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_cnn_attention.csv": 1780041465.5538766,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_cnn_focus_hybrid.csv": 1780041465.686247,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_focus_dnn.csv": 1780041465.9579625,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_hybrid_vit.csv": 1780041465.8483808,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_threshold_baselines.csv": 1780041466.4273193,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_transfer.csv": 1780041465.7809181,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_vit.csv": 1780041466.5458033
+  },
+  "input_files": [
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\configs\\bspc_revision.yaml",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_cnn.csv",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_cnn_attention.csv",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_cnn_focus_hybrid.csv",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_transfer.csv",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_hybrid_vit.csv",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_focus_dnn.csv",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_classical_ml.csv",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_threshold_baselines.csv",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\predictions\\test_predictions_vit.csv"
+  ],
+  "script_name": "09_statistical_analysis.py",
+  "timestamp": "2026-05-29T08:04:28.537856+00:00"
+}

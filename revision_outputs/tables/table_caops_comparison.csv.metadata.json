@@ -1,0 +1,20 @@
+{
+  "command_line_arguments": {
+    "config": "configs/bspc_revision.yaml",
+    "force": true
+  },
+  "config_hash": "55645e9dd21299c9cbee9f739681c1a9584e366d076b1aaa492b55db33389ae9",
+  "git_commit_hash": null,
+  "input_file_modification_times": {
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\configs\\bspc_revision.yaml": 1777892121.6526253,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\audit\\anomaly_audit_table.csv": 1779183828.2650714,
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\audit\\label_provenance_table.csv": 1779183830.0305116
+  },
+  "input_files": [
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\configs\\bspc_revision.yaml",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\audit\\label_provenance_table.csv",
+    "D:\\Dineth\\focus_binary_benchmark\\focus_binary_benchmark\\revision_outputs\\audit\\anomaly_audit_table.csv"
+  ],
+  "script_name": "11_make_paper_assets.py",
+  "timestamp": "2026-05-29T08:04:31.685558+00:00"
+}
